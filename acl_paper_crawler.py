@@ -32,6 +32,11 @@ class ACLPaperCrawler:
     
     BASE_URL = "https://aclanthology.org"
     
+    # Regex patterns for anthology ID validation
+    # Old format: N19-1423, P17-1001, W18-1234 (letter-year-number)
+    # New format: 2020.acl-main.1, 2021.findings-emnlp.123 (year.venue-session.paper)
+    ANTHOLOGY_ID_PATTERN = r'^([A-Z]\d{2}-\d+|\d{4}\.\w+[\-\.]\w+[\-\.]\d+)$'
+    
     def __init__(self, output_dir: str = "papers", delay: float = 1.0):
         """
         Initialize the ACL Paper Crawler.
@@ -150,8 +155,7 @@ class ACLPaperCrawler:
             if 'anthology_id' in paper_info:
                 papers.append(paper_info)
             # If citation key looks like an anthology ID, use it
-            # Supports old format (N19-1423, P17-1001) and new format (2020.acl-main.1)
-            elif 'citation_key' in paper_info and re.match(r'^([A-Z]\d{2}-\d+|\d{4}\.\w+[\-\.]\w+[\-\.]\d+)$', paper_info['citation_key']):
+            elif 'citation_key' in paper_info and re.match(self.ANTHOLOGY_ID_PATTERN, paper_info['citation_key']):
                 paper_info['anthology_id'] = paper_info['citation_key']
                 papers.append(paper_info)
         
@@ -173,9 +177,7 @@ class ACLPaperCrawler:
         # Create filename
         if title:
             # Clean title for filename - remove only filesystem-unsafe characters
-            clean_title = title.replace('/', '_').replace('\\', '_').replace(':', '_')
-            clean_title = clean_title.replace('*', '_').replace('?', '_').replace('"', '_')
-            clean_title = clean_title.replace('<', '_').replace('>', '_').replace('|', '_')
+            clean_title = re.sub(r'[/\\:*?"<>|]', '_', title)
             # Remove extra whitespace and limit length
             clean_title = re.sub(r'\s+', '_', clean_title)[:100]
             filename = f"{anthology_id}_{clean_title}.pdf"
@@ -194,8 +196,13 @@ class ACLPaperCrawler:
             response = self.session.get(pdf_url, timeout=30)
             
             if response.status_code == 200:
-                # Verify it's a PDF
-                if response.headers.get('Content-Type', '').startswith('application/pdf'):
+                # Verify it's a PDF by checking content type and magic number
+                content_type = response.headers.get('Content-Type', '')
+                is_pdf_content_type = content_type.startswith('application/pdf')
+                # Check for PDF magic number (%PDF)
+                is_pdf_magic = response.content[:4] == b'%PDF'
+                
+                if is_pdf_content_type or is_pdf_magic:
                     with open(output_path, 'wb') as f:
                         f.write(response.content)
                     print(f"  ✓ Saved: {filename}")
