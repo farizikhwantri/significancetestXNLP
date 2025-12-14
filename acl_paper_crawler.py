@@ -138,16 +138,20 @@ class ACLPaperCrawler:
                     if anthology_id:
                         paper_info['anthology_id'] = anthology_id
             
-            # Extract title
-            title_match = re.search(r'title\s*=\s*["{]([^"}]+)["}]', entry, re.IGNORECASE)
+            # Extract title (handle nested braces and quotes)
+            title_match = re.search(r'title\s*=\s*["{](.+?)["}]\s*[,\n]', entry, re.IGNORECASE | re.DOTALL)
             if title_match:
-                paper_info['title'] = title_match.group(1).strip()
+                title = title_match.group(1).strip()
+                # Remove LaTeX-style braces if present
+                title = re.sub(r'^\{(.+)\}$', r'\1', title)
+                paper_info['title'] = title
             
             # If we have an anthology ID, add to list
             if 'anthology_id' in paper_info:
                 papers.append(paper_info)
             # If citation key looks like an anthology ID, use it
-            elif 'citation_key' in paper_info and re.match(r'^\d{4}\.\w+\-\w+\.\d+$', paper_info['citation_key']):
+            # Supports old format (N19-1423, P17-1001) and new format (2020.acl-main.1)
+            elif 'citation_key' in paper_info and re.match(r'^([A-Z]\d{2}-\d+|\d{4}\.\w+[\-\.]\w+[\-\.]\d+)$', paper_info['citation_key']):
                 paper_info['anthology_id'] = paper_info['citation_key']
                 papers.append(paper_info)
         
@@ -168,9 +172,12 @@ class ACLPaperCrawler:
         
         # Create filename
         if title:
-            # Clean title for filename
-            clean_title = re.sub(r'[^\w\s\-]', '', title)
-            clean_title = re.sub(r'\s+', '_', clean_title)[:100]  # Limit length
+            # Clean title for filename - remove only filesystem-unsafe characters
+            clean_title = title.replace('/', '_').replace('\\', '_').replace(':', '_')
+            clean_title = clean_title.replace('*', '_').replace('?', '_').replace('"', '_')
+            clean_title = clean_title.replace('<', '_').replace('>', '_').replace('|', '_')
+            # Remove extra whitespace and limit length
+            clean_title = re.sub(r'\s+', '_', clean_title)[:100]
             filename = f"{anthology_id}_{clean_title}.pdf"
         else:
             filename = f"{anthology_id}.pdf"
