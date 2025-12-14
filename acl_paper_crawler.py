@@ -144,11 +144,11 @@ class ACLPaperCrawler:
                         paper_info['anthology_id'] = anthology_id
             
             # Extract title (handle nested braces and quotes)
-            title_match = re.search(r'title\s*=\s*["{](.+?)["}]\s*[,\n]', entry, re.IGNORECASE | re.DOTALL)
+            title_match = re.search(r'title\s*=\s*["{](.+?)["}]\s*[,\n}]', entry, re.IGNORECASE | re.DOTALL)
             if title_match:
                 title = title_match.group(1).strip()
-                # Remove LaTeX-style braces if present
-                title = re.sub(r'^\{(.+)\}$', r'\1', title)
+                # Remove outer LaTeX-style braces if present (non-greedy to avoid nested issues)
+                title = re.sub(r'^\{(.+?)\}$', r'\1', title)
                 paper_info['title'] = title
             
             # If we have an anthology ID, add to list
