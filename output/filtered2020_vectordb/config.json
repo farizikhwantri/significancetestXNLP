@@ -1,8 +1,0 @@
-{
-  "model_id": "sentence-transformers/allenai-specter",
-  "source_bib": "output/filtered_bibtex_since2020.bib",
-  "count": 1709,
-  "normalized": true,
-  "similarity": "cosine (inner product)",
-  "chunk_size": 500
-}
