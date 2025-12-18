@@ -11,12 +11,14 @@ Download papers from [ACL Anthology](https://aclanthology.org/) using bibtex ent
 ## Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/farizikhwantri/significancetestXNLP.git
 cd significancetestXNLP
 ```
 
-2. Install dependencies:
+1. Install dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
@@ -72,6 +74,7 @@ python acl_paper_crawler.py --input example_papers.bib --output papers/
 The crawler can extract anthology IDs from bibtex entries in several ways:
 
 1. **From URL field**: Extracts anthology ID from `url` field
+
 ```bibtex
 @inproceedings{example2020,
     title = "Example Paper",
@@ -80,7 +83,8 @@ The crawler can extract anthology IDs from bibtex entries in several ways:
 }
 ```
 
-2. **From DOI field**: Extracts anthology ID from `doi` field
+1. **From DOI field**: Extracts anthology ID from `doi` field
+
 ```bibtex
 @inproceedings{example2020,
     title = "Example Paper",
@@ -89,7 +93,8 @@ The crawler can extract anthology IDs from bibtex entries in several ways:
 }
 ```
 
-3. **From citation key**: Uses the citation key if it matches anthology ID pattern
+1. **From citation key**: Uses the citation key if it matches anthology ID pattern
+
 ```bibtex
 @inproceedings{2020.acl-main.1,
     title = "Example Paper",
@@ -97,7 +102,7 @@ The crawler can extract anthology IDs from bibtex entries in several ways:
 }
 ```
 
-## Features
+## Summary of Features
 
 - **Multiple input formats**: Support for bibtex files, URLs, and anthology IDs
 - **Respectful crawling**: Built-in delays between downloads to avoid overwhelming the server

@@ -1,0 +1,167 @@
+#!/usr/bin/env python3
+import argparse
+import re
+from pathlib import Path
+
+def read_text(path: Path) -> str:
+    return path.read_text(encoding="utf-8")
+
+def load_titles(path: Path):
+    # Extract the inner "..." from each filtered title line and build raw/normalized sets
+    titles_raw = set()
+    titles_norm = set()
+    pat = re.compile(r'"\s*(.*?)\s*"')
+    for line in path.read_text(encoding="utf-8").splitlines():
+        m = pat.search(line)
+        if not m:
+            continue
+        title = m.group(1).strip()
+        titles_raw.add(title)
+        titles_norm.add(normalize_title(title))
+    return titles_raw, titles_norm
+
+# def normalize_title(s: str) -> str:
+#     # Lowercase, remove braces, collapse whitespace, strip basic TeX commands
+#     s = re.sub(r'\\[a-zA-Z]+', ' ', s)       # drop simple \commands
+#     s = s.replace("{", "").replace("}", "")
+#     s = re.sub(r'\s+', ' ', s).strip().lower()
+#     return s
+
+def normalize_title(s: str) -> str:
+    # Drop LaTeX commands with alphabetic names (e.g., \textbf{...}, \url{...})
+    s = re.sub(r'\\[a-zA-Z]+(\{[^}]*\})?', ' ', s)
+    # Unescape TeX special symbols so "\&" == "&", "\%" == "%", etc.
+    s = re.sub(r'\\([#\$%&_{}~^\\])', r'\1', s)
+    # Remove remaining braces
+    s = s.replace("{", "").replace("}", "")
+    # Canonicalize dashes and collapse whitespace
+    s = s.replace("–", "-").replace("—", "-")
+    s = re.sub(r'\s+', ' ', s).strip().lower()
+    return s
+
+def iter_bib_entries(text: str):
+    i, n = 0, len(text)
+    while True:
+        at = text.find('@', i)
+        if at == -1:
+            break
+        # find first '{' after '@'
+        lb = text.find('{', at)
+        if lb == -1:
+            break
+        depth = 1
+        j = lb + 1
+        while j < n and depth > 0:
+            c = text[j]
+            if c == '{':
+                depth += 1
+            elif c == '}':
+                depth -= 1
+            j += 1
+        entry = text[at:j]
+        yield entry
+        i = j
+
+def extract_field(entry: str, field_name: str):
+    # Case-insensitive search for field_name = <value>
+    m = re.search(rf'(?im)\b{re.escape(field_name)}\s*=\s*', entry)
+    if not m:
+        return None
+    i = m.end()
+    # Skip whitespace
+    n = len(entry)
+    while i < n and entry[i].isspace():
+        i += 1
+    if i >= n:
+        return None
+    if entry[i] == '"':
+        i += 1
+        buf = []
+        esc = False
+        while i < n:
+            ch = entry[i]
+            if esc:
+                buf.append(ch)
+                esc = False
+            elif ch == '\\':
+                esc = True
+            elif ch == '"':
+                return ''.join(buf)
+            else:
+                buf.append(ch)
+            i += 1
+        return ''.join(buf) if buf else None
+    elif entry[i] == '{':
+        i += 1
+        buf = []
+        depth = 1
+        while i < n and depth > 0:
+            ch = entry[i]
+            if ch == '{':
+                depth += 1
+                buf.append(ch)
+            elif ch == '}':
+                depth -= 1
+                if depth > 0:
+                    buf.append(ch)
+            else:
+                buf.append(ch)
+            i += 1
+        return ''.join(buf)
+    else:
+        # bare value until comma/newline
+        j = i
+        while j < n and entry[j] not in ',\n':
+            j += 1
+        return entry[i:j].strip()
+
+def extract_year(entry: str) -> int | None:
+    # Try robust year extraction (handles "2020", {2020}, "2020a" -> 2020)
+    raw = extract_field(entry, 'year')
+    if not raw:
+        return None
+    m = re.search(r'(\d{4})', raw)
+    return int(m.group(1)) if m else None
+
+def main():
+    ap = argparse.ArgumentParser(description="Collect BibTeX entries for filtered titles (since a given year).")
+    ap.add_argument("--titles-file", default="./output/filtered_titles.txt", help="Path to filtered titles file")
+    ap.add_argument("--bib-file", default="./data/anthology.bib", help="Path to ACL Anthology .bib")
+    ap.add_argument("--since", type=int, default=2018, help="Minimum publication year (inclusive)")
+    ap.add_argument("--out", default="./output/xai_interpretable_2018plus.bib", help="Output .bib path")
+    args = ap.parse_args()
+
+    titles_raw, titles_norm = load_titles(Path(args.titles_file))
+    bib_text = read_text(Path(args.bib_file))
+
+    matched_entries = []
+    matched_titles = set()
+    for entry in iter_bib_entries(bib_text):
+        title = extract_field(entry, 'title')
+        if not title:
+            continue
+        year = extract_year(entry)
+        if year is None or year < args.since:
+            continue
+        # Compare raw first, then normalized
+        if (title in titles_raw) or (normalize_title(title) in titles_norm):
+            matched_entries.append(entry.strip() + "\n")
+            matched_titles.add(title)
+
+    # Write output .bib
+    out_path = Path(args.out)
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    header = f"% Generated by collect_bibtex.py; since={args.since}; matches={len(matched_entries)}\n\n"
+    out_path.write_text(header + "\n\n".join(matched_entries), encoding="utf-8")
+
+    # Report
+    print(f"Collected {len(matched_entries)} entries (year >= {args.since}) -> {out_path}")
+    # Optional: show a small count of misses
+    misses = [t for t in titles_raw if t not in matched_titles and normalize_title(t) not in {normalize_title(mt) for mt in matched_titles}]
+    if misses:
+        print(f"Unmatched titles: {len(misses)} (showing up to 10)")
+        for t in misses[:10]:
+            print(f"  - {t}")
+
+if __name__ == "__main__":
+    main()
