@@ -13,7 +13,7 @@ Download papers from [ACL Anthology](https://aclanthology.org/) using bibtex ent
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/farizikhwantri/significancetestXNLP.git
+git clone <Repository-URL>
 cd significancetestXNLP
 ```
 

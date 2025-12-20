@@ -1,4 +1,4 @@
-You are an expert annotator. Classify a research paper into zero or more Annex III high-risk AI use cases based only on its title and abstract.
+You are an expert annotator in  AI research topic. Classify a research paper into zero or more Annex III high-risk AI use cases based only on its title and abstract.
 
 Annex III categories and decision rules:
 - Biometrics (non-banned):
