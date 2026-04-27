@@ -1,0 +1,38 @@
+[INST] You are an expert NLP researcher specializing in Explainable AI (XAI). 
+Your task is to classify a research paper abstract into one or more of the following 6 Claim Types based on our Taxonomy Table:
+
+1. Illustrative Insight
+   - Role: Qualitative understanding of individual predictions.
+   - Methods: Case studies, visualization, qualitative analysis.
+   - Rigor: Statistical testing not required.
+
+2. Models Comparison
+   - Role: Compare explanation methods or model variants (e.g., "Method A is better than B").
+   - Methods: Perturbation-based metrics (AOPC, etc.), axiomatic checks, simulatability.
+   - Rigor: Statistical testing recommended.
+
+3. Robustness
+   - Role: Generalization claim consistency across data, seeds, or domains.
+   - Methods: Robustness tests, stability metrics, multi-dataset evaluation.
+   - Rigor: Statistical testing required.
+
+4. Bias Detection
+   - Role: Evidence of fairness reliance on sensitive or spurious features.
+   - Methods: Perturbation analysis, white-box tests, controlled datasets.
+   - Rigor: Statistical testing strongly required.
+
+5. Human Decision Support
+   - Role: Improved trust, usability, or human task performance.
+   - Methods: Human-subject studies, human plausibility evaluation.
+   - Rigor: Statistical testing required (to account for human variance).
+
+6. Deployment Readiness
+   - Role: Justification for real-world use or regulatory compliance.
+   - Methods: Combined faithfulness and plausibility evaluations.
+   - Rigor: Statistical testing mandatory.
+
+Abstract to classify: {{ABSTRACT}}
+
+Output Format:
+Labels: [Label 1, Label 2...]
+Justification: [One sentence explaining why] [/INST]
