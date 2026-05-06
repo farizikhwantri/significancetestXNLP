@@ -160,8 +160,26 @@ def main():
                           resolved["is_xai_interpretable"][0]: "is_xai_interpretable_csv"})
     b = b.rename(columns={id_xlsx: "id", resolved["has_explanation_evaluation"][1]: "has_explanation_evaluation_xlsx",
                           resolved["is_xai_interpretable"][1]: "is_xai_interpretable_xlsx"})
+    
+
+    # Deduplicate before merge
+    a = a.drop_duplicates(subset=["id"], keep="last")
+    b = b.drop_duplicates(subset=["id"], keep="last")
 
     merged = a.merge(b, on="id", how="inner")
+    merged = merged.sort_values("id").reset_index(drop=True)
+
+    # Diagnostics
+    print(f"[INFO] CSV rows: {len(a)}, XLSX rows (verified): {len(b)}, Merged rows: {len(merged)}")
+    print(f"[INFO] Duplicate IDs in CSV: {a['id'].duplicated().sum()}")
+    print(f"[INFO] Duplicate IDs in XLSX: {b['id'].duplicated().sum()}")
+    
+    # Check a few matched rows
+    print("\n[DEBUG] Sample of merged rows:")
+    print(merged[["id", 
+                  "has_explanation_evaluation_csv", "has_explanation_evaluation_xlsx",
+                  "is_xai_interpretable_csv", "is_xai_interpretable_xlsx"]].head(10).to_string(index=False))
+
 
     # Normalize binary labels
     for c in [
