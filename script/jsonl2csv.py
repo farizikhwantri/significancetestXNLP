@@ -40,13 +40,13 @@ def main():
     parser.add_argument(
         "-i",
         "--input",
-        default="/Users/fariz/repositories/significancetestXNLP/output/xai_llm_results.jsonl",
+        default="/Users/<user>/repositories/significancetestXNLP/output/xai_llm_results.jsonl",
         help="Path to input JSONL file.",
     )
     parser.add_argument(
         "-o",
         "--output",
-        default="/Users/fariz/repositories/significancetestXNLP/output/xai_llm_results.csv",
+        default="/Users/<user>/repositories/significancetestXNLP/output/xai_llm_results.csv",
         help="Path to output CSV file.",
     )
     args = parser.parse_args()

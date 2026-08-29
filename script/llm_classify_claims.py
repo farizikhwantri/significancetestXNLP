@@ -307,10 +307,10 @@ def main():
     """Main function to run claim classification."""
     
     # Configuration
-    csv_path = "/Users/fariz/repositories/significancetestXNLP/output/filtered_main_conf_no_test.csv"
-    bibtex_path = "/Users/fariz/repositories/significancetestXNLP/output/filtered_bibtex_since2020.bib"
-    prompt_path = "/Users/fariz/repositories/significancetestXNLP/config/claim_prompt.txt"
-    output_path = "/Users/fariz/repositories/significancetestXNLP/output/classified_claims_hf.csv"
+    csv_path = "/Users/<user>/repositories/significancetestXNLP/output/filtered_main_conf_no_test.csv"
+    bibtex_path = "/Users/<user>/repositories/significancetestXNLP/output/filtered_bibtex_since2020.bib"
+    prompt_path = "/Users/<user>/repositories/significancetestXNLP/config/claim_prompt.txt"
+    output_path = "/Users/<user>/repositories/significancetestXNLP/output/classified_claims_hf.csv"
     
     # model_id = "HuggingFaceH4/zephyr-7b-beta"
     model_id = "meta-llama/Meta-Llama-3-8B-Instruct"
