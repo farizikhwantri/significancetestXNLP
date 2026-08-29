@@ -1,0 +1,1704 @@
+[INFO] XLSX rows after verified == TRUE filter: 593
+[INFO] CSV verified filter disabled (use --csv-verified-true to enable)
+[WARN] 808 CSV IDs not found in XLSX:
+  - li-etal-2025-dont
+  - lan-etal-2025-training
+  - shu-etal-2025-large
+  - huang-etal-2025-manusearch
+  - rao-etal-2025-llm
+  - jeon-etal-2025-progressive
+  - van-supranes-etal-2025-enhancing
+  - du-etal-2025-role
+  - wu-etal-2025-beyond-spurious
+  - zhang-etal-2025-hierprompt
+  - hu-etal-2025-explaining
+  - li-etal-2025-heal
+  - chen-etal-2025-enhancing-attributed
+  - wu-etal-2025-unveiling-multimodal
+  - kumar-etal-2025-extracting
+  - ying-etal-2025-language
+  - koo-etal-2025-hawk
+  - luo-etal-2025-fair
+  - aida-bollegala-2025-scdtour
+  - niaouri-etal-2025-mask
+  - rahimi-etal-2025-lost
+  - wang-etal-2025-inducing
+  - yu-etal-2025-explainable
+  - sicilia-alikhani-2025-adaptive
+  - han-etal-2025-attributes
+  - seo-kwon-2025-protoxtm
+  - guimaraes-etal-2025-narratex
+  - yu-etal-2025-lore
+  - ha-etal-2025-mv
+  - pauli-etal-2025-mind
+  - ou-etal-2025-claimcheck
+  - joshi-etal-2025-improving
+  - mamta-cocarascu-2025-guard
+  - fedorova-etal-2025-explaining
+  - wu-etal-2025-evaluating
+  - han-etal-2025-black
+  - oozeer-etal-2025-beyond
+  - hasanain-etal-2025-propxplain
+  - gebreegziabher-etal-2025-leveraging
+  - wu-etal-2025-separate
+  - weidinger-etal-2025-aquaechr
+  - chen-etal-2025-explainable
+  - chu-etal-2025-self
+  - zhou-etal-2025-reasoning
+  - long-etal-2025-beyond
+  - bevendorff-etal-2025-two
+  - chetia-phukan-etal-2025-investigating
+  - saxena-etal-2025-matched
+  - rodriguez-etal-2025-continued
+  - zhao-etal-2025-correcting
+  - fu-etal-2025-mark
+  - fan-etal-2025-sek
+  - zhu-etal-2025-lime
+  - li-etal-2025-cmie
+  - zhang-etal-2025-explainable
+  - hong-etal-2025-rhetorical
+  - wu-etal-2025-boosting
+  - sariyanto-etal-2025-towards
+  - chen-etal-2025-cod
+  - wang-etal-2025-ldir
+  - zhong-etal-2025-nargina
+  - im-etal-2025-deragec
+  - saparina-lapata-2025-disambiguate
+  - tan-etal-2025-open
+  - zahid-etal-2025-bedaa
+  - zhang-etal-2025-safety
+  - aljanaideh-2025-speech
+  - kim-etal-2025-fave
+  - lv-etal-2025-distribution
+  - hong-etal-2025-data
+  - lu-etal-2025-wasa
+  - zhou-etal-2025-llms
+  - wongkamjan-etal-2025-trust
+  - yu-etal-2025-training
+  - cao-etal-2025-rationalize
+  - sun-etal-2025-thinkedit
+  - liu-etal-2025-pychoagent
+  - resck-etal-2025-explainability
+  - guo-etal-2025-dsvd
+  - zhao-etal-2025-lga
+  - yuan-etal-2025-mmag
+  - lee-etal-2025-interpretation
+  - xie-etal-2025-rd
+  - lee-etal-2025-localization
+  - bai-etal-2025-understanding
+  - opitz-etal-2025-interpretable
+  - estienne-etal-2025-collaborative
+  - maslenkova-etal-2025-building
+  - wang-etal-2025-drivel
+  - sperber-etal-2025-toward
+  - clark-etal-2025-resource
+  - wang-blanco-2025-identifying
+  - dang-etal-2025-improving
+  - kang-etal-2025-fairgen
+  - lee-etal-2025-interpretable
+  - bussotti-papotti-2025-refining
+  - ye-etal-2025-enhanced
+  - park-etal-2025-decoding
+  - la-cava-tagarelli-2025-openturingbench
+  - huang-etal-2025-critictool
+  - shi-etal-2025-llms
+  - shao-etal-2025-iterative
+  - kmainasi-etal-2025-memeintel
+  - liu-etal-2025-autoct
+  - xin-etal-2025-cda
+  - li-ouyang-2025-explaining
+  - liu-etal-2025-enhancing
+  - mun-shin-2025-polysemy
+  - mina-etal-2025-cognitive
+  - shen-etal-2025-reasoning
+  - irnawan-etal-2025-claim
+  - hao-etal-2025-post
+  - wu-etal-2025-edge
+  - liu-etal-2025-empirical
+  - alqurashi-etal-2025-bert
+  - riahi-samani-etal-2025-large
+  - hu-etal-2025-large
+  - li-etal-2025-incorporating
+  - zhang-etal-2025-hire
+  - ling-etal-2025-enhancing
+  - dementieva-etal-2025-multilingual
+  - zhao-etal-2025-dynamic
+  - xu-etal-2025-log
+  - kim-2025-ambiguous
+  - gao-etal-2025-consistency
+  - zhou-etal-2025-text
+  - lam-etal-2025-leveraging
+  - zhao-etal-2025-seeking
+  - kim-hwang-2025-counterfactual
+  - ruggeri-signorelli-2025-interlocking
+  - li-etal-2025-open
+  - zhou-etal-2025-taming
+  - yang-etal-2025-confidence
+  - wei-zhu-2025-protolens
+  - zhang-etal-2025-dually
+  - meng-etal-2025-stigma
+  - chen-etal-2025-f5
+  - zhelnin-etal-2025-gift
+  - xie-etal-2025-improving
+  - ravenda-etal-2025-llms
+  - kim-lee-2025-forward
+  - li-ng-2025-think
+  - zhu-etal-2025-real
+  - pham-etal-2025-mitigating
+  - lian-etal-2025-beyond
+  - rose-etal-2025-meddxagent
+  - song-etal-2025-irt
+  - javorsky-etal-2025-mockconf
+  - khan-etal-2025-explaining
+  - bao-etal-2025-fixing
+  - zheng-etal-2025-dncasr
+  - nguyen-etal-2025-multi
+  - singhvi-etal-2025-using
+  - spinoso-di-piano-etal-2025-rsa
+  - zhang-etal-2025-faithfulrag
+  - park-etal-2025-evaluating
+  - feng-etal-2025-culfit
+  - go-etal-2025-xdac
+  - lee-etal-2025-emotional
+  - li-pan-2025-ceaes
+  - hu-etal-2025-dual
+  - padhi-etal-2025-counterspeech
+  - hein-etal-2025-chexalign
+  - sun-etal-2025-prism
+  - pronesti-etal-2025-query
+  - wang-etal-2025-a3
+  - kamigaito-etal-2025-diversity
+  - li-etal-2025-iris
+  - saranathan-etal-2025-sublime
+  - su-etal-2025-taclr
+  - yang-etal-2025-maple
+  - xu-etal-2025-citeeval
+  - sui-etal-2025-kristeva
+  - zhang-etal-2024-improving-toponym
+  - xie-etal-2024-extracting
+  - ding-etal-2024-rationale
+  - kovatchev-lease-2024-benchmark
+  - wu-etal-2024-reasoning
+  - jiang-etal-2024-trisum
+  - malaviya-etal-2024-expertqa
+  - salkhordeh-ziabari-etal-2024-reinforced
+  - wang-etal-2024-helpsteer
+  - patel-etal-2024-towards
+  - nath-etal-2024-okay
+  - wang-etal-2024-enhancing
+  - cao-wang-2024-awesome
+  - daheim-etal-2024-elastic
+  - zhuang-etal-2024-macsc
+  - zhu-etal-2024-efficient
+  - spangher-etal-2024-legaldiscourse
+  - niu-etal-2024-hong
+  - urakawa-etal-2024-japanese
+  - liu-etal-2024-ce
+  - imashev-etal-2024-comparative
+  - steindl-etal-2024-counterfactual
+  - kranzlein-etal-2024-curiam
+  - petersen-frey-biemann-2024-dataset
+  - xin-etal-2024-diffusion
+  - zhang-etal-2024-empowering
+  - hwang-etal-2024-explainable
+  - shi-etal-2024-find
+  - richard-etal-2024-fracas
+  - ghosh-roy-han-2024-ilciter
+  - zhang-etal-2024-improving-continual
+  - banerjee-etal-2024-inffeed
+  - tran-miyao-2024-integrating
+  - abderrazek-etal-2024-interpretable
+  - wu-etal-2024-interpretable
+  - zhang-etal-2024-interpreting
+  - ishii-etal-2024-jemhopqa
+  - zhou-etal-2024-mcil
+  - chen-etal-2024-mmaps
+  - zhao-etal-2024-naist
+  - zhang-etal-2024-new
+  - rehbein-etal-2024-mouths
+  - ogrodniczuk-etal-2024-polish-discourse
+  - li-etal-2024-prompting
+  - tang-etal-2024-prototype
+  - grissom-ii-etal-2024-rapidly
+  - t-revi-etal-2024-rationale
+  - zeng-etal-2024-ru22fact
+  - jain-etal-2024-saliency
+  - garcia-silva-etal-2024-space
+  - lu-etal-2024-take
+  - sun-etal-2024-towards
+  - zhong-etal-2024-said
+  - ma-etal-2024-beta
+  - pham-etal-2024-peeb
+  - wang-etal-2024-interpreting
+  - hong-etal-2024-gullible
+  - samardzic-etal-2024-measure
+  - saxena-keller-2024-select
+  - moghe-etal-2024-interpreting
+  - langedijk-etal-2024-decoderlens
+  - zhang-etal-2024-document-hashing
+  - ma-etal-2024-xrec
+  - wang-etal-2024-coxql
+  - yang-etal-2024-eave
+  - chen-etal-2024-controlling
+  - zhang-etal-2024-coarse
+  - bai-etal-2024-learning
+  - song-etal-2024-robust
+  - kai-etal-2024-sh2
+  - wang-etal-2024-survey
+  - wang-etal-2024-fantastic
+  - khan-etal-2024-hope
+  - palmeira-ferraz-etal-2024-llm
+  - wang-etal-2024-variational
+  - bazaga-etal-2024-hyperbert
+  - xu-etal-2024-chatglm
+  - govindarajan-etal-2024-mean
+  - joaquin-etal-2024-in2core
+  - zhang-etal-2024-shieldlm
+  - wang-etal-2024-interpretable
+  - kim-etal-2024-thinking
+  - chung-etal-2024-selection
+  - xiao-etal-2024-vanessa
+  - modarressi-etal-2024-consistent
+  - cao-etal-2024-tara
+  - michel-etal-2024-improving
+  - sourati-etal-2024-robust
+  - schirmer-etal-2024-language
+  - meng-etal-2024-attribute
+  - dammu-etal-2024-claimver
+  - thota-nilizadeh-2024-attacks
+  - xu-etal-2024-nala
+  - kim-etal-2024-semantic
+  - shen-etal-2024-towards
+  - vakil-amiri-2024-controlled
+  - spangher-etal-2024-explaining
+  - maheshwari-etal-2024-presentations
+  - qorib-etal-2024-efficient
+  - razumovskaia-etal-2024-dial
+  - amouyal-etal-2024-large
+  - wein-etal-2024-barriers
+  - li-etal-2024-improving-cross
+  - mishra-etal-2024-correcting
+  - moon-etal-2024-generative
+  - peng-etal-2024-controllable
+  - zou-etal-2024-implicitave
+  - li-etal-2024-towards-verifiable
+  - liao-etal-2024-mario
+  - pan-etal-2024-llmlingua
+  - lin-etal-2024-criticbench
+  - miao-etal-2024-episodic
+  - wang-etal-2024-llmfactor
+  - yang-etal-2024-enhancing
+  - li-etal-2024-large-language
+  - cheng-etal-2024-call
+  - zhou-etal-2024-evaluating
+  - maeda-etal-2024-decomposing
+  - li-etal-2024-improving-attributed
+  - liang-etal-2024-controlled
+  - zhang-etal-2024-stronger
+  - zhang-etal-2024-rationales
+  - yoon-etal-2024-assessing
+  - sun-etal-2024-critique
+  - ma-etal-2024-ex
+  - liang-etal-2024-selp
+  - hua-etal-2024-propagation
+  - katsios-etal-2024-figuratively
+  - li-lyu-2024-gradual
+  - akhtar-etal-2024-chartcheck
+  - huang-etal-2024-learning
+  - zhong-etal-2024-harnessing
+  - abolghasemi-etal-2024-cause
+  - li-etal-2024-attributionbench
+  - zhang-etal-2024-countercurate
+  - liu-etal-2024-teller
+  - deng-etal-2024-learning
+  - chen-etal-2024-mitigating
+  - mosbach-etal-2024-insights
+  - yu-ananiadou-2024-interpreting
+  - huang-etal-2024-advancing
+  - hong-lipani-2024-interpretability
+  - du-etal-2024-llms
+  - feng-etal-2024-teaching-small
+  - men-etal-2024-unlocking
+  - hirota-etal-2024-resampled
+  - weir-etal-2024-ontologically
+  - berlot-attwell-etal-2024-attribute
+  - chen-etal-2024-dynamic
+  - pavlopoulos-etal-2024-towards
+  - kim-etal-2024-panda
+  - zhu-etal-2024-ra2fd
+  - lan-etal-2024-towards
+  - hu-etal-2024-bayesian
+  - wu-etal-2024-enhancing-training
+  - aoki-etal-2024-first
+  - zhou-etal-2024-mystery
+  - yin-etal-2024-asl
+  - zhao-etal-2024-findver
+  - wang-etal-2024-bridging-local
+  - sotudeh-goharian-2024-learning
+  - hu-etal-2024-themis
+  - ferrando-voita-2024-information
+  - chen-etal-2024-dual-oriented
+  - ghosal-etal-2024-intcoop
+  - sun-etal-2024-revealing
+  - mamta-etal-2024-biaswipe
+  - tater-etal-2024-unveiling
+  - kim-lee-2024-rag
+  - sakai-etal-2024-simultaneous
+  - baan-etal-2024-interpreting
+  - liu-niehues-2024-transferable
+  - fathullah-etal-2024-needs
+  - oh-etal-2024-frequency
+  - zellinger-etal-2024-counterfactual
+  - yao-etal-2024-ameli
+  - golde-etal-2024-large
+  - li-etal-2024-ccprefix
+  - matusevych-2024-cognitive
+  - wang-etal-2024-rdrec
+  - zhang-etal-2024-atlas
+  - fang-etal-2024-born
+  - zhao-etal-2024-agr
+  - verma-etal-2024-cross
+  - weinzierl-harabagiu-2024-tree
+  - wang-etal-2024-absinstruct
+  - weber-etal-2024-interpretability
+  - madureira-etal-2024-time
+  - zhuang-etal-2024-pcad
+  - mu-li-2024-causal
+  - dutt-etal-2024-leveraging
+  - plaza-del-arco-etal-2024-angry
+  - choi-etal-2024-hard
+  - ortu-etal-2024-competition
+  - zhang-etal-2024-mc2
+  - liu-etal-2024-multi
+  - zhang-etal-2024-hyperspherical
+  - chen-etal-2024-fine
+  - toker-etal-2024-diffusion
+  - huang-etal-2024-clomo
+  - lin-etal-2024-interpretable
+  - zhou-etal-2024-enhancing-explainable
+  - qiu-etal-2024-paircfr
+  - ke-etal-2024-critiquellm
+  - tian-etal-2024-bridging
+  - shao-etal-2023-erasure
+  - zhang-etal-2023-macsum
+  - stengel-eskin-van-durme-2023-calibrated
+  - wu-etal-2023-recogs
+  - fang-etal-2023-say
+  - lyu-etal-2023-faithful
+  - tyo-etal-2023-valla
+  - tonni-dras-2023-learned
+  - balashankar-etal-2023-improving
+  - chun-etal-2023-cr
+  - lin-etal-2023-counterfactual
+  - hu-etal-2023-adapter
+  - wang-etal-2023-interpreting
+  - li-etal-2023-grenade
+  - zhang-etal-2023-extractive-summarization
+  - pan-etal-2023-logic
+  - xie-etal-2023-proto
+  - he-garner-2023-interpreter
+  - sengupta-etal-2023-modeling
+  - dong-etal-2023-co2pt
+  - lu-etal-2023-miracle
+  - wang-shu-2023-explainable
+  - liu-etal-2023-knowledge
+  - kuang-etal-2023-unleashing
+  - li-etal-2023-mixture
+  - chakrabarty-etal-2023-learning
+  - zhang-etal-2023-factspotter
+  - zou-etal-2023-pretraining
+  - zhang-etal-2023-instructsafety
+  - dong-etal-2023-steerlm
+  - jin-etal-2023-adversarial
+  - xu-etal-2023-structural
+  - katz-belinkov-2023-visit
+  - mathur-etal-2023-interpreting
+  - patel-etal-2023-learning
+  - huang-etal-2023-swing
+  - yang-etal-2023-task
+  - ding-etal-2023-shot
+  - varshney-etal-2023-unified
+  - liu-etal-2023-attribute
+  - wang-etal-2023-rfid
+  - huang-etal-2023-pram
+  - hong-etal-2023-robust
+  - goldfarb-tarrant-etal-2023-bias
+  - chen-etal-2023-honestbait
+  - luo-etal-2023-prototype
+  - wicke-2023-lms
+  - fang-etal-2023-whole
+  - iskander-etal-2023-shielded
+  - guo-etal-2023-comave
+  - hauzenberger-etal-2023-modular
+  - li-etal-2023-factual
+  - shinzato-etal-2023-unified
+  - jiang-etal-2023-interpreting
+  - vincent-etal-2023-mtcue
+  - wen-etal-2023-grace
+  - bernard-mickus-2023-many
+  - zanwar-etal-2023-fuse
+  - rajaraman-etal-2023-investigating
+  - lam-etal-2023-large
+  - liu-etal-2023-interpretable
+  - yang-etal-2023-mixpave
+  - mei-etal-2023-foveate
+  - madhavan-etal-2023-cfl
+  - garg-etal-2023-annotated
+  - zhang-etal-2023-pay
+  - chen-etal-2023-fidelity
+  - wen-yi-mimno-2023-hyperpolyglot
+  - liu-etal-2023-vera
+  - hwang-shwartz-2023-memecap
+  - patel-etal-2023-magnifico
+  - wu-etal-2023-mproto
+  - urrutia-etal-2023-deep
+  - beinborn-pinter-2023-analyzing
+  - zhao-etal-2023-prototype
+  - koo-etal-2023-kebap
+  - meng-etal-2023-rapl
+  - miao-etal-2023-generating
+  - kaffee-etal-2023-article
+  - xu-etal-2023-instructscore
+  - wu-etal-2023-enhancing
+  - hu-etal-2023-faithful
+  - tian-etal-2023-modeling
+  - fu-etal-2023-scene
+  - zhong-etal-2023-air
+  - yu-etal-2023-ifqa
+  - saxena-etal-2023-idtraffickers
+  - askari-etal-2023-expand
+  - lahoti-etal-2023-improving
+  - sen-etal-2023-people
+  - chang-etal-2023-beyond
+  - wu-etal-2023-acquired
+  - maekawa-imai-2023-identifying
+  - zhang-etal-2023-semantic
+  - zhu-etal-2023-explain
+  - huang-etal-2023-bridging
+  - chakraborty-etal-2023-factify3m
+  - xiong-etal-2023-rationale
+  - liu-etal-2023-towards-interpretable
+  - li-etal-2023-interpreting
+  - maity-etal-2023-genex
+  - widiaputri-etal-2023-speech
+  - deutsch-roth-2023-incorporating
+  - hu-etal-2023-unifee
+  - shao-etal-2023-gold
+  - cole-etal-2023-salient
+  - xie-etal-2023-counter
+  - reig-alamillo-etal-2023-analysis
+  - apidianaki-2023-word
+  - an-rudinger-2023-nichelle
+  - valentini-etal-2023-interpretability
+  - vishnubhotla-etal-2023-improving
+  - li-etal-2023-counterfactual
+  - mu-li-2023-enhancing
+  - nguyen-duc-etal-2023-class
+  - sarti-etal-2023-ramp
+  - agnew-etal-2023-mechanical
+  - chronis-etal-2023-method
+  - clarke-etal-2023-rule
+  - yang-etal-2023-tailor
+  - chen-etal-2023-causal
+  - lin-etal-2023-techs
+  - li-etal-2023-attgen
+  - wang-etal-2023-faithful
+  - giulianelli-etal-2023-interpretable
+  - hong-etal-2023-faithful
+  - zhou-etal-2023-improving
+  - guo-etal-2023-counterfactual
+  - deng-etal-2023-towards
+  - liu-etal-2023-dimongen
+  - chen-etal-2023-disco
+  - xu-etal-2023-counterfactual
+  - chen-etal-2023-consistent
+  - foley-etal-2023-matching
+  - whitehouse-etal-2023-webie
+  - hosking-etal-2023-attributable
+  - xilong-etal-2023-interpreting
+  - zhu-etal-2023-paed
+  - neeman-etal-2023-disentqa
+  - kwak-etal-2023-language
+  - jing-etal-2023-multi
+  - deng-etal-2023-counterfactual
+  - bansal-etal-2023-rethinking
+  - xu-etal-2023-towards
+  - liu-etal-2023-mgr
+  - yamasaki-etal-2023-holistic
+  - zeng-etal-2023-seen
+  - zhang-etal-2023-reasoning
+  - nourbakhsh-etal-2023-using
+  - wu-etal-2023-estimating
+  - ramshetty-etal-2023-cross
+  - yang-etal-2023-prototype
+  - chakrabarty-etal-2022-rocket
+  - feder-etal-2022-causal
+  - calabrese-etal-2022-explainable
+  - kim-etal-2022-cosim
+  - adewoyin-etal-2022-rstgen
+  - qu-etal-2022-interpretable
+  - kasai-etal-2022-transparent
+  - iv-etal-2022-fruit
+  - sen-etal-2022-counterfactually
+  - sun-etal-2022-semantically
+  - wang-etal-2022-automatic
+  - tang-etal-2022-confit
+  - przybyl-etal-2022-epic
+  - hladka-etal-2022-annotating
+  - frohberg-binder-2022-crass
+  - mertz-etal-2022-low
+  - mendez-guzman-etal-2022-rafola
+  - bhattarai-etal-2022-convtexttm
+  - coeckelbergs-2022-pattern
+  - vishnubhotla-etal-2022-project
+  - wang-riddell-2022-cctaa
+  - lertvittayakumjorn-etal-2022-grasp
+  - wood-etal-2022-bayesian
+  - le-etal-2022-vimqa
+  - zhang-liu-2022-directquote
+  - hossain-etal-2022-question
+  - liu-etal-2022-learn
+  - xu-zhao-2022-jointly
+  - yang-etal-2022-logicsolver
+  - chen-etal-2022-salient
+  - wang-etal-2022-smartave
+  - li-etal-2022-systematicity
+  - dong-etal-2022-faithful
+  - wen-etal-2022-autocad
+  - dixit-etal-2022-core
+  - gunaratna-etal-2022-explainable
+  - wu-etal-2022-frsum
+  - adams-etal-2022-learning
+  - lamarre-etal-2022-attention
+  - zhang-etal-2022-moba
+  - engler-etal-2022-sensepolar
+  - howard-etal-2022-neurocounterfactuals
+  - qasemi-etal-2022-paco
+  - zeng-etal-2022-contrastive
+  - cai-etal-2022-multi
+  - xie-etal-2022-eider
+  - mo-etal-2022-towards
+  - tuan-etal-2022-towards
+  - gupta-etal-2022-mitigating
+  - su-etal-2022-read
+  - wang-etal-2022-novel
+  - wang-etal-2022-ranking
+  - liu-etal-2022-novel
+  - chen-etal-2022-e
+  - zhang-etal-2022-focus
+  - landsman-etal-2022-beamr
+  - mao-etal-2022-lightea
+  - ou-etal-2022-counterfactual
+  - he-etal-2022-cpl
+  - blevins-zettlemoyer-2022-language
+  - currey-etal-2022-mt
+  - wu-etal-2022-towards
+  - mao-etal-2022-explainable
+  - lin-etal-2022-seen
+  - cho-etal-2022-rethinking
+  - liu-etal-2022-investigating
+  - hossain-blanco-2022-leveraging
+  - gangi-reddy-etal-2022-newsclaims
+  - huang-etal-2022-deer
+  - liu-etal-2022-counterfactual
+  - haghighatkhah-etal-2022-better
+  - ferrando-etal-2022-towards
+  - patel-etal-2022-cripp
+  - zhang-etal-2022-symptom
+  - zhao-etal-2022-towards
+  - li-etal-2022-human
+  - kolluru-etal-2022-covid
+  - de-raedt-etal-2022-robustifying
+  - wang-etal-2022-improving
+  - han-etal-2022-hierarchical
+  - wachsmuth-alshomary-2022-mama
+  - amplayo-etal-2022-attribute
+  - park-lee-2022-lime
+  - alghanmi-etal-2022-self
+  - wang-etal-2022-locate
+  - ji-etal-2022-shot
+  - yu-etal-2022-dependency
+  - igamberdiev-etal-2022-dp
+  - poelman-etal-2022-transparent
+  - mosca-etal-2022-shap
+  - wachowiak-gromann-2022-systematic
+  - li-etal-2022-tip
+  - liu-etal-2022-multi-attribute
+  - aich-etal-2022-demystifying
+  - zhang-etal-2022-sentiment
+  - chrysostomou-2022-explainable
+  - zhang-ma-2022-dual
+  - paperno-2022-learning
+  - shinzato-etal-2022-simple
+  - li-etal-2022-learning
+  - du-etal-2022-e
+  - paranjape-etal-2022-retrieval
+  - majumder-etal-2022-achieving
+  - joshi-he-2022-investigation
+  - liu-etal-2022-saliency
+  - yang-etal-2022-interpretable
+  - park-caragea-2022-calibration
+  - cuesta-lazaro-etal-2022-sea
+  - boldsen-etal-2022-interpreting
+  - lu-etal-2022-rationale
+  - zhai-etal-2022-adversarial
+  - calderon-etal-2022-docogen
+  - hudecek-dusek-2022-learning
+  - opitz-frank-2022-sbert
+  - ai-etal-2022-whodunit
+  - lyu-etal-2021-neural
+  - liu-etal-2021-counterfactual
+  - liang-etal-2021-explainable
+  - porada-etal-2021-modeling
+  - khanehzar-etal-2021-framing
+  - patel-etal-2021-game
+  - turcan-etal-2021-emotion
+  - chen-li-2021-zs
+  - verga-etal-2021-adaptable
+  - montariol-etal-2021-scalable
+  - chen-etal-2021-improving
+  - mehta-etal-2021-latex
+  - samarinas-etal-2021-improving
+  - kokalj-etal-2021-bert
+  - xie-etal-2021-factual-consistency
+  - lai-etal-2021-saliency-based
+  - su-etal-2021-shot-table
+  - tian-etal-2021-hypogen-hyperbole
+  - yu-etal-2021-attribute-alignment
+  - beloucif-biemann-2021-probing-pre
+  - mishra-etal-2021-modeling-users
+  - jin-etal-2021-msd-saliency
+  - zhao-etal-2021-attend-memorize
+  - altakrori-etal-2021-topic-confusion
+  - lee-etal-2021-micromodels-efficient
+  - wang-etal-2021-counterfactual-adversarial
+  - thayaparan-etal-2021-explainable
+  - zhang-etal-2021-improving
+  - ren-etal-2021-prediction
+  - li-etal-2021-meet
+  - antognini-faltings-2021-rationalization
+  - tucker-etal-2021-modified
+  - xu-etal-2021-dynamic
+  - tan-etal-2021-gcrc
+  - wan-etal-2021-enhancing
+  - feng-etal-2021-empowering
+  - zhang-etal-2021-ma
+  - ponkiya-etal-2021-framenet
+  - yoon-etal-2021-ssmix
+  - garcia-olano-etal-2021-biomedical
+  - zafar-etal-2021-lack
+  - ross-etal-2021-explaining
+  - sun-marasovic-2021-effective
+  - paranjape-etal-2021-prompting
+  - wang-etal-2021-sketch
+  - liu-etal-2021-highlight
+  - srikanth-li-2021-elaborative
+  - chen-etal-2021-reinforced
+  - falke-lehnen-2021-feedback
+  - saxon-etal-2021-modeling
+  - zhang-etal-2021-abstract
+  - shi-etal-2021-neural
+  - shi-etal-2021-transfernet
+  - balashankar-etal-2021-improve
+  - lai-etal-2021-learning
+  - cao-wang-2021-cliff
+  - schioppa-etal-2021-controlling
+  - zhao-etal-2021-good
+  - oneill-etal-2021-wish
+  - bhardwaj-etal-2021-adversarial
+  - wang-etal-2021-mode
+  - munir-etal-2021-looking
+  - fu-grishman-2021-learning
+  - li-etal-2021-scientific
+  - bashier-etal-2021-disk
+  - ruzsics-etal-2021-interpretability
+  - nangi-etal-2021-counterfactuals
+  - ethayarajh-jurafsky-2021-attention
+  - wang-etal-2021-quotation
+  - cui-etal-2021-refining
+  - sevastjanova-etal-2021-explaining
+  - jiang-wilson-2021-structurizing
+  - balashankar-subramanian-2021-learning
+  - wang-etal-2021-voxpopuli
+  - garbacea-etal-2021-explainable
+  - luu-etal-2021-explaining
+  - cao-etal-2021-irene
+  - samanta-etal-2021-hierarchical
+  - yao-etal-2021-interpretable
+  - kanwatchara-etal-2021-rational
+  - hofmann-etal-2021-superbizarre
+  - chen-etal-2021-cross-language
+  - chang-etal-2021-convolutions
+  - yan-etal-2021-adatag
+  - hu-etal-2021-r2d2
+  - li-etal-2021-personalized
+  - qian-etal-2021-counterfactual
+  - kamigaito-hayashi-2021-unified
+  - lu-etal-2021-inter
+  - wong-etal-2021-cross
+  - emami-etal-2021-adept
+  - aghajanyan-etal-2021-intrinsic
+  - lin-etal-2020-adjusting
+  - wu-etal-2020-getting
+  - chaturvedi-etal-2020-development
+  - lee-etal-2020-squad2
+  - zayed-etal-2020-figure
+  - hasegawa-etal-2020-word
+  - huang-etal-2020-reducing
+  - russo-etal-2020-control
+  - mrini-etal-2020-rethinking
+  - wu-etal-2020-improving-knowledge
+  - chen-etal-2020-knowledge
+  - yang-etal-2020-robust
+  - kung-etal-2020-zero
+  - marasovic-etal-2020-natural
+  - shin-etal-2020-neutralizing
+  - kim-etal-2020-arramon
+  - huang-etal-2020-generalizable
+  - hu-yang-2020-privnet
+  - zanzotto-etal-2020-kermit
+  - qin-etal-2020-back
+  - sarkar-etal-2020-social
+  - tsai-etal-2020-multimodal
+  - chen-qian-2020-enhancing
+  - zhu-etal-2020-multimodal
+  - chen-li-2020-henin
+  - liang-etal-2020-learning
+  - zhu-etal-2020-counterfactual
+  - fu-etal-2020-sscr
+  - ethayarajh-jurafsky-2020-utility
+  - tigunova-etal-2020-charm
+  - fu-etal-2020-interpretable
+  - pasca-2020-interpreting
+  - desai-etal-2020-compressive
+  - cho-etal-2020-better
+  - liu-etal-2020-exploring
+  - choi-etal-2020-less
+  - ren-etal-2020-towards
+  - pratapa-etal-2020-constrained
+  - uchendu-etal-2020-authorship
+  - liu-etal-2020-knowledge
+  - kim-linzen-2020-cogs
+  - jindal-etal-2020-killed
+  - boenninghoff-etal-2020-variational
+  - sen-etal-2020-schema
+  - le-zuidema-2020-dolfin
+  - bashier-etal-2020-rancc
+  - aloui-etal-2020-slice
+  - branco-etal-2020-comparative
+  - donatelli-etal-2020-two
+  - sarathy-etal-2020-reasoning
+  - tran-etal-2020-explain
+  - yuan-etal-2020-faithfulness
+  - liao-etal-2020-explainable
+  - yu-etal-2020-bridging
+  - xu-etal-2020-embedding
+  - pedinotti-lenci-2020-dont
+  - sarkhel-etal-2020-interpretable
+  - lu-li-2020-gcan
+  - gonen-etal-2020-simple
+  - zhou-etal-2020-interpretable
+  - zhong-etal-2020-interpreting
+  - wu-etal-2020-dtca
+  - maynez-etal-2020-faithfulness
+  - niu-etal-2020-self
+  - kennedy-etal-2020-contextualizing
+  - ravfogel-etal-2020-null
+  - zhang-etal-2020-learning-interpretable
+  - rambelli-etal-2020-comparing
+  - danilevsky-etal-2020-survey
+  - liao-etal-2020-explaining
+  - kanouchi-etal-2020-may
+[INFO] Matched rows: 593
+
+============================================================
+[COLUMN] has_explanation_evaluation
+  CSV  TRUE rate : 0.904  (536/593)
+  XLSX TRUE rate : 0.835  (495/593)
+  Observed agreement            : 0.887 (526/593)
+  Expected agreement (by chance): 0.770
+  => Kappa = (obs-exp)/(1-exp) = (0.887-0.770)/(1-0.770)
+  => PABAK = 2*obs-1 = 2*0.887-1 (ignores prevalence skew)
+
+  Confusion matrix:
+XLSX   0    1
+CSV          
+0     44   13
+1     54  482
+
+  Disagreements (67):
+                                 id  has_explanation_evaluation_csv  has_explanation_evaluation_xlsx
+        michel-etal-2025-evaluating                               0                                1
+        howard-etal-2025-uncovering                               0                                1
+          menta-etal-2025-analyzing                               0                                1
+                 yao-etal-2025-mcqg                               0                                1
+                  yu-etal-2025-self                               0                                1
+         koupaee-etal-2025-faithful                               1                                0
+               chang-etal-2025-safr                               0                                1
+             ye-etal-2025-improving                               0                                1
+         jiao-etal-2025-feasibility                               0                                1
+            chu-etal-2025-rationale                               0                                1
+               shu-etal-2025-survey                               1                                0
+            yu-etal-2025-structured                               1                                0
+                  zeng-etal-2025-mm                               1                                0
+               zhang-etal-2025-mprf                               1                                0
+             ong-etal-2025-deriving                               0                                1
+           wen-etal-2025-gaprotonet                               1                                0
+      fang-etal-2025-counterfactual                               1                                0
+                ye-etal-2025-cleme2                               1                                0
+    radevski-etal-2025-synthesizing                               1                                0
+              zeng-gao-2024-justilm                               0                                1
+             hu-etal-2024-generator                               1                                0
+li-etal-2024-improving-faithfulness                               1                                0
+               zhang-etal-2024-xatu                               1                                0
+             li-etal-2024-diversify                               1                                0
+       enouen-etal-2024-textgenshap                               1                                0
+               wu-etal-2024-dancing                               1                                0
+               yona-etal-2024-large                               1                                0
+         chang-etal-2024-explaining                               0                                1
+        subbiah-etal-2024-storysumm                               1                                0
+      doddapaneni-etal-2024-finding                               1                                0
+           ramu-etal-2024-enhancing                               1                                0
+          perrella-etal-2024-beyond                               1                                0
+              lyu-etal-2024-towards                               1                                0
+        krichene-etal-2024-faithful                               1                                0
+              ku-etal-2024-viescore                               1                                0
+              xu-etal-2024-faithful                               1                                0
+            deng-etal-2024-webcites                               1                                0
+          wu-etal-2023-transparency                               0                                1
+                yang-etal-2023-hare                               1                                0
+                rao-etal-2023-makes                               1                                0
+             li-etal-2023-defending                               1                                0
+               bouyamourn-2023-llms                               1                                0
+                jang-etal-2023-post                               1                                0
+       nandwani-etal-2023-pointwise                               1                                0
+                 xu-etal-2023-vechr                               1                                0
+                zhao-etal-2023-loft                               1                                0
+         krishna-etal-2023-longeval                               1                                0
+         modarressi-etal-2023-guide                               1                                0
+            dai-etal-2023-plausible                               1                                0
+         wan-etal-2023-faithfulness                               1                                0
+             steen-etal-2023-little                               1                                0
+                  ma-etal-2023-bump                               1                                0
+            sajjad-etal-2022-neuron                               1                                0
+      sullivan-etal-2022-explaining                               1                                0
+          khashabi-etal-2022-prompt                               1                                0
+         khalid-lee-2022-explaining                               1                                0
+        yamada-etal-2022-annotation                               1                                0
+    bhattarai-etal-2022-explainable                               1                                0
+           wang-etal-2022-analyzing                               1                                0
+                jiang-etal-2022-im2                               1                                0
+          ladhak-etal-2022-faithful                               1                                0
+             zhang-etal-2021-double                               1                                0
+               wu-etal-2021-unified                               1                                0
+        sikdar-etal-2021-integrated                               1                                0
+      kotonya-toni-2020-explainable                               1                                0
+             chen-etal-2020-towards                               1                                0
+       jacovi-goldberg-2020-towards                               1                                0
+
+============================================================
+[COLUMN] is_xai_interpretable
+  CSV  TRUE rate : 0.943  (559/593)
+  XLSX TRUE rate : 0.917  (544/593)
+  Observed agreement            : 0.941 (558/593)
+  Expected agreement (by chance): 0.870
+  => Kappa = (obs-exp)/(1-exp) = (0.941-0.870)/(1-0.870)
+  => PABAK = 2*obs-1 = 2*0.941-1 (ignores prevalence skew)
+
+  Confusion matrix:
+XLSX   0    1
+CSV          
+0     24   10
+1     25  534
+
+  Disagreements (35):
+                               id  is_xai_interpretable_csv  is_xai_interpretable_xlsx
+      michel-etal-2025-evaluating                         0                          1
+      howard-etal-2025-uncovering                         0                          1
+   li-etal-2025-mitigating-biases                         0                          1
+               yao-etal-2025-mcqg                         0                          1
+                yu-etal-2025-self                         0                          1
+          qian-etal-2025-teaching                         0                          1
+          yu-etal-2025-structured                         1                          0
+                zeng-etal-2025-mm                         1                          0
+           ong-etal-2025-deriving                         0                          1
+calabrese-etal-2025-compositional                         0                          1
+              ye-etal-2025-cleme2                         1                          0
+           hu-etal-2024-generator                         1                          0
+             wu-etal-2024-dancing                         1                          0
+             yona-etal-2024-large                         1                          0
+       chang-etal-2024-explaining                         0                          1
+    doddapaneni-etal-2024-finding                         1                          0
+       sachdeva-etal-2024-catfood                         1                          0
+            ku-etal-2024-viescore                         1                          0
+          deng-etal-2024-webcites                         1                          0
+        wu-etal-2023-transparency                         0                          1
+              jang-etal-2023-post                         1                          0
+     nandwani-etal-2023-pointwise                         1                          0
+              zhao-etal-2023-loft                         1                          0
+       krishna-etal-2023-longeval                         1                          0
+          dai-etal-2023-plausible                         1                          0
+       wan-etal-2023-faithfulness                         1                          0
+           steen-etal-2023-little                         1                          0
+                ma-etal-2023-bump                         1                          0
+    sullivan-etal-2022-explaining                         1                          0
+        khashabi-etal-2022-prompt                         1                          0
+       khalid-lee-2022-explaining                         1                          0
+      yamada-etal-2022-annotation                         1                          0
+         wang-etal-2022-analyzing                         1                          0
+        ladhak-etal-2022-faithful                         1                          0
+           zhang-etal-2021-double                         1                          0
+
+============================================================
+[COLUMN] has_significance_testing
+  CSV  TRUE rate : 0.012  (7/593)
+  XLSX TRUE rate : 0.214  (127/593)
+  Observed agreement            : 0.791 (469/593)
+  Expected agreement (by chance): 0.779
+  => Kappa = (obs-exp)/(1-exp) = (0.791-0.779)/(1-0.779)
+  => PABAK = 2*obs-1 = 2*0.791-1 (ignores prevalence skew)
+
+  Confusion matrix:
+XLSX    0    1
+CSV           
+0     464  122
+1       2    5
+
+  Disagreements (124):
+                                    id  has_significance_testing_csv  has_significance_testing_xlsx
+                   yang-etal-2025-self                             0                              1
+           michel-etal-2025-evaluating                             0                              1
+       saakyan-etal-2025-understanding                             0                              1
+           howard-etal-2025-uncovering                             0                              1
+                    wan-etal-2025-mamm                             0                              1
+             teplica-etal-2025-sciurus                             0                              1
+      staliunaite-vlachos-2025-dis2dis                             0                              1
+     fekete-bjerva-2025-linguistically                             0                              1
+            avitan-etal-2025-practical                             0                              1
+              hossain-etal-2025-toward                             0                              1
+                  ernst-etal-2025-come                             0                              1
+                 yan-etal-2025-towards                             0                              1
+          eldifrawi-etal-2025-fingract                             0                              1
+        peled-cohen-etal-2025-dementia                             0                              1
+            islam-goldwasser-2025-post                             0                              1
+                     liu-chu-2025-llms                             0                              1
+             huangyw-etal-2025-dynamic                             0                              1
+              zhu-etal-2025-rationales                             0                              1
+      abolghasemi-etal-2025-evaluation                             0                              1
+                     xu-etal-2025-tree                             0                              1
+        dehghanighobadi-etal-2025-llms                             0                              1
+             tutek-etal-2025-measuring                             0                              1
+              calderon-etal-2025-multi                             0                              1
+               zhao-iii-2025-necessary                             0                              1
+                      wang-etal-2025-v                             0                              1
+          malladi-etal-2025-explaining                             0                              1
+          zaman-srivastava-2025-causal                             0                              1
+               liu-etal-2025-metafaith                             0                              1
+              duan-etal-2025-unveiling                             0                              1
+              patel-etal-2025-retrieve                             0                              1
+         gur-arieh-etal-2025-enhancing                             0                              1
+azarkhalili-libbrecht-2025-generalized                             0                              1
+                 li-etal-2025-decoding                             0                              1
+                  ghosh-etal-2025-just                             0                              1
+                douglas-etal-2025-less                             0                              1
+            guerreiro-etal-2024-xcomet                             0                              1
+         erk-apidianaki-2024-adjusting                             0                              1
+           zhao-aletras-2024-comparing                             0                              1
+      vasileiou-eberle-2024-explaining                             0                              1
+          li-chaturvedi-2024-rationale                             0                              1
+           brandl-etal-2024-evaluating                             0                              1
+             zhou-etal-2024-explaining                             0                              1
+                   kamp-etal-2024-role                             0                              1
+      wojciechowski-etal-2024-faithful                             0                              1
+       wang-etal-2024-beyond-agreement                             0                              1
+          fang-etal-2024-understanding                             0                              1
+                 paul-etal-2024-making                             0                              1
+                    tian-etal-2024-cma                             0                              1
+                  leiter-etal-2024-bmx                             0                              1
+                     li-etal-2024-data                             0                              1
+       mishra-etal-2024-characterizing                             0                              1
+                   yadav-etal-2024-tox                             0                              1
+           zhao-etal-2024-successfully                             0                              1
+          buchmann-etal-2024-attribute                             0                              1
+        saenger-etal-2024-autopersuade                             0                              1
+            neo-etal-2024-interpreting                             0                              1
+             suresh-etal-2024-relative                             0                              1
+           pastor-etal-2024-explaining                             0                              1
+    calabrese-etal-2024-explainability                             0                              1
+                  jiang-etal-2024-rora                             0                              1
+          schimanski-etal-2024-towards                             0                              1
+         slobodkin-etal-2024-attribute                             0                              1
+                 ryu-2023-plausibility                             0                              1
+               zhu-etal-2023-knowledge                             0                              1
+             lin-morency-2023-sentecon                             0                              1
+filandrianos-etal-2023-counterfactuals                             0                              1
+          jacovi-etal-2023-neighboring                             0                              1
+ govindarajan-etal-2023-counterfactual                             0                              1
+       ch-wang-etal-2023-sociocultural                             0                              1
+                   wang-etal-2023-goal                             0                              1
+          briakou-etal-2023-explaining                             0                              1
+                menon-etal-2023-mantle                             0                              1
+               fanconi-etal-2023-reads                             0                              1
+            wan-etal-2023-faithfulness                             1                              0
+           rashkin-etal-2023-measuring                             0                              1
+                   tang-etal-2023-daam                             0                              1
+                  huang-etal-2023-zero                             0                              1
+               singh-etal-2023-peeking                             0                              1
+              yang-etal-2023-efficient                             0                              1
+             du-etal-2023-generalizing                             0                              1
+         storek-etal-2023-unsupervised                             0                              1
+                 liscio-etal-2023-text                             0                              1
+             dziri-etal-2022-faithdial                             0                              1
+          modarressi-etal-2022-globenc                             0                              1
+          sridhar-yang-2022-explaining                             0                              1
+                carton-etal-2022-learn                             0                              1
+          zhang-etal-2022-interpreting                             0                              1
+          yin-neubig-2022-interpreting                             0                              1
+      zaman-belinkov-2022-multilingual                             0                              1
+             chemmengath-etal-2022-cat                             0                              1
+                   ross-etal-2022-self                             0                              1
+              jain-etal-2022-extending                             0                              1
+         aglionby-teufel-2022-faithful                             0                              1
+                   jiang-etal-2022-im2                             0                              1
+               shen-etal-2022-shortest                             0                              1
+    tolkachev-etal-2022-counterfactual                             0                              1
+             yin-etal-2022-sensitivity                             0                              1
+                    liu-etal-2022-mpii                             1                              0
+     kaneko-etal-2022-interpretability                             0                              1
+            mosca-etal-2022-suspicious                             0                              1
+                 pham-etal-2022-double                             0                              1
+              elazar-etal-2021-amnesic                             0                              1
+            saha-etal-2021-multiprover                             0                              1
+             doogan-buntine-2021-topic                             0                              1
+ robeer-etal-2021-generating-realistic                             0                              1
+       rajagopal-etal-2021-selfexplain                             0                              1
+               situ-etal-2021-lifelong                             0                              1
+               ye-etal-2021-connecting                             0                              1
+            jayaram-allaway-2021-human                             0                              1
+                   fern-pope-2021-text                             0                              1
+       chrysostomou-aletras-2021-enjoy                             0                              1
+               kaster-etal-2021-global                             0                              1
+           sanyal-ren-2021-discretized                             0                              1
+              opitz-frank-2021-towards                             0                              1
+            moradi-etal-2021-measuring                             0                              1
+               feder-etal-2021-causalm                             0                              1
+          rashkin-etal-2021-increasing                             0                              1
+        atanasova-etal-2020-diagnostic                             0                              1
+                 chen-ji-2020-learning                             0                              1
+             yang-etal-2020-generating                             0                              1
+               jain-etal-2020-learning                             0                              1
+                 durmus-etal-2020-feqa                             0                              1
+           hase-bansal-2020-evaluating                             0                              1
+       subramanian-etal-2020-obtaining                             0                              1
+
+============================================================
+[PER-ROW] Agreement per paper across all columns:
+  yang-etal-2025-self: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  liu-etal-2025-exploring: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  guo-etal-2025-lab: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  tayyar-madabushi-etal-2025-generative: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  michel-etal-2025-evaluating: has_explanation_evaluation: ✘(csv=0 xlsx=1) | is_xai_interpretable: ✘(csv=0 xlsx=1) | has_significance_testing: ✘(csv=0 xlsx=1)
+  vladika-etal-2025-step: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  saakyan-etal-2025-understanding: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  calderon-reichart-2025-behalf: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wang-etal-2025-llms-convert: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  gao-etal-2025-interpretable: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  tan-etal-2025-cascading: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  lepori-etal-2025-racing: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  chen-etal-2025-benchmarking: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  xing-etal-2025-evaluating: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  howard-etal-2025-uncovering: has_explanation_evaluation: ✘(csv=0 xlsx=1) | is_xai_interpretable: ✘(csv=0 xlsx=1) | has_significance_testing: ✘(csv=0 xlsx=1)
+  li-etal-2025-mitigating-biases: has_explanation_evaluation: ✔ | is_xai_interpretable: ✘(csv=0 xlsx=1) | has_significance_testing: ✔
+  wan-etal-2025-positional: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wan-etal-2025-mamm: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  kim-etal-2025-llm: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  lee-etal-2025-self: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  menta-etal-2025-analyzing: has_explanation_evaluation: ✘(csv=0 xlsx=1) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  yao-etal-2025-mcqg: has_explanation_evaluation: ✘(csv=0 xlsx=1) | is_xai_interpretable: ✘(csv=0 xlsx=1) | has_significance_testing: ✔
+  ranaldi-etal-2025-eliciting: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  golovanevsky-etal-2025-vlms: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  yu-etal-2025-self: has_explanation_evaluation: ✘(csv=0 xlsx=1) | is_xai_interpretable: ✘(csv=0 xlsx=1) | has_significance_testing: ✔
+  koupaee-etal-2025-faithful: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  teplica-etal-2025-sciurus: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  sohn-etal-2025-rationale: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  chen-zeng-2025-prototype: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  yuan-etal-2025-cross: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  staliunaite-vlachos-2025-dis2dis: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  qian-etal-2025-teaching: has_explanation_evaluation: ✔ | is_xai_interpretable: ✘(csv=0 xlsx=1) | has_significance_testing: ✔
+  fekete-bjerva-2025-linguistically: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  luo-etal-2025-faithfulpersona: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  pan-etal-2025-prototype: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  muhamed-etal-2025-decoding: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  chang-etal-2025-safr: has_explanation_evaluation: ✘(csv=0 xlsx=1) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  singh-etal-2025-fidelity: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  sun-chen-2025-enhancing: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  avitan-etal-2025-practical: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  lu-etal-2025-tart: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  silva-etal-2025-cdb: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  ye-etal-2025-improving: has_explanation_evaluation: ✘(csv=0 xlsx=1) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  jiao-etal-2025-feasibility: has_explanation_evaluation: ✘(csv=0 xlsx=1) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  chu-etal-2025-rationale: has_explanation_evaluation: ✘(csv=0 xlsx=1) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  gai-etal-2025-medthink: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  jing-etal-2025-scale: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  bismay-etal-2025-reasoningrec: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  goel-etal-2025-target: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  udagawa-etal-2025-bias: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wang-etal-2025-multilingual-datasets: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wang-etal-2025-improving-llm: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  shu-etal-2025-survey: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  yu-etal-2025-structured: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✘(csv=1 xlsx=0) | has_significance_testing: ✔
+  hossain-etal-2025-toward: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  ho-etal-2025-table: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  ernst-etal-2025-come: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  yan-etal-2025-towards: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  xin-etal-2025-salamander: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  eldifrawi-etal-2025-fingract: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  wang-etal-2025-attribution: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  du-etal-2025-explainable: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  balasubramanian-etal-2025-closer: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zeng-etal-2025-mm: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✘(csv=1 xlsx=0) | has_significance_testing: ✔
+  peled-cohen-etal-2025-dementia: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  li-etal-2025-influence: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zeng-etal-2025-residualized: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  islam-goldwasser-2025-post: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  long-etal-2025-finlfqa: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  sengupta-etal-2025-investigating: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  li-etal-2025-treble: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  liu-chu-2025-llms: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  cheng-etal-2025-mitigating: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  bao-etal-2025-whos: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  ding-etal-2025-attention: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wang-etal-2025-fitcf: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  maiya-etal-2025-explaining: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  yang-etal-2025-longfaith: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  chu-etal-2025-domaino1s: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  xiao-etal-2025-tokenshapley: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  jia-etal-2025-bridging: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  li-etal-2025-investigating: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  huangyw-etal-2025-dynamic: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  zhu-etal-2025-rationales: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  jiang-etal-2025-towards-explainable: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  ping-etal-2025-longdpo: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  sui-etal-2025-fidelis: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  kim-etal-2025-reasoning: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  bi-etal-2025-context: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  li-etal-2025-towards-better: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  tak-etal-2025-mechanistic: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  paci-etal-2025-want: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  beckh-etal-2025-anatomy: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  li-etal-2025-generate: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  salemi-etal-2025-expert: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  shen-etal-2025-transparentize: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  saynova-etal-2025-fact: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  jang-etal-2025-verbosity: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  abolghasemi-etal-2025-evaluation: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  xu-etal-2025-diagnosing: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  ye-etal-2025-input: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  song-etal-2025-rationale: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  kim-etal-2025-expert: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zhang-etal-2025-mprf: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  peng-etal-2025-emotion: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  xu-etal-2025-training: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  diao-etal-2025-protovqa: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  polyakov-etal-2025-interpretability: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wright-etal-2025-unstructured: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  yang-etal-2025-unveiling: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wang-etal-2025-unleashing: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  yan-etal-2025-trust: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  xu-etal-2025-tree: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  wang-etal-2025-identification: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  cai-etal-2025-flightgpt: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zhang-wan-2025-r: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  dehghanighobadi-etal-2025-llms: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  rair-etal-2025-annotators: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wang-atanasova-2025-self: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  tutek-etal-2025-measuring: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  balagansky-etal-2025-train: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  yeo-etal-2025-towards: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  ong-etal-2025-deriving: has_explanation_evaluation: ✘(csv=0 xlsx=1) | is_xai_interpretable: ✘(csv=0 xlsx=1) | has_significance_testing: ✔
+  yang-etal-2025-faithun: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zhai-etal-2025-mentalglm: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  calabrese-etal-2025-compositional: has_explanation_evaluation: ✔ | is_xai_interpretable: ✘(csv=0 xlsx=1) | has_significance_testing: ✔
+  storks-etal-2025-transparent: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wang-etal-2025-qcrd: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  calderon-etal-2025-multi: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  zhao-iii-2025-necessary: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  wang-etal-2025-v: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  tu-etal-2025-rrinf: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  giloni-etal-2025-cair: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  suri-etal-2025-follow: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  liu-etal-2025-dual-path: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  arakelyan-etal-2025-flare: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  mayne-etal-2025-llms: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  jeon-etal-2025-sali4vid: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  bhagwatkar-etal-2025-cave: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  jing-etal-2025-lingualens: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  malladi-etal-2025-explaining: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  harrasse-etal-2025-tinysql: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  yuan-etal-2025-graph: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zaman-srivastava-2025-causal: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  liu-etal-2025-metafaith: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  lewis-lim-etal-2025-analysing: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  pulakurthi-etal-2025-x: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  popovic-farber-2025-extractive: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  chen-toral-2025-shortcuts: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  alshomary-etal-2025-latent: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wang-etal-2025-cross: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  tan-etal-2025-improving: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  chu-etal-2025-towards: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  tilli-vu-2025-discrete: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  chen-etal-2025-faithful: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  ferreira-etal-2025-explanation: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  salles-etal-2025-hatebrxplain: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  gallipoli-cagliero-2025-piece: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wen-etal-2025-gaprotonet: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zarharan-etal-2025-farexstance: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  duan-etal-2025-unveiling: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  fang-etal-2025-counterfactual: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  lim-lauw-2025-interpreting: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  alipoormolabashi-etal-2025-quantifying: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  ye-etal-2025-cleme2: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✘(csv=1 xlsx=0) | has_significance_testing: ✔
+  edin-etal-2025-normalized: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  patel-etal-2025-retrieve: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  luo-etal-2025-automating: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  gur-arieh-etal-2025-enhancing: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  li-etal-2025-drift: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  lin-etal-2025-gamebot: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  niu-etal-2025-knowledge: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  jiang-etal-2025-enhancing: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  hirsch-etal-2025-laquer: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  patnaik-etal-2025-learning: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  huang-etal-2025-improving: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  radevski-etal-2025-synthesizing: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  hu-etal-2025-llms: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  quan-etal-2025-faithful: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  azarkhalili-libbrecht-2025-generalized: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  tang-etal-2025-cognibench: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  chang-etal-2025-jopa: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  li-etal-2025-decoding: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  suri-etal-2025-chartlens: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  li-etal-2025-decoding-graphs: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  liang-etal-2025-colloquial: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  ghosh-etal-2025-just: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  min-etal-2025-understanding: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  ma-etal-2025-visa: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  douglas-etal-2025-less: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  sha-lukasiewicz-2024-text: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zeng-gao-2024-justilm: has_explanation_evaluation: ✘(csv=0 xlsx=1) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  adlakha-etal-2024-evaluating: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  aggazzotti-etal-2024-authorship: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  guerreiro-etal-2024-xcomet: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  honda-etal-2024-eliminate: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  jandaghi-etal-2024-faithful-persona: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  erk-apidianaki-2024-adjusting: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  zhao-aletras-2024-comparing: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  mcinerney-etal-2024-towards: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  valvoda-cotterell-2024-towards: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  vasileiou-eberle-2024-explaining: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  li-chaturvedi-2024-rationale: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  ikhwantri-etal-2024-analyzing: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  hu-etal-2024-generator: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✘(csv=1 xlsx=0) | has_significance_testing: ✔
+  lu-etal-2024-evaluating: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  brandl-etal-2024-evaluating: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  zhou-etal-2024-explaining: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  musil-marecek-2024-exploring: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  maladry-etal-2024-human: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  li-etal-2024-improving-faithfulness: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  tilli-vu-2024-intrinsic: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  cheng-etal-2024-learning: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  kamp-etal-2024-role: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  t-y-s-s-etal-2024-towards: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  bayer-etal-2024-xai: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zhang-etal-2024-xatu: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  qiu-etal-2024-think: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wei-jie-etal-2024-interpretable: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  resck-etal-2024-exploring: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  berchansky-etal-2024-cotar: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  liu-etal-2024-safety: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  li-etal-2024-diversify: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wojciechowski-etal-2024-faithful: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  cheng-etal-2024-towards: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  elazar-etal-2024-measuring: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  luo-etal-2024-summacoz: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  li-etal-2024-calibrating: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  he-etal-2024-explaining: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  mahajan-etal-2024-align: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  stoehr-etal-2024-activation: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wang-etal-2024-beyond-agreement: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  li-etal-2024-pedants: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  barkan-etal-2024-improving: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  barkan-etal-2024-llm: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  fang-etal-2024-understanding: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  si-etal-2024-denoising: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  elaraby-etal-2024-persuasiveness: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  nguyen-etal-2024-llms: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  paul-etal-2024-making: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  treviso-etal-2024-xtower: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  sonkar-etal-2024-malalgoqa: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  feng-etal-2024-promptexplainer: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zhao-etal-2024-explaining: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  tian-etal-2024-cma: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  leiter-etal-2024-bmx: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  madsen-etal-2024-self: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  qu-etal-2024-unsupervised: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  jin-etal-2024-cutting: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  qiu-etal-2024-valor: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  li-etal-2024-data: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  nigam-etal-2024-legal: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  amara-etal-2024-syntaxshap: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  agarwal-etal-2024-mememqa: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wei-jie-etal-2024-plausible: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  mishra-etal-2024-characterizing: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  fan-etal-2024-frva: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  phukan-etal-2024-peering: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wang-etal-2024-x: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  yadav-etal-2024-tox: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  enouen-etal-2024-textgenshap: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  li-etal-2024-evaluating-readability: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zhao-etal-2024-successfully: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  zhao-etal-2024-seer: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  yu-ananiadou-2024-neuron: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wu-etal-2024-dancing: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✘(csv=1 xlsx=0) | has_significance_testing: ✔
+  fisher-etal-2024-styleremix: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wang-etal-2024-f2rl: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  edin-etal-2024-unsupervised: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  xu-etal-2024-sayself: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  qi-etal-2024-model: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  huo-etal-2024-mmneuron: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  yona-etal-2024-large: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✘(csv=1 xlsx=0) | has_significance_testing: ✔
+  buchmann-etal-2024-attribute: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  chang-etal-2024-explaining: has_explanation_evaluation: ✘(csv=0 xlsx=1) | is_xai_interpretable: ✘(csv=0 xlsx=1) | has_significance_testing: ✔
+  wu-etal-2024-beyond: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wu-etal-2024-synchronous: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  subbiah-etal-2024-storysumm: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  jiang-etal-2024-mare: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  brinner-zarriess-2024-rationalizing: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  li-etal-2024-interpretable: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  kawabata-sugawara-2024-rationale: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  doddapaneni-etal-2024-finding: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✘(csv=1 xlsx=0) | has_significance_testing: ✔
+  saenger-etal-2024-autopersuade: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  neo-etal-2024-interpreting: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  ramu-etal-2024-enhancing: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zhai-etal-2024-towards: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  perrella-etal-2024-beyond: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  suresh-etal-2024-relative: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  zhang-etal-2024-fine: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  sachdeva-etal-2024-catfood: has_explanation_evaluation: ✔ | is_xai_interpretable: ✘(csv=1 xlsx=0) | has_significance_testing: ✔
+  moeller-etal-2024-approximate: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  pastor-etal-2024-explaining: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  lyu-etal-2024-towards: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  chaturvedi-etal-2024-analyzing: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  heinzerling-inui-2024-monotonic: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  calabrese-etal-2024-explainability: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  siegel-etal-2024-probabilities: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  jiang-etal-2024-rora: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  schimanski-etal-2024-towards: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  cheng-etal-2024-interpreting: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  slobodkin-etal-2024-attribute: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  lee-etal-2024-fleur: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  gu-etal-2024-digital: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  parcalabescu-frank-2024-measuring: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  miao-etal-2024-discursive: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  yu-etal-2024-revealing: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  huang-etal-2024-ravel: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  krichene-etal-2024-faithful: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  li-etal-2024-focus: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  ku-etal-2024-viescore: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✘(csv=1 xlsx=0) | has_significance_testing: ✔
+  zhao-etal-2024-tapera: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  xu-etal-2024-faithful: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zhang-etal-2024-escot: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  ramos-etal-2024-transparent: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  arora-etal-2024-causalgym: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  deng-etal-2024-webcites: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✘(csv=1 xlsx=0) | has_significance_testing: ✔
+  saakyan-muresan-2024-iclef: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wu-etal-2023-transparency: has_explanation_evaluation: ✘(csv=0 xlsx=1) | is_xai_interpretable: ✘(csv=0 xlsx=1) | has_significance_testing: ✔
+  ryu-2023-plausibility: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  du-etal-2023-make: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  madaan-etal-2023-makes: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  reich-etal-2023-measuring: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  jumelet-zuidema-2023-transparency: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  yue-etal-2023-automatic: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  chen-etal-2023-zara: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  yang-etal-2023-hare: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  li-etal-2023-distilling: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  li-du-2023-leveraging: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  mcinerney-etal-2023-chill: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  he-etal-2023-lego: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zhou-etal-2023-realbehavior: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  gu-etal-2023-iaeval: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  rao-etal-2023-makes: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zhou-etal-2023-context: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  joshi-etal-2023-unsupervised: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  cao-etal-2023-multi: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zhou-shah-2023-solvability: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  chiesurin-etal-2023-dangers: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zhu-etal-2023-knowledge: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  lin-morency-2023-sentecon: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  lu-etal-2023-asymmetric: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  veerubhotla-etal-2023-shot: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  jourdan-etal-2023-cockatiel: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  chan-etal-2023-interpretable: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  enguehard-2023-sequential: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  ju-etal-2023-continuous: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wang-xie-2023-constructing: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  li-etal-2023-defending: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  jukic-etal-2023-easy: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  filandrianos-etal-2023-counterfactuals: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  fajcik-etal-2023-claim: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  jacovi-etal-2023-neighboring: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  ju-etal-2023-hierarchical: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wagner-foster-2023-investigating: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  govindarajan-etal-2023-counterfactual: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  chen-etal-2023-distinguish: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  brinner-zarriess-2023-model: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  kawabata-sugawara-2023-evaluating: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  muller-etal-2023-evaluating: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  chen-etal-2023-using: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  simhi-markovitch-2023-interpreting: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  bouyamourn-2023-llms: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  mousi-etal-2023-llms: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  ch-wang-etal-2023-sociocultural: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  attanasio-etal-2023-tale: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  jang-etal-2023-post: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✘(csv=1 xlsx=0) | has_significance_testing: ✔
+  hou-etal-2023-towards: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  yang-etal-2023-towards: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  kamp-etal-2023-dynamic: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  eberle-etal-2023-rather: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  stolfo-etal-2023-mechanistic: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  majumder-etal-2023-interfair: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  xu-etal-2023-dissonance: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  nandwani-etal-2023-pointwise: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✘(csv=1 xlsx=0) | has_significance_testing: ✔
+  wang-etal-2023-goal: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  zhang-etal-2023-famesumm: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  jia-etal-2023-zero: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  briakou-etal-2023-explaining: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  yue-etal-2023-interventional: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  xu-etal-2023-vechr: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  choudhury-etal-2023-explaining: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  burger-etal-2023-explanations: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wang-etal-2023-coffee: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  menon-etal-2023-mantle: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  fanconi-etal-2023-reads: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  tu-etal-2023-training: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  moeller-etal-2023-attribution: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zhao-etal-2023-hop: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wang-etal-2023-extracting: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zhao-etal-2023-loft: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✘(csv=1 xlsx=0) | has_significance_testing: ✔
+  krishna-etal-2023-longeval: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✘(csv=1 xlsx=0) | has_significance_testing: ✔
+  modarressi-etal-2023-guide: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  dai-etal-2023-plausible: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✘(csv=1 xlsx=0) | has_significance_testing: ✔
+  held-yang-2023-shapley: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  hayati-etal-2023-stylex: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wan-etal-2023-faithfulness: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✘(csv=1 xlsx=0) | has_significance_testing: ✘(csv=1 xlsx=0)
+  rashkin-etal-2023-measuring: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  atanasova-etal-2023-faithfulness: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  steen-etal-2023-little: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✘(csv=1 xlsx=0) | has_significance_testing: ✔
+  zhang-etal-2023-safeconv: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  cheng-etal-2023-explainable: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  chen-etal-2023-rev: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zhang-etal-2023-extractive: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  modarressi-etal-2023-decompx: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  parcalabescu-frank-2023-mm: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zhao-aletras-2023-incorporating: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  ferrando-etal-2023-explaining: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  tang-etal-2023-daam: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  huang-etal-2023-zero: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  zhang-etal-2023-interpretable: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  joshi-etal-2023-machine: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  singh-etal-2023-peeking: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  wu-etal-2023-ad: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  yang-etal-2023-efficient: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  yang-etal-2023-local: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  ladhak-etal-2023-contrastive: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  du-etal-2023-generalizing: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  storek-etal-2023-unsupervised: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  ma-etal-2023-bump: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✘(csv=1 xlsx=0) | has_significance_testing: ✔
+  kim-etal-2023-explainmeetsum: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  liscio-etal-2023-text: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  treviso-etal-2023-crest: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  dziri-etal-2022-evaluating: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  thayaparan-etal-2022-diff: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  sajjad-etal-2022-neuron: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  dziri-etal-2022-faithdial: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  modarressi-etal-2022-globenc: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  sullivan-etal-2022-explaining: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✘(csv=1 xlsx=0) | has_significance_testing: ✔
+  sridhar-yang-2022-explaining: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  zhang-etal-2022-locally: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  balkir-etal-2022-necessity: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wang-etal-2022-rely: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  khashabi-etal-2022-prompt: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✘(csv=1 xlsx=0) | has_significance_testing: ✔
+  chen-etal-2022-rationalization: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  khalid-lee-2022-explaining: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✘(csv=1 xlsx=0) | has_significance_testing: ✔
+  yamada-etal-2022-annotation: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✘(csv=1 xlsx=0) | has_significance_testing: ✔
+  cambria-etal-2022-senticnet: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  prouteau-etal-2022-embedding: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  luo-surdeanu-2022-step: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  bhattarai-etal-2022-explainable: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  marasovic-etal-2022-shot: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zhang-etal-2022-improving-faithfulness: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  liu-etal-2022-improve: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  jain-etal-2022-influence: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  el-zini-awad-2022-beyond: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  madsen-etal-2022-evaluating: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  lee-goldwasser-2022-towards: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  palaskar-etal-2022-advances: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  geng-etal-2022-inducing: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  he-etal-2022-controlling: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  sun-etal-2022-investigating: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  fang-zhang-2022-data: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  li-etal-2022-using: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  ronnqvist-etal-2022-explaining: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  carton-etal-2022-learn: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  pezeshkpour-etal-2022-combining: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zhan-etal-2022-mitigating: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  luo-etal-2022-interpretable: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zhang-etal-2022-interpreting: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  fomicheva-etal-2022-translation: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  yin-neubig-2022-interpreting: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  bastings-etal-2022-will: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zaman-belinkov-2022-multilingual: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  tafjord-etal-2022-entailer: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  mcinerney-etal-2022-thats: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  stacey-etal-2022-logical: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wang-etal-2022-analyzing: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✘(csv=1 xlsx=0) | has_significance_testing: ✔
+  wu-etal-2022-precisely: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  liu-etal-2022-rlet: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  chemmengath-etal-2022-cat: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  ross-etal-2022-self: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  jain-etal-2022-extending: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  aglionby-teufel-2022-faithful: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  jiang-etal-2022-im2: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  udomcharoenchaikit-etal-2022-mitigating: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  bashier-etal-2022-locally: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  ge-etal-2022-e: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  yang-etal-2022-coarse: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  lymperaiou-etal-2022-towards: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  kim-etal-2022-hate: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  yan-etal-2022-hierarchical: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  shen-etal-2022-shortest: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  tolkachev-etal-2022-counterfactual: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  geng-etal-2022-improving: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  sanyal-etal-2022-fairr: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  ladhak-etal-2022-faithful: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✘(csv=1 xlsx=0) | has_significance_testing: ✔
+  yin-etal-2022-sensitivity: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  das-etal-2022-prototex: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  gupta-etal-2022-right: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  chan-etal-2022-comparative: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  ju-etal-2022-logic: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  lee-etal-2022-toward: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  liu-etal-2022-mpii: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=1 xlsx=0)
+  kaneko-etal-2022-interpretability: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  mosca-etal-2022-suspicious: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  pham-etal-2022-double: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  van-aken-etal-2022-patient: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  elazar-etal-2021-amnesic: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  jacovi-goldberg-2021-aligning: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  lamm-etal-2021-qed: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  chalkidis-etal-2021-paragraph: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  du-etal-2021-towards: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  pezeshkpour-etal-2021-empirical: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wu-etal-2021-counterfactual: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zhu-etal-2021-faithfully: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  saha-etal-2021-multiprover: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  doogan-buntine-2021-topic: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  zhang-etal-2021-double: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✘(csv=1 xlsx=0) | has_significance_testing: ✔
+  chen-etal-2021-explaining: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  ding-koehn-2021-evaluating: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  fu-etal-2021-decomposing-complex: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  ferrando-costa-jussa-2021-attention-weights: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  robeer-etal-2021-generating-realistic: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  zhang-etal-2021-noahqa-numerical: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  han-tsvetkov-2021-influence-tuning: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  dawkins-2021-marked: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  sen-etal-2021-counterfactually: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  rajagopal-etal-2021-selfexplain: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  jacovi-etal-2021-contrastive: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  bursztyn-etal-2021-doesnt: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  situ-etal-2021-lifelong: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  ju-etal-2021-enhancing: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  lakhotia-etal-2021-fid: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  ye-etal-2021-connecting: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  jayaram-allaway-2021-human: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  fern-pope-2021-text: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  guerreiro-martins-2021-spectra: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  dalvi-etal-2021-explaining: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  chrysostomou-aletras-2021-enjoy: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  lv-etal-2021-multi: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  kaster-etal-2021-global: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  wiegreffe-etal-2021-measuring: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  sanyal-ren-2021-discretized: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  vafa-etal-2021-rationales: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  guo-etal-2021-fastif: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  bhat-etal-2021-self: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  opitz-frank-2021-towards: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  moradi-etal-2021-measuring: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  feder-etal-2021-causalm: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  agarwal-etal-2021-interpretability: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  meister-etal-2021-sparse: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wu-etal-2021-unified: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  yang-etal-2021-exploring: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  chrysostomou-aletras-2021-improving: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  rashkin-etal-2021-increasing: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  sikdar-etal-2021-integrated: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  du-etal-2021-excar: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  chen-etal-2021-kace: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  pugoy-kao-2021-unsupervised: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  jiang-etal-2021-alignment: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zhang-etal-2021-sample: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  huang-etal-2021-exploring: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  aralikatte-etal-2021-focus: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wu-etal-2021-polyjuice: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  xu-durrett-2021-dissecting: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  onoe-durrett-2020-interpretable: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  filippova-2020-controlled: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  glockner-etal-2020-think: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  shnarch-etal-2020-unsupervised: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  rajagopal-etal-2020-ask: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  pruthi-etal-2020-weakly: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  saha-etal-2020-prover: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  feng-etal-2020-explainable: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  paranjape-etal-2020-information: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  weng-etal-2020-towards: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  kim-etal-2020-interpretation: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  jiang-etal-2020-cold: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  ramnath-etal-2020-towards: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  de-cao-etal-2020-decisions: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  atanasova-etal-2020-diagnostic: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  sen-etal-2020-learning: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  chen-ji-2020-learning: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  zeng-etal-2020-counterfactual: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  kotonya-toni-2020-explainable-automated: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  carton-etal-2020-evaluating: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  kotonya-toni-2020-explainable: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  yang-etal-2020-generating: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  wang-etal-2020-towards: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  chen-etal-2020-towards: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wu-etal-2020-perturbed: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  jacovi-goldberg-2020-towards: has_explanation_evaluation: ✘(csv=1 xlsx=0) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  mohankumar-etal-2020-towards: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  deyoung-etal-2020-eraser: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  jain-etal-2020-learning: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  durmus-etal-2020-feqa: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  hase-bansal-2020-evaluating: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  han-etal-2020-explaining: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  subramanian-etal-2020-obtaining: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  swanson-etal-2020-rationalizing: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  rajani-etal-2020-esprit: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wang-etal-2020-rationalizing: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  kumar-talukdar-2020-nile: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+
+============================================================
+[RESULTS]
+
+  NOTE: Cohen's kappa can be 0 or negative when label prevalence is heavily
+  skewed (e.g. mostly TRUE or mostly FALSE). In such cases, PABAK is the
+  recommended metric as it adjusts for prevalence imbalance.
+  Interpretation: <0.20 slight, 0.21-0.40 fair, 0.41-0.60 moderate,
+                  0.61-0.80 substantial, >0.80 almost perfect
+
+                    column   n  observed_agreement  cohen_kappa  scotts_pi    pabak  krippendorff_alpha
+has_explanation_evaluation 593            0.887015     0.507933   0.502756 0.774030            0.502756
+      is_xai_interpretable 593            0.940978     0.547693   0.546582 0.881956            0.546582
+  has_significance_testing 593            0.790894     0.053447  -0.043244 0.581788           -0.043244
+
+Saved: output/agreement_results_llm_f.csv

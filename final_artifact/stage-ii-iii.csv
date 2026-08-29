@@ -1,0 +1,1402 @@
+﻿id,title,has_explanation_evaluation,has_significance_testing,is_xai_interpretable,main_venue_match
+yang-etal-2025-self,Self-Rationalization in the Wild: A Large-scale Out-of-Distribution Evaluation on {NLI}-related tasks,True,False,True,TACL
+liu-etal-2025-exploring,Exploring Practical Gaps in Using Cross Entropy to Implement Maximum Mutual Information Criterion for Rationalization,True,False,True,TACL
+guo-etal-2025-lab,{LAB}-{KG}: A Retrieval-Augmented Generation Method with Knowledge Graphs for Medical Lab Test Interpretation,False,False,True,COLING
+tayyar-madabushi-etal-2025-generative,Generative {F}rame{N}et: Scalable and Adaptive Frames for Interpretable Knowledge Storage and Retrieval for {LLM}s Powered by {LLM}s,False,False,True,COLING
+michel-etal-2025-evaluating,Evaluating {LLM}s for Quotation Attribution in Literary Texts: A Case Study of {LL}a{M}a3,False,False,False,NAACL
+vladika-etal-2025-step,Step-by-Step Fact Verification System for Medical Claims with Explainable Reasoning,False,False,True,NAACL
+saakyan-etal-2025-understanding,Understanding Figurative Meaning through Explainable Visual Entailment,True,False,True,NAACL
+calderon-reichart-2025-behalf,On Behalf of the Stakeholders: Trends in {NLP} Model Interpretability in the Era of {LLM}s,False,False,True,NAACL
+wang-etal-2025-llms-convert,Can {LLM}s Convert Graphs to Text-Attributed Graphs?,False,False,False,NAACL
+gao-etal-2025-interpretable,An Interpretable and Crosslingual Method for Evaluating Second-Language Dialogues,False,False,True,NAACL
+tan-etal-2025-cascading,Cascading Large Language Models for Salient Event Graph Generation,False,False,False,NAACL
+lepori-etal-2025-racing,Racing Thoughts: Explaining Contextualization Errors in Large Language Models,True,False,True,NAACL
+chen-etal-2025-benchmarking,Benchmarking Large Language Models on Answering and Explaining Challenging Medical Questions,True,False,True,NAACL
+xing-etal-2025-evaluating,Evaluating Evidence Attribution in Generated Fact Checking Explanations,True,False,True,NAACL
+howard-etal-2025-uncovering,Uncovering Bias in Large Vision-Language Models at Scale with Counterfactuals,False,False,False,NAACL
+li-etal-2025-mitigating-biases,Mitigating Biases of Large Language Models in Stance Detection with Counterfactual Augmented Calibration,False,False,False,NAACL
+wan-etal-2025-positional,On Positional Bias of Faithfulness for Long-form Summarization,True,False,True,NAACL
+wan-etal-2025-mamm,{MAMM}-Refine: A Recipe for Improving Faithfulness in Generation with Multi-Agent Collaboration,True,False,True,NAACL
+kim-etal-2025-llm,{LLM}-guided Plan and Retrieval: A Strategic Alignment for Interpretable User Satisfaction Estimation in Dialogue,False,False,True,NAACL
+lee-etal-2025-self,Self-Training Meets Consistency: Improving {LLM}s' Reasoning with Consistency-Driven Rationale Evaluation,True,False,True,NAACL
+menta-etal-2025-analyzing,Analyzing Memorization in Large Language Models through the Lens of Model Attribution,False,False,True,NAACL
+yao-etal-2025-mcqg,"{MCQG}-{SR}efine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback",False,False,False,NAACL
+ranaldi-etal-2025-eliciting,Eliciting Critical Reasoning in Retrieval-Augmented Generation via Contrastive Explanations,True,False,True,NAACL
+golovanevsky-etal-2025-vlms,What Do {VLM}s {NOTICE}? A Mechanistic Interpretability Pipeline for {G}aussian-Noise-free Text-Image Corruption and Evaluation,True,False,True,NAACL
+yu-etal-2025-self,Self-Generated Critiques Boost Reward Modeling for Language Models,False,False,False,NAACL
+koupaee-etal-2025-faithful,"Faithful, Unfaithful or Ambiguous? Multi-Agent Debate with Initial Stance for Summary Evaluation",True,False,True,NAACL
+teplica-etal-2025-sciurus,{SCIUR}us: Shared Circuits for Interpretable Uncertainty Representations in Language Models,True,False,True,NAACL
+sohn-etal-2025-rationale,Rationale-Guided Retrieval Augmented Generation for Medical Question Answering,False,False,False,NAACL
+chen-zeng-2025-prototype,Prototype Conditioned Generative Replay for Continual Learning in {NLP},False,False,False,NAACL
+yuan-etal-2025-cross,Cross-Document Cross-Lingual {NLI} via {RST}-Enhanced Graph Fusion and Interpretability Prediction,False,False,True,EMNLP
+staliunaite-vlachos-2025-dis2dis,{D}is2{D}is: Explaining Ambiguity in Fact-Checking,True,False,True,Findings
+qian-etal-2025-teaching,Teaching Large Language Models Number-Focused Headline Generation With Key Element Rationales,False,False,False,Findings
+fekete-bjerva-2025-linguistically,Linguistically Grounded Analysis of Language Models using Shapley Head Values,True,False,True,Findings
+luo-etal-2025-faithfulpersona,{F}aithful{P}ersona: Balancing Faithfulness and Personalization in Code Explanations through Self-Critique,True,False,True,Findings
+pan-etal-2025-prototype,Prototype Tuning: A Meta-Learning Approach for Few-Shot Document-Level Relation Extraction with Large Language Models,False,False,False,Findings
+muhamed-etal-2025-decoding,Decoding Dark Matter: Specialized Sparse Autoencoders for Interpreting Rare Concepts in Foundation Models,True,False,True,Findings
+chang-etal-2025-safr,{SAFR}: Neuron Redistribution for Interpretability,False,False,True,Findings
+singh-etal-2025-fidelity,{FIDELITY}: Fine-grained Interpretable Distillation for Effective Language Insights and Topic Yielding,False,False,True,Findings
+sun-chen-2025-enhancing,Enhancing the Prototype Network with Local-to-Global Optimization for Few-Shot Relation Extraction,False,False,False,Findings
+avitan-etal-2025-practical,A Practical Method for Generating String Counterfactuals,True,False,True,Findings
+lu-etal-2025-tart,{TART}: An Open-Source Tool-Augmented Framework for Explainable Table-based Reasoning,False,False,True,Findings
+silva-etal-2025-cdb,"{CDB}: A Unified Framework for Hope Speech Detection Through Counterfactual, Desire and Belief",False,False,False,Findings
+ye-etal-2025-improving,Improving Reward Models with Synthetic Critiques,False,False,True,Findings
+jiao-etal-2025-feasibility,On the Feasibility of In-Context Probing for Data Attribution,False,False,True,Findings
+chu-etal-2025-rationale,Rationale Behind Essay Scores: Enhancing {S}-{LLM}{'}s Multi-Trait Essay Scoring with Rationale Generated by {LLM}s,False,False,True,Findings
+gai-etal-2025-medthink,{M}ed{T}hink: A Rationale-Guided Framework for Explaining Medical Visual Question Answering,True,False,True,Findings
+jing-etal-2025-scale,On A Scale From 1 to 5: Quantifying Hallucination in Faithfulness Evaluation,True,False,True,Findings
+bismay-etal-2025-reasoningrec,{R}easoning{R}ec: Bridging Personalized Recommendations and Human-Interpretable Explanations through {LLM} Reasoning,True,False,True,Findings
+goel-etal-2025-target,Target-Augmented Shared Fusion-based Multimodal Sarcasm Explanation Generation,True,False,True,Findings
+udagawa-etal-2025-bias,Bias Analysis and Mitigation through Protected Attribute Detection and Regard Classification,False,False,False,Findings
+wang-etal-2025-multilingual-datasets,Multilingual Datasets for Custom Input Extraction and Explanation Requests Parsing in Conversational {XAI} Systems,False,False,True,Findings
+wang-etal-2025-improving-llm,Improving {LLM} Reasoning through Interpretable Role-Playing Steering,False,False,True,Findings
+li-etal-2025-dont,Don{'}t Take the Premise for Granted: Evaluating the Premise Critique Ability of Large Language Models,False,False,False,Findings
+lan-etal-2025-training,Training Language Models to Critique With Multi-agent Feedback,False,False,False,Findings
+shu-etal-2025-survey,A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models,True,False,True,Findings
+shu-etal-2025-large,Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability,False,False,True,Findings
+yu-etal-2025-structured,A Structured Framework for Evaluating and Enhancing Interpretive Capabilities of Multimodal {LLM}s in Culturally Situated Tasks,True,False,True,Findings
+huang-etal-2025-manusearch,{M}anu{S}earch: Democratizing Deep Search in Large Language Models with a Transparent and Open Multi-Agent Framework,False,False,False,Findings
+hossain-etal-2025-toward,Toward Inclusive Language Models: Sparsity-Driven Calibration for Systematic and Interpretable Mitigation of Social Biases in {LLM}s,True,False,True,Findings
+ho-etal-2025-table,Table-Text Alignment: Explaining Claim Verification Against Tables in Scientific Papers,True,False,True,Findings
+rao-etal-2025-llm,{LLM}-based Open Domain Planning by Leveraging Entity-Attribute-Level Domain Models,False,False,False,Findings
+jeon-etal-2025-progressive,Progressive Facial Granularity Aggregation with Bilateral Attribute-based Enhancement for Face-to-Speech Synthesis,False,False,False,Findings
+van-supranes-etal-2025-enhancing,Enhancing Hate Speech Classifiers through a Gradient-assisted Counterfactual Text Generation Strategy,False,False,False,Findings
+du-etal-2025-role,Role-Guided Annotation and Prototype-Aligned Representation Learning for Historical Literature Sentiment Classification,False,False,False,Findings
+wu-etal-2025-beyond-spurious,Beyond Spurious Signals: Debiasing Multimodal Large Language Models via Counterfactual Inference and Adaptive Expert Routing,False,False,False,Findings
+zhang-etal-2025-hierprompt,{H}ier{P}rompt: Zero-Shot Hierarchical Text Classification with {LLM}-Enhanced Prototypes,False,False,False,Findings
+ernst-etal-2025-come,Where Did That Come From? Sentence-Level Error-Tolerant Attribution,True,False,True,Findings
+hu-etal-2025-explaining,Explaining Length Bias in {LLM}-Based Preference Evaluations,False,False,False,Findings
+li-etal-2025-heal,{HEAL}: Hybrid Enhancement with {LLM}-based Agents for Text-attributed Hypergraph Self-supervised Representation Learning,False,False,False,Findings
+yan-etal-2025-towards,Towards Efficient {C}o{T} Distillation: Self-Guided Rationale Selector for Better Performance with Fewer Rationales,True,False,True,Findings
+chen-etal-2025-enhancing-attributed,Enhancing Attributed Question Answering using Tailored Progressive Curriculum Learning,False,False,False,Findings
+xin-etal-2025-salamander,{S}ala{MA}nder: Shapley-based Mathematical Expression Attribution and Metric for Chain-of-Thought Reasoning,True,False,True,Findings
+wu-etal-2025-unveiling-multimodal,Unveiling Multimodal Processing: Exploring Activation Patterns in Multimodal {LLM}s for Interpretability and Efficiency,False,False,True,Findings
+kumar-etal-2025-extracting,Extracting Conceptual Spaces from {LLM}s Using Prototype Embeddings,False,False,True,Findings
+eldifrawi-etal-2025-fingract,{F}in{G}r{A}ct: A Framework for {FIN}e-{GR}rained Evaluation of {ACT}ionability in Explainable Automatic Fact-Checking,True,False,True,Findings
+wang-etal-2025-attribution,Attribution and Application of Multiple Neurons in Multimodal Large Language Models,True,False,True,Findings
+ying-etal-2025-language,Language-Informed Synthesis of Rational Agent Models for Grounded Theory-of-Mind Reasoning On-the-fly,False,False,False,Findings
+du-etal-2025-explainable,Explainable Text Classification with {LLM}s: Enhancing Performance through Dialectical Prompting and Explanation-Guided Training,True,False,True,Findings
+koo-etal-2025-hawk,{HAWK}: Highlighting Entity-aware Knowledge for Alleviating Information Sparsity in Long Contexts,False,False,False,Findings
+balasubramanian-etal-2025-closer,A Closer Look at Bias and Chain-of-Thought Faithfulness of Large (Vision) Language Models,True,False,True,Findings
+zeng-etal-2025-mm,{MM}-{CRITIC}: A Holistic Evaluation of Large Multimodal Models as Multimodal Critique,True,False,True,Findings
+peled-cohen-etal-2025-dementia,Dementia Through Different Eyes: Explainable Modeling of Human and {LLM} Perceptions for Early Awareness,True,False,True,Findings
+luo-etal-2025-fair,Fair Text-Attributed Graph Representation Learning,False,False,False,Findings
+li-etal-2025-influence,Do Influence Functions Work on Large Language Models?,True,False,True,Findings
+aida-bollegala-2025-scdtour,{SCDT}our: Embedding Axis Ordering and Merging for Interpretable Semantic Change Detection,False,False,True,Findings
+niaouri-etal-2025-mask,[{MASK}]{ED} - Language Modeling for Explainable Classification and Disentangling of Socially Unacceptable Discourse.,False,False,True,Findings
+rahimi-etal-2025-lost,Not Lost After All: How Cross-Encoder Attribution Challenges Position Bias Assumptions in {LLM} Summarization,False,False,False,Findings
+zeng-etal-2025-residualized,Residualized Similarity for Faithfully Explainable Authorship Verification,True,False,True,Findings
+islam-goldwasser-2025-post,Post-hoc Study of Climate Microtargeting on Social Media Ads with {LLM}s: Thematic Insights and Fairness Evaluation,True,False,True,Findings
+wang-etal-2025-inducing,Inducing Argument Facets for Faithful Opinion Summarization,False,False,False,Findings
+yu-etal-2025-explainable,Explainable Chain-of-Thought Reasoning: An Empirical Analysis on State-Aware Reasoning Dynamics,False,False,True,Findings
+long-etal-2025-finlfqa,{F}in{LFQA}: Evaluating Attributed Text Generation of {LLM}s in Financial Long-Form Question Answering,True,False,True,Findings
+sengupta-etal-2025-investigating,Investigating the Impact of Conceptual Metaphors on {LLM}-based {NLI} through Shapley Interactions,True,False,True,Findings
+sicilia-alikhani-2025-adaptive,Adaptive {P}latt Scaling with Causal Interpretations for Self-Reflective Language Model Uncertainty Estimates,False,False,True,Findings
+li-etal-2025-treble,Treble Counterfactual {VLM}s: A Causal Approach to Hallucination,True,False,True,Findings
+han-etal-2025-attributes,Attributes as Textual Genes: Leveraging {LLM}s as Genetic Algorithm Simulators for Conditional Synthetic Data Generation,False,False,False,Findings
+seo-kwon-2025-protoxtm,{P}roto{XTM}: Cross-Lingual Topic Modeling with Document-Level Prototype-based Contrastive Learning,False,False,True,Findings
+guimaraes-etal-2025-narratex,{N}arrat{EX} Dataset: Explaining the Dominant Narratives in News Texts,False,False,True,Findings
+yu-etal-2025-lore,{LORE}: Continual Logit Rewriting Fosters Faithful Generation,False,False,False,Findings
+ha-etal-2025-mv,{MV}-{CLAM}: Multi-View Molecular Interpretation with Cross-Modal Projection via Language Model,False,False,False,Findings
+pauli-etal-2025-mind,Mind the Style Gap: Meta-Evaluation of Style and Attribute Transfer Metrics,False,False,False,Findings
+liu-chu-2025-llms,Do {LLM}s Align Human Values Regarding Social Biases? Judging and Explaining Social Biases with {LLM}s,True,False,True,Findings
+ou-etal-2025-claimcheck,{CLAIMCHECK}: How Grounded are {LLM} Critiques of Scientific Papers?,False,False,False,Findings
+joshi-etal-2025-improving,Improving Language Model Personas via Rationalization with Psychological Scaffolds,False,False,True,Findings
+mamta-cocarascu-2025-guard,{I}-{GUARD}: Interpretability-Guided Parameter Optimization for Adversarial Defense,False,False,True,Findings
+fedorova-etal-2025-explaining,Explaining novel senses using definition generation with open language models,False,False,True,Findings
+wu-etal-2025-evaluating,Evaluating Fairness in Large Vision-Language Models Across Diverse Demographic Attributes and Prompts,False,False,False,Findings
+han-etal-2025-black,No Black Boxes: Interpretable and Interactable Predictive Healthcare with Knowledge-Enhanced Agentic Causal Discovery,False,False,True,Findings
+oozeer-etal-2025-beyond,Beyond Linear Steering: Unified Multi-Attribute Control for Language Models,False,False,False,Findings
+cheng-etal-2025-mitigating,Mitigating Spurious Correlations via Counterfactual Contrastive Learning,True,False,True,Findings
+hasanain-etal-2025-propxplain,{P}rop{X}plain: Can {LLM}s Enable Explainable Propaganda Detection?,False,False,True,Findings
+bao-etal-2025-whos,Who{'}s the Author? How Explanations Impact User Reliance in {AI}-Assisted Authorship Attribution,True,False,True,Findings
+ding-etal-2025-attention,Attention with Dependency Parsing Augmentation for Fine-Grained Attribution,True,False,True,Findings
+gebreegziabher-etal-2025-leveraging,Leveraging Variation Theory in Counterfactual Data Augmentation for Optimized Active Learning,False,False,False,Findings
+wang-etal-2025-fitcf,{F}it{CF}: A Framework for Automatic Feature Importance-guided Counterfactual Example Generation,True,False,True,Findings
+wu-etal-2025-separate,Separate the Wheat from the Chaff: A Post-Hoc Approach to Safety Re-Alignment for Fine-Tuned Language Models,False,False,False,Findings
+weidinger-etal-2025-aquaechr,{AQ}u{AECHR}: Attributed Question Answering for {E}uropean Court of Human Rights,False,False,False,Findings
+chen-etal-2025-explainable,Explainable Hallucination through Natural Language Inference Mapping,False,False,True,Findings
+chu-etal-2025-self,Self-Critique Guided Iterative Reasoning for Multi-hop Question Answering,False,False,False,Findings
+zhou-etal-2025-reasoning,Reasoning is All You Need for Video Generalization: A Counterfactual Benchmark with Sub-question Evaluation,False,False,False,Findings
+maiya-etal-2025-explaining,Explaining Puzzle Solutions in Natural Language: An Exploratory Study on 6x6 Sudoku,True,False,True,Findings
+yang-etal-2025-longfaith,{L}ong{F}aith: Enhancing Long-Context Reasoning in {LLM}s with Faithful Synthetic Data,False,False,False,Findings
+chu-etal-2025-domaino1s,Domain$o1$s: Guiding {LLM} Reasoning for Explainable Answers in High-Stakes Domains,True,False,True,Findings
+long-etal-2025-beyond,Beyond In-Context Learning: Aligning Long-form Generation of Large Language Models via Task-Inherent Attribute Guidelines,False,False,False,Findings
+bevendorff-etal-2025-two,The Two Paradigms of {LLM} Detection: Authorship Attribution vs. Authorship Verification,False,False,False,Findings
+xiao-etal-2025-tokenshapley,{T}oken{S}hapley: Token Level Context Attribution with Shapley Value,True,False,True,Findings
+chetia-phukan-etal-2025-investigating,Investigating Prosodic Signatures via Speech Pre-Trained Models for Audio Deepfake Source Attribution,False,False,False,Findings
+jia-etal-2025-bridging,Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation,True,False,True,Findings
+saxena-etal-2025-matched,{MATCHED}: Multimodal Authorship-Attribution To Combat Human Trafficking in Escort-Advertisement Data,False,False,False,Findings
+rodriguez-etal-2025-continued,Continued Pretraining and Interpretability-Based Evaluation for Low-Resource Languages: A {G}alician Case Study,False,False,False,Findings
+li-etal-2025-investigating,Investigating Context Faithfulness in Large Language Models: The Roles of Memory Strength and Evidence Style,True,False,True,Findings
+huangyw-etal-2025-dynamic,Dynamic Attention-Guided Context Decoding for Mitigating Context Faithfulness Hallucinations in Large Language Models,True,False,True,Findings
+zhao-etal-2025-correcting,Correcting on Graph: Faithful Semantic Parsing over Knowledge Graphs with Large Language Models,False,False,False,Findings
+zhu-etal-2025-rationales,Rationales Are Not Silver Bullets: Measuring the Impact of Rationales on Model Performance and Reliability,True,False,True,Findings
+fu-etal-2025-mark,{MARK}: Multi-agent Collaboration with Ranking Guidance for Text-attributed Graph Clustering,False,False,False,Findings
+fan-etal-2025-sek,{SEK}: Self-Explained Keywords Empower Large Language Models for Code Generation,False,False,True,Findings
+jiang-etal-2025-towards-explainable,Towards Explainable Temporal Reasoning in Large Language Models: A Structure-Aware Generative Framework,True,False,True,Findings
+ping-etal-2025-longdpo,{L}ong{DPO}: Unlock Better Long-form Generation Abilities for {LLM}s via Critique-augmented Stepwise Information,False,False,False,Findings
+sui-etal-2025-fidelis,{F}i{D}e{L}i{S}: Faithful Reasoning in Large Language Models for Knowledge Graph Question Answering,True,False,True,Findings
+zhu-etal-2025-lime,{LIME}: Less Is More for {MLLM} Evaluation,False,False,False,Findings
+li-etal-2025-cmie,{CMIE}: Combining {MLLM} Insights with External Evidence for Explainable Out-of-Context Misinformation Detection,False,False,True,Findings
+zhang-etal-2025-explainable,Explainable Depression Detection in Clinical Interviews with Personalized Retrieval-Augmented Generation,False,False,True,Findings
+kim-etal-2025-reasoning,Reasoning Circuits in Language Models: A Mechanistic Interpretation of Syllogistic Inference,True,False,True,Findings
+bi-etal-2025-context,Context-{DPO}: Aligning Language Models for Context-Faithfulness,True,False,True,Findings
+li-etal-2025-towards-better,Towards Better Chain-of-Thought: A Reflection on Effectiveness and Faithfulness,True,False,True,Findings
+hong-etal-2025-rhetorical,Rhetorical Device-Aware Sarcasm Detection with Counterfactual Data Augmentation,False,False,False,Findings
+wu-etal-2025-boosting,Boosting {LLM} Translation Skills without General Ability Loss via Rationale Distillation,False,False,False,Findings
+sariyanto-etal-2025-towards,Towards Explainable Hate Speech Detection,False,False,True,Findings
+tak-etal-2025-mechanistic,Mechanistic Interpretability of Emotion Inference in Large Language Models,True,False,True,Findings
+chen-etal-2025-cod,"{C}o{D}, Towards an Interpretable Medical Agent using Chain of Diagnosis",False,False,True,Findings
+wang-etal-2025-ldir,{LDIR}: Low-Dimensional Dense and Interpretable Text Embeddings with Relative Representations,False,False,True,Findings
+zhong-etal-2025-nargina,{N}ar{GINA}: Towards Accurate and Interpretable Children{'}s Narrative Ability Assessment via Narrative Graphs,False,False,True,Findings
+im-etal-2025-deragec,{D}e{RAGEC}: Denoising Named Entity Candidates with Synthetic Rationale for {ASR} Error Correction,False,False,False,Findings
+paci-etal-2025-want,They want to pretend not to understand: The Limits of Current {LLM}s in Interpreting Implicit Content of Political Discourse,True,False,True,Findings
+saparina-lapata-2025-disambiguate,"Disambiguate First, Parse Later: Generating Interpretations for Ambiguity Resolution in Semantic Parsing",False,False,False,Findings
+beckh-etal-2025-anatomy,The Anatomy of Evidence: An Investigation Into Explainable {ICD} Coding,True,False,True,Findings
+li-etal-2025-generate,"Generate, Discriminate, Evolve: Enhancing Context Faithfulness via Fine-Grained Sentence-Level Self-Evolution",True,False,True,Findings
+salemi-etal-2025-expert,{E}x{P}er{T}: Effective and Explainable Evaluation of Personalized Long-Form Text Generation,True,False,True,Findings
+tan-etal-2025-open,Open-World Authorship Attribution,False,False,False,Findings
+shen-etal-2025-transparentize,Transparentize the Internal and External Knowledge Utilization in {LLM}s with Trustworthy Citation,True,False,True,Findings
+zahid-etal-2025-bedaa,{BEDAA}: {B}ayesian Enhanced {D}e{BERT}a for Uncertainty-Aware Authorship Attribution,False,False,True,Findings
+saynova-etal-2025-fact,"Fact Recall, Heuristics or Pure Guesswork? Precise Interpretations of Language Models for Fact Completion",True,False,True,Findings
+zhang-etal-2025-safety,Safety is Not Only About Refusal: Reasoning-Enhanced Fine-tuning for Interpretable {LLM} Safety,False,False,True,Findings
+aljanaideh-2025-speech,Speech Act Patterns for Improving Generalizability of Explainable Politeness Detection Models,False,False,True,Findings
+kim-etal-2025-fave,{F}a{V}e: Factored and Verified Search Rationale for Long-form Answer,False,False,False,Findings
+lv-etal-2025-distribution,Out-of-Distribution Detection via {LLM}-Guided Outlier Generation for Text-attributed Graph,False,False,False,Findings
+hong-etal-2025-data,Data Interpreter: An {LLM} Agent for Data Science,False,False,False,Findings
+jang-etal-2025-verbosity,Verbosity-Aware Rationale Reduction: Sentence-Level Rationale Reduction for Efficient and Effective Reasoning,True,False,True,Findings
+abolghasemi-etal-2025-evaluation,Evaluation of Attribution Bias in Generator-Aware Retrieval-Augmented Large Language Models,True,False,True,Findings
+xu-etal-2025-diagnosing,Diagnosing Failures in Large Language Models' Answers: Integrating Error Attribution into Evaluation Framework,True,False,True,Findings
+ye-etal-2025-input,Can Input Attributions Explain Inductive Reasoning in In-Context Learning?,True,False,True,Findings
+song-etal-2025-rationale,Does Rationale Quality Matter? Enhancing Mental Disorder Detection via Selective Reasoning Distillation,True,True,True,Findings
+lu-etal-2025-wasa,{WASA}: {WA}termark-based Source Attribution for Large Language Model-Generated Data,False,False,False,Findings
+zhou-etal-2025-llms,Are {LLM}s Rational Investors? A Study on the Financial Bias in {LLM}s,False,False,False,Findings
+wongkamjan-etal-2025-trust,Should {I} Trust You? Detecting Deception in Negotiations using Counterfactual {RL},False,False,False,Findings
+kim-etal-2025-expert,{EXPERT}: An Explainable Image Captioning Evaluation Metric with Structured Explanations,True,False,True,Findings
+yu-etal-2025-training,Training Language Model to Critique for Better Refinement,False,False,False,Findings
+cao-etal-2025-rationalize,Rationalize and Align: Enhancing Writing Assistance with Rationale via Self-Training for Improved Alignment,False,False,True,Findings
+zhang-etal-2025-mprf,{MPRF}: Interpretable Stance Detection through Multi-Path Reasoning Framework,True,False,True,EMNLP
+peng-etal-2025-emotion,Emotion Transfer with Enhanced Prototype for Unseen Emotion Recognition in Conversation,False,False,False,EMNLP
+xu-etal-2025-training,Training a Utility-based Retriever Through Shared Context Attribution for Retrieval-Augmented Language Models,True,False,True,EMNLP
+diao-etal-2025-protovqa,{P}roto{VQA}: An Adaptable Prototypical Framework for Explainable Fine-Grained Visual Question Answering,True,False,True,EMNLP
+polyakov-etal-2025-interpretability,Interpretability Analysis of Arithmetic In-Context Learning in Large Language Models,True,False,True,EMNLP
+wright-etal-2025-unstructured,Unstructured Evidence Attribution for Long Context Query Focused Summarization,True,False,True,EMNLP
+yang-etal-2025-unveiling,Unveiling Internal Reasoning Modes in {LLM}s: A Deep Dive into Latent Reasoning vs. Factual Shortcuts with Attribute Rate Ratio,True,False,True,EMNLP
+wang-etal-2025-unleashing,Unleashing the Reasoning Potential of {LLM}s by Critique Fine-Tuning on One Problem,False,False,False,EMNLP
+yan-etal-2025-trust,{TRUST}-{VL}: An Explainable News Assistant for General Multimodal Misinformation Detection,False,False,True,EMNLP
+xu-etal-2025-tree,Tree-of-Quote Prompting Improves Factuality and Attribution in Multi-Hop and Medical Reasoning,True,False,True,EMNLP
+wang-etal-2025-identification,Identification of Multiple Logical Interpretations in Counter-Arguments,False,False,False,EMNLP
+cai-etal-2025-flightgpt,{F}light{GPT}: Towards Generalizable and Interpretable {UAV} Vision-and-Language Navigation with Vision-Language Models,False,False,True,EMNLP
+zhang-wan-2025-r,{R}-Bind: Unified Enhancement of Attribute and Relation Binding in Text-to-Image Diffusion Models,False,False,False,EMNLP
+dehghanighobadi-etal-2025-llms,Can {LLM}s Explain Themselves Counterfactually?,True,False,True,EMNLP
+rair-etal-2025-annotators,"When Annotators Disagree, Topology Explains: Mapper, a Topological Tool for Exploring Text Embedding Geometry and Ambiguity",False,False,True,EMNLP
+wang-atanasova-2025-self,Self-Critique and Refinement for Faithful Natural Language Explanations,True,False,True,EMNLP
+tutek-etal-2025-measuring,Measuring Chain of Thought Faithfulness by Unlearning Reasoning Steps,True,False,True,EMNLP
+balagansky-etal-2025-train,Train One Sparse Autoencoder Across Multiple Sparsity Budgets to Preserve Interpretability and Accuracy,True,False,True,EMNLP
+yeo-etal-2025-towards,Towards Faithful Natural Language Explanations: A Study Using Activation Patching in Large Language Models,True,False,True,EMNLP
+ong-etal-2025-deriving,Deriving Strategic Market Insights with Large Language Models: A Benchmark for Forward Counterfactual Generation,False,False,False,EMNLP
+yang-etal-2025-faithun,{F}aith{U}n: Toward Faithful Forgetting in Language Models by Investigating the Interconnectedness of Knowledge,True,False,True,EMNLP
+zhai-etal-2025-mentalglm,{M}ental{GLM} Series: Explainable Large Language Models for Mental Health Analysis on {C}hinese Social Media,True,False,True,EMNLP
+calabrese-etal-2025-compositional,Compositional Generalisation for Explainable Hate Speech Detection,False,False,False,EMNLP
+storks-etal-2025-transparent,Transparent and Coherent Procedural Mistake Detection,True,False,True,EMNLP
+wang-etal-2025-qcrd,{QCRD}: Quality-guided Contrastive Rationale Distillation for Large Language Models,True,False,True,EMNLP
+calderon-etal-2025-multi,Multi-Domain Explainability of Preferences,True,False,True,EMNLP
+zhao-iii-2025-necessary,A Necessary Step toward Faithfulness: Measuring and Improving Consistency in Free-Text Explanations,True,False,True,EMNLP
+sun-etal-2025-thinkedit,{T}hink{E}dit: Interpretable Weight Editing to Mitigate Overly Short Thinking in Reasoning Models,False,False,True,EMNLP
+liu-etal-2025-pychoagent,{P}ycho{A}gent: Psychology-driven {LLM} Agents for Explainable Panic Prediction on Social Media during Sudden Disaster Events,True,False,True,EMNLP
+wang-etal-2025-v,{V}-{SEAM}: Visual Semantic Editing and Attention Modulating for Causal Interpretability of Vision-Language Models,True,False,True,EMNLP
+tu-etal-2025-rrinf,{RRI}nf: Efficient Influence Function Estimation via Ridge Regression for Large Language Models and Text-to-Image Diffusion Models,True,False,True,EMNLP
+giloni-etal-2025-cair,{CAIR}: Counterfactual-based Agent Influence Ranker for Agentic {AI} Workflows,True,False,True,EMNLP
+resck-etal-2025-explainability,Explainability and Interpretability of Multilingual Large Language Models: A Survey,False,False,True,EMNLP
+guo-etal-2025-dsvd,{DSVD}: Dynamic Self-Verify Decoding for Faithful Generation in Large Language Models,False,False,False,EMNLP
+zhao-etal-2025-lga,{LGA}: {LLM}-{GNN} Aggregation for Temporal Evolution Attribute Graph Prediction,False,False,False,EMNLP
+yuan-etal-2025-mmag,{MMAG}: Multimodal Learning for Mucus Anomaly Grading in Nasal Endoscopy via Semantic Attribute Prompting,False,False,True,EMNLP
+lee-etal-2025-interpretation,Interpretation Meets Safety: A Survey on Interpretation Methods and Tools for Improving {LLM} Safety,False,False,True,EMNLP
+xie-etal-2025-rd,{RD}-{MCSA}: A Multi-Class Sentiment Analysis Approach Integrating In-Context Classification Rationales and Demonstrations,False,False,True,EMNLP
+lee-etal-2025-localization,Does Localization Inform Unlearning? A Rigorous Examination of Local Parameter Attribution for Knowledge Unlearning in Language Models,False,False,False,EMNLP
+bai-etal-2025-understanding,Understanding and Leveraging the Expert Specialization of Context Faithfulness in Mixture-of-Experts {LLM}s,False,False,True,EMNLP
+opitz-etal-2025-interpretable,Interpretable Text Embeddings and Text Similarity Explanation: A Survey,False,False,True,EMNLP
+suri-etal-2025-follow,Follow the Flow: Fine-grained Flowchart Attribution with Neurosymbolic Agents,True,False,True,EMNLP
+estienne-etal-2025-collaborative,Collaborative Rational Speech Act: Pragmatic Reasoning for Multi-Turn Dialog,False,False,False,EMNLP
+liu-etal-2025-dual-path,Dual-Path Counterfactual Integration for Multimodal Aspect-Based Sentiment Classification,True,False,True,EMNLP
+maslenkova-etal-2025-building,Building Trust in Clinical {LLM}s: Bias Analysis and Dataset Transparency,False,False,False,EMNLP
+wang-etal-2025-drivel,Drivel-ology: Challenging {LLM}s with Interpreting Nonsense with Depth,False,False,False,EMNLP
+sperber-etal-2025-toward,Toward Machine Interpreting: Lessons from Human Interpreting Studies,False,False,False,EMNLP
+arakelyan-etal-2025-flare,{FLARE}: Faithful Logic-Aided Reasoning and Exploration,True,False,True,EMNLP
+clark-etal-2025-resource,Resource-Rational Noisy-Channel Language Processing: Testing the Effect of Algorithmic Constraints on Inferences,False,False,False,EMNLP
+wang-blanco-2025-identifying,Identifying and Answering Questions with False Assumptions: An Interpretable Approach,False,False,True,EMNLP
+mayne-etal-2025-llms,{LLM}s Don{'}t Know Their Own Decision Boundaries: The Unreliability of Self-Generated Counterfactual Explanations,True,False,True,EMNLP
+dang-etal-2025-improving,Improving Large Language Models Function Calling and Interpretability via Guided-Structured Templates,False,False,True,EMNLP
+kang-etal-2025-fairgen,{F}air{G}en: Controlling Sensitive Attributes for Fair Generations in Diffusion Models via Adaptive Latent Guidance,False,False,False,EMNLP
+lee-etal-2025-interpretable,Interpretable Mnemonic Generation for Kanji Learning via Expectation-Maximization,False,False,True,EMNLP
+bussotti-papotti-2025-refining,Refining Attention for Explainable and Noise-Robust Fact-Checking with Transformers,False,False,True,EMNLP
+jeon-etal-2025-sali4vid,{S}ali4{V}id: Saliency-Aware Video Reweighting and Adaptive Caption Retrieval for Dense Video Captioning,False,False,False,EMNLP
+ye-etal-2025-enhanced,Enhanced Noun-Noun Compound Interpretation through Textual Enrichment,False,False,False,EMNLP
+park-etal-2025-decoding,Decoding Dense Embeddings: Sparse Autoencoders for Interpreting and Discretizing Dense Retrieval,False,False,True,EMNLP
+la-cava-tagarelli-2025-openturingbench,{O}pen{T}uring{B}ench: An Open-Model-based Benchmark and Framework for Machine-Generated Text Detection and Attribution,False,False,False,EMNLP
+huang-etal-2025-critictool,{CRITICTOOL}: Evaluating Self-Critique Capabilities of Large Language Models in Tool-Calling Error Scenarios,False,False,False,EMNLP
+bhagwatkar-etal-2025-cave,{CAVE} : Detecting and Explaining Commonsense Anomalies in Visual Environments,True,False,True,EMNLP
+jing-etal-2025-lingualens,{L}ingua{L}ens: Towards Interpreting Linguistic Mechanisms of Large Language Models via Sparse Auto-Encoder,True,False,True,EMNLP
+malladi-etal-2025-explaining,Explaining Differences Between Model Pairs in Natural Language through Sample Learning,True,False,True,EMNLP
+shi-etal-2025-llms,Do {LLM}s Behave as Claimed? Investigating How {LLM}s Follow Their Own Claims using Counterfactual Questions,False,False,False,EMNLP
+shao-etal-2025-iterative,Iterative Multilingual Spectral Attribute Erasure,False,False,False,EMNLP
+harrasse-etal-2025-tinysql,{T}iny{SQL}: A Progressive Text-to-{SQL} Dataset for Mechanistic Interpretability Research,True,False,True,EMNLP
+yuan-etal-2025-graph,Graph-Guided Textual Explanation Generation Framework,True,False,True,EMNLP
+zaman-srivastava-2025-causal,A Causal Lens for Evaluating Faithfulness Metrics,True,False,True,EMNLP
+liu-etal-2025-metafaith,{M}eta{F}aith: Faithful Natural Language Uncertainty Expression in {LLM}s,True,False,True,EMNLP
+lewis-lim-etal-2025-analysing,Analysing Chain of Thought Dynamics: Active Guidance or Unfaithful Post-hoc Rationalisation?,True,False,True,EMNLP
+kmainasi-etal-2025-memeintel,{M}eme{I}ntel: Explainable Detection of Propagandistic and Hateful Memes,False,False,True,EMNLP
+liu-etal-2025-autoct,{A}uto{CT}: Automating Interpretable Clinical Trial Prediction with {LLM} Agents,False,False,True,EMNLP
+pulakurthi-etal-2025-x,{X}-{C}o{T}: Explainable Text-to-Video Retrieval via {LLM}-based Chain-of-Thought Reasoning,True,False,True,EMNLP
+popovic-farber-2025-extractive,Extractive Fact Decomposition for Interpretable Natural Language Inference in one Forward Pass,True,False,True,EMNLP
+chen-toral-2025-shortcuts,From Shortcuts to Balance: Attribution Analysis of Speech-Text Feature Utilization in Distinguishing Original from Machine-Translated Texts,True,False,True,EMNLP
+xin-etal-2025-cda,{CDA}{\textasciicircum}2: Counterfactual Diffusion Augmentation for Cross-Domain Adaptation in Low-Resource Sentiment Analysis,False,False,False,COLING
+li-ouyang-2025-explaining,Explaining Relationships Among Research Papers,False,False,False,COLING
+alshomary-etal-2025-latent,Latent Space Interpretation for Stylistic Analysis and Explainable Authorship Attribution,True,False,True,COLING
+wang-etal-2025-cross,Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem,True,False,True,COLING
+liu-etal-2025-enhancing,Enhancing Multi-party Dialogue Discourse Parsing with Explanation Generation,False,False,True,COLING
+mun-shin-2025-polysemy,Polysemy Interpretation and Transformer Language Models: A Case of {K}orean Adverbial Postposition -(u)lo,False,False,False,COLING
+tan-etal-2025-improving,Improving Explainable Fact-Checking with Claim-Evidence Correlations,True,False,True,COLING
+mina-etal-2025-cognitive,"Cognitive Biases, Task Complexity, and Result Interpretability in Large Language Models",False,False,False,COLING
+chu-etal-2025-towards,Towards Faithful Multi-step Reasoning through Fine-Grained Causal-aware Attribution Reasoning Distillation,True,False,True,COLING
+tilli-vu-2025-discrete,Discrete Subgraph Sampling for Interpretable Graph based Visual Question Answering,True,False,True,COLING
+shen-etal-2025-reasoning,Reasoning with Trees: Faithful Question Answering over Knowledge Graph,False,False,True,COLING
+irnawan-etal-2025-claim,Claim veracity assessment for explainable fake news detection,False,False,True,COLING
+chen-etal-2025-faithful,Faithful Inference Chains Extraction for Fact Verification over Multi-view Heterogeneous Graph with Causal Intervention,True,False,True,COLING
+hao-etal-2025-post,Post-Hoc Watermarking for Robust Detection in Text Generated by Large Language Models,False,False,False,COLING
+wu-etal-2025-edge,Edge-free but Structure-aware: Prototype-Guided Knowledge Distillation from {GNN}s to {MLP}s,False,False,False,COLING
+liu-etal-2025-empirical,Empirical Study on Data Attributes Insufficiency of Evaluation Benchmarks for {LLM}s,False,False,False,COLING
+alqurashi-etal-2025-bert,{BERT}-based Classical {A}rabic Poetry Authorship Attribution,False,False,False,COLING
+riahi-samani-etal-2025-large,Large Language Models with Reinforcement Learning from Human Feedback Approach for Enhancing Explainable Sexism Detection,False,False,True,COLING
+ferreira-etal-2025-explanation,Explanation Regularisation through the Lens of Attributions,True,False,True,COLING
+salles-etal-2025-hatebrxplain,{H}ate{BRX}plain: A Benchmark Dataset with Human-Annotated Rationales for Explainable Hate Speech Detection in {B}razilian {P}ortuguese,True,False,True,COLING
+hu-etal-2025-large,Large Language Model-Based Event Relation Extraction with Rationales,False,False,True,COLING
+li-etal-2025-incorporating,Incorporating Review-missing Interactions for Generative Explainable Recommendation,False,False,True,COLING
+zhang-etal-2025-hire,Hire Me or Not? Examining Language Model{'}s Behavior with Occupation Attributes,False,False,False,COLING
+ling-etal-2025-enhancing,Enhancing Factual Consistency in Text Summarization via Counterfactual Debiasing,False,False,False,COLING
+dementieva-etal-2025-multilingual,Multilingual and Explainable Text Detoxification with Parallel Corpora,False,False,True,COLING
+zhao-etal-2025-dynamic,Dynamic-prototype Contrastive Fine-tuning for Continual Few-shot Relation Extraction with Unseen Relation Detection,False,False,False,COLING
+xu-etal-2025-log,{LOG}: A Local-to-Global Optimization Approach for Retrieval-based Explainable Multi-Hop Question Answering,False,False,False,COLING
+gallipoli-cagliero-2025-piece,It is not a piece of cake for {GPT}: Explaining Textual Entailment Recognition in the presence of Figurative Language,True,False,True,COLING
+wen-etal-2025-gaprotonet,{GAP}roto{N}et: A Multi-head Graph Attention-based Prototypical Network for Interpretable Text Classification,True,False,True,COLING
+kim-2025-ambiguous,How Ambiguous Are the Rationales for Natural Language Reasoning? A Simple Approach to Handling Rationale Uncertainty,False,False,True,COLING
+zarharan-etal-2025-farexstance,{F}ar{E}x{S}tance: Explainable Stance Detection for {F}arsi,True,False,True,COLING
+duan-etal-2025-unveiling,Unveiling Language Competence Neurons: A Psycholinguistic Approach to Model Interpretability,True,False,True,COLING
+gao-etal-2025-consistency,Consistency Rating of Semantic Transparency: an Evaluation Method for Metaphor Competence in Idiom Understanding Tasks,False,False,False,COLING
+fang-etal-2025-counterfactual,Counterfactual Debating with Preset Stances for Hallucination Elimination of {LLM}s,True,False,True,COLING
+lim-lauw-2025-interpreting,Interpreting Topic Models in Byte-Pair Encoding Space,True,False,True,COLING
+zhou-etal-2025-text,Text-Attributed Graph Learning with Coupled Augmentations,False,False,False,COLING
+lam-etal-2025-leveraging,Leveraging Human Production-Interpretation Asymmetries to Test {LLM} Cognitive Plausibility,False,False,False,ACL
+zhao-etal-2025-seeking,Seeking Rational Demonstrations for Large Language Models: A Domain Generalization Approach to Unsupervised Cross-Domain Keyphrase Generation,False,False,False,ACL
+alipoormolabashi-etal-2025-quantifying,Quantifying Misattribution Unfairness in Authorship Attribution,False,False,False,ACL
+kim-hwang-2025-counterfactual,Counterfactual-Consistency Prompting for Relative Temporal Understanding in Large Language Models,False,False,False,ACL
+ye-etal-2025-cleme2,{CLEME}2.0: Towards Interpretable Evaluation by Disentangling Edits for Grammatical Error Correction,True,False,True,ACL
+ruggeri-signorelli-2025-interlocking,Interlocking-free Selective Rationalization Through Genetic-based Learning,False,False,True,ACL
+li-etal-2025-open,Open-World Attribute Mining for {E}-Commerce Products with Multimodal Self-Correction Instruction Tuning,False,False,False,ACL
+edin-etal-2025-normalized,Normalized {AOPC}: Fixing Misleading Faithfulness Metrics for Feature Attributions Explainability,True,False,True,ACL
+patel-etal-2025-retrieve,Retrieve to Explain: Evidence-driven Predictions for Explainable Drug Target Identification,True,False,True,ACL
+zhou-etal-2025-taming,Taming Language Models for Text-attributed Graph Learning with Decoupled Aggregation,False,False,False,ACL
+yang-etal-2025-confidence,Confidence v.s. Critique: A Decomposition of Self-Correction Capability for {LLM}s,False,False,False,ACL
+luo-etal-2025-automating,"Automating Legal Interpretation with {LLM}s: Retrieval, Generation, and Evaluation",True,False,True,ACL
+wei-zhu-2025-protolens,{P}roto{L}ens: Advancing Prototype Learning for Fine-Grained Interpretability in Text Classification,False,False,True,ACL
+zhang-etal-2025-dually,Dually Self-Improved Counterfactual Data Augmentation Using Large Language Model,False,False,False,ACL
+meng-etal-2025-stigma,"What is Stigma Attributed to? A Theory-Grounded, Expert-Annotated Interview Corpus for Demystifying Mental-Health Stigma",False,False,False,ACL
+gur-arieh-etal-2025-enhancing,Enhancing Automated Interpretability with Output-Centric Feature Descriptions,True,False,True,ACL
+chen-etal-2025-f5,F5-{TTS}: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching,False,False,False,ACL
+zhelnin-etal-2025-gift,{GIFT}-{SW}: {G}aussian noise Injected Fine-Tuning of Salient Weights for {LLM}s,False,False,False,ACL
+li-etal-2025-drift,Drift: Enhancing {LLM} Faithfulness in Rationale Generation via Dual-Reward Probabilistic Inference,True,False,True,ACL
+lin-etal-2025-gamebot,{GAMEB}o{T}: Transparent Assessment of {LLM} Reasoning in Games,True,False,True,ACL
+xie-etal-2025-improving,Improving Model Factuality with Fine-grained Critique-based Evaluator,False,False,False,ACL
+ravenda-etal-2025-llms,Are {LLM}s effective psychological assessors? Leveraging adaptive {RAG} for interpretable mental health screening through psychometric practice,False,False,True,ACL
+kim-lee-2025-forward,Forward Knows Efficient Backward Path: Saliency-Guided Memory-Efficient Fine-tuning of Large Language Models,False,False,False,ACL
+li-ng-2025-think,Think{\&}Cite: Improving Attributed Text Generation with Self-Guided Tree Search and Progress Reward Modeling,False,False,False,ACL
+zhu-etal-2025-real,From Real to Synthetic: Synthesizing Millions of Diversified and Complicated User Instructions with Attributed Grounding,False,False,False,ACL
+pham-etal-2025-mitigating,Mitigating Non-Representative Prototypes and Representation Bias in Few-Shot Continual Relation Extraction,False,False,False,ACL
+niu-etal-2025-knowledge,Knowledge-Augmented Multimodal Clinical Rationale Generation for Disease Diagnosis with Small Language Models,True,False,True,ACL
+jiang-etal-2025-enhancing,Enhancing Interpretable Image Classification Through {LLM} Agents and Conditional Concept Bottleneck Models,True,False,True,ACL
+lian-etal-2025-beyond,Beyond Surface Simplicity: Revealing Hidden Reasoning Attributes for Precise Commonsense Diagnosis,False,False,False,ACL
+rose-etal-2025-meddxagent,{MEDD}x{A}gent: A Unified Modular Agent Framework for Explainable Automatic Differential Diagnosis,False,False,True,ACL
+hirsch-etal-2025-laquer,{LAQ}uer: Localized Attribution Queries in Content-grounded Generation,True,False,True,ACL
+patnaik-etal-2025-learning,Learning Together to Perform Better: Teaching Small-Scale {LLM}s to Collaborate via Preferential Rationale Tuning,True,False,True,ACL
+song-etal-2025-irt,{IRT}-Router: Effective and Interpretable Multi-{LLM} Routing via Item Response Theory,False,False,True,ACL
+javorsky-etal-2025-mockconf,"{M}ock{C}onf: A Student Interpretation Dataset: Analysis, Word- and Span-level Alignment and Baselines",False,False,False,ACL
+khan-etal-2025-explaining,Explaining Matters: Leveraging Definitions and Semantic Expansion for Sexism Detection,False,False,False,ACL
+huang-etal-2025-improving,Improving Contextual Faithfulness of Large Language Models via Retrieval Heads-Induced Optimization,True,False,True,ACL
+radevski-etal-2025-synthesizing,On Synthesizing Data for Context Attribution in Question Answering,True,False,True,ACL
+hu-etal-2025-llms,Can {LLM}s Evaluate Complex Attribution in {QA}? Automatic Benchmarking using Knowledge Graphs,True,False,True,ACL
+bao-etal-2025-fixing,Fixing Distribution Shifts of {LLM} Self-Critique via On-Policy Self-Play Training,False,False,False,ACL
+quan-etal-2025-faithful,Faithful and Robust {LLM}-Driven Theorem Proving for {NLI} Explanations,True,False,True,ACL
+zheng-etal-2025-dncasr,{DNCASR}: End-to-End Training for Speaker-Attributed {ASR},False,False,False,ACL
+azarkhalili-libbrecht-2025-generalized,Generalized Attention Flow: Feature Attribution for Transformer Models via Maximum Flow,True,False,True,ACL
+nguyen-etal-2025-multi,Multi-Attribute Steering of Language Models via Targeted Intervention,False,False,False,ACL
+singhvi-etal-2025-using,Using Shapley interactions to understand how models use structure,False,False,True,ACL
+spinoso-di-piano-etal-2025-rsa,({RSA}){\texttwosuperior}: A Rhetorical-Strategy-Aware Rational Speech Act Framework for Figurative Language Understanding,False,False,False,ACL
+tang-etal-2025-cognibench,{C}ogni{B}ench: A Legal-inspired Framework and Dataset for Assessing Cognitive Faithfulness of Large Language Models,True,False,True,ACL
+zhang-etal-2025-faithfulrag,{F}aithful{RAG}: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augmented Generation,False,False,True,ACL
+park-etal-2025-evaluating,Evaluating Visual and Cultural Interpretation: The K-Viscuit Benchmark with Human-{VLM} Collaboration,False,False,False,ACL
+chang-etal-2025-jopa,{J}o{PA}: Explaining Large Language Model{'}s Generation via Joint Prompt Attribution,True,False,True,ACL
+feng-etal-2025-culfit,{C}ul{F}i{T}: A Fine-grained Cultural-aware {LLM} Training Paradigm via Multilingual Critique Data Synthesis,False,False,True,ACL
+li-etal-2025-decoding,Decoding Knowledge Attribution in Mixture-of-Experts: A Framework of Basic-Refinement Collaboration and Efficiency Analysis,True,False,True,ACL
+suri-etal-2025-chartlens,{C}hart{L}ens: Fine-grained Visual Attribution in Charts,True,False,True,ACL
+go-etal-2025-xdac,{XDAC}: {XAI}-Driven Detection and Attribution of {LLM}-Generated News Comments in {K}orean,False,False,True,ACL
+lee-etal-2025-emotional,Does the Emotional Understanding of {LVLM}s Vary Under High-Stress Environments and Across Different Demographic Attributes?,False,False,False,ACL
+li-etal-2025-decoding-graphs,Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains,True,False,True,ACL
+li-pan-2025-ceaes,{CEAES}: Bidirectional Reinforcement Learning Optimization for Consistent and Explainable Essay Assessment,False,False,False,ACL
+liang-etal-2025-colloquial,Colloquial Singaporean {E}nglish Style Transfer with Fine-Grained Explainable Control,True,False,True,ACL
+hu-etal-2025-dual,A Dual-Perspective {NLG} Meta-Evaluation Framework with Automatic Benchmark and Better Interpretability,False,False,True,ACL
+ghosh-etal-2025-just,Just a Scratch: Enhancing {LLM} Capabilities for Self-harm Detection through Intent Differentiation and Emoji Interpretation,True,False,True,ACL
+min-etal-2025-understanding,Understanding Impact of Human Feedback via Influence Functions,True,False,True,ACL
+padhi-etal-2025-counterspeech,Counterspeech the ultimate shield! Multi-Conditioned Counterspeech Generation through Attributed Prefix Learning,False,False,False,ACL
+hein-etal-2025-chexalign,{C}he{X}align: Preference fine-tuning in chest {X}-ray interpretation models without human feedback,False,False,False,ACL
+sun-etal-2025-prism,{PRISM}: A Framework for Producing Interpretable Political Bias Embeddings with Political-Aware Cross-Encoder,False,False,True,ACL
+pronesti-etal-2025-query,Query-driven Document-level Scientific Evidence Extraction from Biomedical Studies,False,False,False,ACL
+wang-etal-2025-a3,$\mathcal{A}^3$: Automatic Alignment Framework for Attributed Text Generation,False,False,False,ACL
+kamigaito-etal-2025-diversity,Diversity Explains Inference Scaling Laws: Through a Case Study of Minimum {B}ayes Risk Decoding,False,False,False,ACL
+ma-etal-2025-visa,{VISA}: Retrieval Augmented Generation with Visual Source Attribution,True,False,True,ACL
+li-etal-2025-iris,{IRIS}: Interpretable Retrieval-Augmented Classification for Long Interspersed Document Sequences,False,False,True,ACL
+saranathan-etal-2025-sublime,{S}ub{LIME}: Subset Selection via Rank Correlation Prediction for Data-Efficient {LLM} Evaluation,False,False,False,ACL
+douglas-etal-2025-less,Less is More: Explainable and Efficient {ICD} Code Prediction with Clinical Entities,True,False,True,ACL
+su-etal-2025-taclr,{TACLR}: A Scalable and Efficient Retrieval-based Method for Industrial Product Attribute Value Identification,False,False,False,ACL
+yang-etal-2025-maple,{MAPLE}: Enhancing Review Generation with Multi-Aspect Prompt {LE}arning in Explainable Recommendation,False,False,True,ACL
+xu-etal-2025-citeeval,{C}ite{E}val: Principle-Driven Citation Evaluation for Source Attribution,False,False,False,ACL
+sui-etal-2025-kristeva,{KRISTEVA}: Close Reading as a Novel Task for Benchmarking Interpretive Reasoning,False,False,False,ACL
+sha-lukasiewicz-2024-text,Text Attribute Control via Closed-Loop Disentanglement,False,False,False,TACL
+zeng-gao-2024-justilm,{J}usti{LM}: Few-shot Justification Generation for Explainable Fact-Checking of Real-world Claims,False,False,True,TACL
+adlakha-etal-2024-evaluating,Evaluating Correctness and Faithfulness of Instruction-Following Models for Question Answering,True,False,True,TACL
+aggazzotti-etal-2024-authorship,Can Authorship Attribution Models Distinguish Speakers in Speech Transcripts?,False,False,False,TACL
+guerreiro-etal-2024-xcomet,x{COMET}: Transparent Machine Translation Evaluation through Fine-grained Error Detection,True,False,True,TACL
+honda-etal-2024-eliminate,Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding,False,False,False,TACL
+jandaghi-etal-2024-faithful-persona,Faithful Persona-based Conversational Dataset Generation with Large Language Models,False,False,False,Findings
+zhang-etal-2024-improving-toponym,Improving Toponym Resolution by Predicting Attributes to Constrain Geographical Ontology Entries,False,False,False,NAACL
+xie-etal-2024-extracting,Extracting Lexical Features from Dialects via Interpretable Dialect Classifiers,False,False,True,NAACL
+ding-etal-2024-rationale,A Rationale-centric Counterfactual Data Augmentation Method for Cross-Document Event Coreference Resolution,False,False,True,NAACL
+kovatchev-lease-2024-benchmark,Benchmark Transparency: Measuring the Impact of Data on Evaluation,False,False,False,NAACL
+wu-etal-2024-reasoning,Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks,False,False,False,NAACL
+erk-apidianaki-2024-adjusting,Adjusting Interpretable Dimensions in Embedding Space with Human Judgments,True,False,True,NAACL
+jiang-etal-2024-trisum,{T}ri{S}um: Learning Summarization Ability from Large Language Models with Structured Rationale,False,False,True,NAACL
+malaviya-etal-2024-expertqa,{E}xpert{QA}: Expert-Curated Questions and Attributed Answers,False,False,False,NAACL
+zhao-aletras-2024-comparing,Comparing Explanation Faithfulness between Multilingual and Monolingual Fine-tuned Language Models,True,False,True,NAACL
+salkhordeh-ziabari-etal-2024-reinforced,Reinforced Multiple Instance Selection for Speaker Attribute Prediction,False,False,False,NAACL
+wang-etal-2024-helpsteer,{H}elp{S}teer: Multi-attribute Helpfulness Dataset for {S}teer{LM},False,False,False,NAACL
+patel-etal-2024-towards,Towards Improved Multi-Source Attribution for Long-Form Answer Generation,False,False,True,NAACL
+nath-etal-2024-okay,"Okay, Let{'}s Do This! Modeling Event Coreference with Generated Rationales and Knowledge Distillation",False,False,True,NAACL
+wang-etal-2024-enhancing,Enhancing Large Language Models Against Inductive Instructions with Dual-critique Prompting,False,False,False,NAACL
+cao-wang-2024-awesome,{AWESOME}: {GPU} Memory-constrained Long Document Summarization using Memory Mechanism and Global Salient Content,False,False,False,NAACL
+daheim-etal-2024-elastic,Elastic Weight Removal for Faithful and Abstractive Dialogue Generation,False,False,False,NAACL
+mcinerney-etal-2024-towards,Towards Reducing Diagnostic Errors with Interpretable Risk Prediction,True,False,True,NAACL
+valvoda-cotterell-2024-towards,Towards Explainability in Legal Outcome Prediction Models,True,False,True,NAACL
+vasileiou-eberle-2024-explaining,Explaining Text Similarity in Transformer Models,True,False,True,NAACL
+zhuang-etal-2024-macsc,{M}a{CSC}: Towards Multimodal-augmented Pre-trained Language Models via Conceptual Prototypes and Self-balancing Calibration,False,False,False,NAACL
+li-chaturvedi-2024-rationale,Rationale-based Opinion Summarization,True,False,True,NAACL
+zhu-etal-2024-efficient,Efficient End-to-End Visual Document Understanding with Rationale Distillation,False,False,True,NAACL
+spangher-etal-2024-legaldiscourse,{L}egal{D}iscourse: Interpreting When Laws Apply and To Whom,False,False,False,NAACL
+niu-etal-2024-hong,A {H}ong {K}ong {S}ign {L}anguage Corpus Collected from Sign-interpreted {TV} News,False,False,False,COLING
+urakawa-etal-2024-japanese,A {J}apanese News Simplification Corpus with Faithfulness,False,False,False,COLING
+ikhwantri-etal-2024-analyzing,Analyzing Interpretability of Summarization Model with Eye-gaze Information,True,False,True,COLING
+liu-etal-2024-ce,{CE}-{VDG}: Counterfactual Entropy-based Bias Reduction for Video-grounded Dialogue Generation,False,False,False,COLING
+imashev-etal-2024-comparative,Comparative Analysis of Sign Language Interpreting Agents Perception: A Study of the Deaf,False,False,False,COLING
+steindl-etal-2024-counterfactual,Counterfactual Dialog Mixing as Data Augmentation for Task-Oriented Dialog Systems,False,False,False,COLING
+kranzlein-etal-2024-curiam,{C}u{RIAM}: Corpus Re Interpretation and Metalanguage in {U}.{S}. {S}upreme {C}ourt Opinions,False,False,False,COLING
+petersen-frey-biemann-2024-dataset,Dataset of Quotation Attribution in {G}erman News Articles,False,False,False,COLING
+xin-etal-2024-diffusion,Diffusion Based Counterfactual Augmentation for Dual Sentiment Classification,False,False,False,COLING
+hu-etal-2024-generator,Does the Generator Mind Its Contexts? An Analysis of Generative Model Faithfulness under Context Transfer,True,False,True,COLING
+zhang-etal-2024-empowering,Empowering Tree-structured Entailment Reasoning: Rhetorical Perception and {LLM}-driven Interpretability,False,False,False,COLING
+lu-etal-2024-evaluating,Evaluating Saliency Explanations in {NLP} by Crowdsourcing,True,False,True,COLING
+brandl-etal-2024-evaluating,Evaluating Webcam-based Gaze Data as an Alternative for Human Rationale Annotations,True,False,True,COLING
+hwang-etal-2024-explainable,Explainable Multi-hop Question Generation: An End-to-End Approach without Intermediate Question Labeling,False,False,False,COLING
+zhou-etal-2024-explaining,Explaining Pre-Trained Language Models with Attribution Scores: An Analysis in Low-Resource Settings,True,False,True,COLING
+musil-marecek-2024-exploring,Exploring Interpretability of Independent Components of Word Embeddings with Automated Word Intruder Test,True,False,True,COLING
+shi-etal-2024-find,Find-the-Common: A Benchmark for Explaining Visual Patterns from Images,False,False,False,COLING
+richard-etal-2024-fracas,{FRACAS}: a {FR}ench Annotated Corpus of Attribution relations in new{S},False,False,False,COLING
+maladry-etal-2024-human,Human and System Perspectives on the Expression of Irony: An Analysis of Likelihood Labels and Rationales,True,False,True,COLING
+ghosh-roy-han-2024-ilciter,{ILC}ite{R}: Evidence-grounded Interpretable Local Citation Recommendation,False,False,True,COLING
+zhang-etal-2024-improving-continual,Improving Continual Few-shot Relation Extraction through Relational Knowledge Distillation and Prototype Augmentation,False,False,False,COLING
+li-etal-2024-improving-faithfulness,Improving Faithfulness of Large Language Models in Summarization via Sliding Generation and Self-Consistency,True,False,True,COLING
+banerjee-etal-2024-inffeed,{I}nf{F}eed: Influence Functions as a Feedback to Improve the Performance of Subjective Tasks,False,False,True,COLING
+tran-miyao-2024-integrating,Integrating Headedness Information into an Auto-generated Multilingual {CCG}bank for Improved Semantic Interpretation,False,False,False,COLING
+abderrazek-etal-2024-interpretable,Interpretable Assessment of Speech Intelligibility Using Deep Learning: A Case Study on Speech Disorders Due to Head and Neck Cancers,False,False,True,COLING
+wu-etal-2024-interpretable,Interpretable Short Video Rumor Detection Based on Modality Tampering,False,False,True,COLING
+zhang-etal-2024-interpreting,Interpreting Themes from Educational Stories,False,False,False,COLING
+tilli-vu-2024-intrinsic,Intrinsic Subgraph Generation for Interpretable Graph Based Visual Question Answering,True,False,True,COLING
+ishii-etal-2024-jemhopqa,{JEMH}op{QA}: Dataset for {J}apanese Explainable Multi-Hop Question Answering,False,False,True,COLING
+cheng-etal-2024-learning,Learning Intrinsic Dimension via Information Bottleneck for Explainable Aspect-based Sentiment Analysis,True,False,True,COLING
+zhou-etal-2024-mcil,{MCIL}: Multimodal Counterfactual Instance Learning for Low-resource Entity-based Multimodal Information Extraction,False,False,False,COLING
+chen-etal-2024-mmaps,{MMAPS}: End-to-End Multi-Grained Multi-Modal Attribute-Aware Product Summarization,False,False,False,COLING
+zhao-etal-2024-naist,{NAIST}-{SIC}-Aligned: An Aligned {E}nglish-{J}apanese Simultaneous Interpretation Corpus,False,False,False,COLING
+zhang-etal-2024-new,New Intent Discovery with Attracting and Dispersing Prototype,False,False,False,COLING
+rehbein-etal-2024-mouths,Out of the Mouths of {MP}s: Speaker Attribution in Parliamentary Debates,False,False,False,COLING
+ogrodniczuk-etal-2024-polish-discourse,"{P}olish Discourse Corpus ({PDC}): Corpus Design, {ISO}-Compliant Annotation, Data Highlights, and Parser Development",False,False,False,COLING
+li-etal-2024-prompting,Prompting Large Language Models for Counterfactual Generation: An Empirical Study,False,False,False,COLING
+tang-etal-2024-prototype,Prototype-based Prompt-Instance Interaction with Causal Intervention for Few-shot Event Detection,False,False,True,COLING
+grissom-ii-etal-2024-rapidly,Rapidly Piloting Real-time Linguistic Assistance for Simultaneous Interpreters with Untrained Bilingual Surrogates,False,False,False,COLING
+t-revi-etal-2024-rationale,Rationale-based Learning Using Self-Supervised Narrative Events for Text Summarisation of Interactive Digital Narratives,False,False,False,COLING
+zeng-etal-2024-ru22fact,{RU}22{F}act: Optimizing Evidence for Multilingual Explainable Fact-Checking on {R}ussia-{U}kraine Conflict,False,False,True,COLING
+jain-etal-2024-saliency,Saliency-Aware Interpolative Augmentation for Multimodal Financial Prediction,False,False,False,COLING
+garcia-silva-etal-2024-space,{SPACE}-{IDEAS}: A Dataset for Salient Information Detection in Space Innovation,False,False,False,COLING
+lu-etal-2024-take,"Take Its Essence, Discard Its Dross! Debiasing for Toxic Language Detection via Counterfactual Causal Effect",False,False,False,COLING
+kamp-etal-2024-role,The Role of Syntactic Span Preferences in Post-Hoc Explanation Disagreement,True,False,True,COLING
+t-y-s-s-etal-2024-towards,Towards Explainability and Fairness in {S}wiss Judgement Prediction: Benchmarking on a Multilingual Dataset,True,False,True,COLING
+sun-etal-2024-towards,Towards Generalizable and Faithful Logic Reasoning over Natural Language via Resolution Refutation,False,False,True,COLING
+zhong-etal-2024-said,Who Said What: Formalization and Benchmarks for the Task of Quote Attribution,False,False,False,COLING
+bayer-etal-2024-xai,{XAI}-Attack: Utilizing Explainable {AI} to Find Incorrectly Learned Patterns for Black-Box Adversarial Example Creation,True,False,True,COLING
+zhang-etal-2024-xatu,{XATU}: A Fine-grained Instruction-based Benchmark for Explainable Text Updates,True,False,True,COLING
+qiu-etal-2024-think,Think While You Write: Hypothesis Verification Promotes Faithful Knowledge-to-Text Generation,True,False,True,Findings
+ma-etal-2024-beta,Beta-{LR}: Interpretable Logical Reasoning based on Beta Distribution,False,False,True,Findings
+pham-etal-2024-peeb,{PEEB}: Part-based Image Classifiers with an Explainable and Editable Language Bottleneck,False,False,True,Findings
+wang-etal-2024-interpreting,Interpreting Answers to Yes-No Questions in Dialogues from Multiple Domains,False,False,False,Findings
+wei-jie-etal-2024-interpretable,How Interpretable are Reasoning Explanations from Prompting Large Language Models?,True,False,True,Findings
+hong-etal-2024-gullible,Why So Gullible? Enhancing the Robustness of Retrieval-Augmented Models against Counterfactual Noise,False,False,False,Findings
+samardzic-etal-2024-measure,A Measure for Transparent Comparison of Linguistic Diversity in Multilingual {NLP} Data Sets,False,False,False,Findings
+saxena-keller-2024-select,Select and Summarize: Scene Saliency for Movie Script Summarization,False,False,False,Findings
+moghe-etal-2024-interpreting,Interpreting User Requests in the Context of Natural Language Standing Instructions,False,False,False,Findings
+resck-etal-2024-exploring,Exploring the Trade-off Between Model Performance and Explanation Plausibility of Text Classifiers Using Human Rationales,True,False,True,Findings
+langedijk-etal-2024-decoderlens,{D}ecoder{L}ens: Layerwise Interpretation of Encoder-Decoder Transformers,False,False,True,Findings
+berchansky-etal-2024-cotar,{C}o{TAR}: Chain-of-Thought Attribution Reasoning with Multi-level Granularity,True,False,True,Findings
+zhang-etal-2024-document-hashing,Document Hashing with Multi-Grained Prototype-Induced Hierarchical Generative Model,False,False,False,Findings
+ma-etal-2024-xrec,{XR}ec: Large Language Models for Explainable Recommendation,False,False,True,Findings
+liu-etal-2024-safety,{SAFETY}-{J}: Evaluating Safety with Critique,True,False,True,Findings
+wang-etal-2024-coxql,{C}o{XQL}: A Dataset for Parsing Explanation Requests in Conversational {XAI} Systems,False,False,True,Findings
+yang-etal-2024-eave,{EAVE}: Efficient Product Attribute Value Extraction via Lightweight Sparse-layer Interaction,False,False,False,Findings
+li-etal-2024-diversify,"Diversify, Rationalize, and Combine: Ensembling Multiple {QA} Strategies for Zero-shot Knowledge-based {VQA}",True,False,True,Findings
+wojciechowski-etal-2024-faithful,Faithful and Plausible Natural Language Explanations for Image Classification: A Pipeline Approach,True,False,True,Findings
+chen-etal-2024-controlling,Controlling Risk of Retrieval-augmented Generation: A Counterfactual Prompting Framework,False,False,False,Findings
+zhang-etal-2024-coarse,A Coarse-to-Fine Prototype Learning Approach for Multi-Label Few-Shot Intent Detection,False,False,False,Findings
+cheng-etal-2024-towards,Towards Explainable Computerized Adaptive Testing with Large Language Model,True,False,True,Findings
+bai-etal-2024-learning,Learning Dynamic Multi-attribute Interest for Personalized Product Search,False,False,False,Findings
+elazar-etal-2024-measuring,Measuring and Improving Attentiveness to Partial Inputs with Counterfactuals,True,False,True,Findings
+luo-etal-2024-summacoz,{S}umma{C}oz: A Dataset for Improving the Interpretability of Factual Consistency Detection for Summarization,True,False,True,Findings
+song-etal-2024-robust,A Robust Dual-debiasing {VQA} Model based on Counterfactual Causal Effect,False,False,False,Findings
+kai-etal-2024-sh2,{SH}2: Self-Highlighted Hesitation Helps You Decode More Truthfully,False,False,False,Findings
+wang-etal-2024-survey,A Survey on Natural Language Counterfactual Generation,False,False,True,Findings
+li-etal-2024-calibrating,Calibrating {LLM}s with Preference Optimization on Thought Trees for Generating Rationale in Science Question Scoring,True,False,True,Findings
+wang-etal-2024-fantastic,{FANTA}stic {SE}quences and Where to Find Them: Faithful and Efficient {API} Call Generation through State-tracked Constrained Decoding and Reranking,False,False,False,Findings
+khan-etal-2024-hope,"Hope `The Paragraph Guy' explains the rest : Introducing {M}e{S}um, the Meme Summarizer",False,False,False,Findings
+he-etal-2024-explaining,Explaining Graph Neural Networks with Large Language Models: A Counterfactual Perspective on Molecule Graphs,True,False,True,Findings
+mahajan-etal-2024-align,{ALIGN}-{SIM}: A Task-Free Test Bed for Evaluating and Interpreting Sentence Embeddings through Semantic Similarity Alignment,True,False,True,Findings
+palmeira-ferraz-etal-2024-llm,"{LLM} Self-Correction with {D}e{CRIM}: Decompose, Critique, and Refine for Enhanced Following of Instructions with Multiple Constraints",False,False,False,Findings
+stoehr-etal-2024-activation,Activation Scaling for Steering and Interpreting Language Models,True,False,True,Findings
+wang-etal-2024-variational,Variational Language Concepts for Interpreting Foundation Language Models,False,False,True,Findings
+wang-etal-2024-beyond-agreement,Beyond Agreement: Diagnosing the Rationale Alignment of Automated Essay Scoring Methods based on Linguistically-informed Counterfactuals,True,False,True,Findings
+bazaga-etal-2024-hyperbert,{H}yper{BERT}: Mixing Hypergraph-Aware Layers with Language Models for Node Classification on Text-Attributed Hypergraphs,False,False,False,Findings
+li-etal-2024-pedants,{PEDANTS}: Cheap but Effective and Interpretable Answer Equivalence,True,False,True,Findings
+barkan-etal-2024-improving,Improving {LLM} Attributions with Randomized Path-Integration,True,False,True,Findings
+barkan-etal-2024-llm,{LLM} Explainability via Attributive Masking Learning,True,False,True,Findings
+xu-etal-2024-chatglm,{C}hat{GLM}-Math: Improving Math Problem-Solving in Large Language Models with a Self-Critique Pipeline,False,False,False,Findings
+govindarajan-etal-2024-mean,Do *they* mean `us'? Interpreting Referring Expression variation under Intergroup Bias,False,False,False,Findings
+fang-etal-2024-understanding,Understanding Faithfulness and Reasoning of Large Language Models on Plain Biomedical Summaries,True,False,True,Findings
+joaquin-etal-2024-in2core,{I}n2{C}ore: Leveraging Influence Functions for Coreset Selection in Instruction Finetuning of Large Language Models,False,False,True,Findings
+zhang-etal-2024-shieldlm,"{S}hield{LM}: Empowering {LLM}s as Aligned, Customizable and Explainable Safety Detectors",False,False,True,Findings
+wang-etal-2024-interpretable,Interpretable Preferences via Multi-Objective Reward Modeling and Mixture-of-Experts,False,False,True,Findings
+kim-etal-2024-thinking,What if...?: Thinking Counterfactual Keywords Helps to Mitigate Hallucination in Large Multi-modal Models,False,False,False,Findings
+chung-etal-2024-selection,Selection-p: Self-Supervised Task-Agnostic Prompt Compression for Faithfulness and Transferability,False,False,False,Findings
+xiao-etal-2024-vanessa,Vanessa: Visual Connotation and Aesthetic Attributes Understanding Network for Multimodal Aspect-based Sentiment Analysis,False,False,False,Findings
+modarressi-etal-2024-consistent,Consistent Document-level Relation Extraction via Counterfactuals,False,False,False,Findings
+cao-etal-2024-tara,{TARA}: Token-level Attribute Relation Adaptation for Multi-Attribute Controllable Text Generation,False,False,False,Findings
+si-etal-2024-denoising,Denoising Rationalization for Multi-hop Fact Verification via Multi-granular Explainer,True,False,True,Findings
+michel-etal-2024-improving,Improving Quotation Attribution with Fictional Character Embeddings,False,False,False,Findings
+sourati-etal-2024-robust,Robust Text Classification: Analyzing Prototype-Based Networks,False,False,True,Findings
+schirmer-etal-2024-language,The Language of Trauma: Modeling Traumatic Event Descriptions Across Domains with Explainable {AI},False,False,True,Findings
+meng-etal-2024-attribute,Attribute Controlled Fine-tuning for Large Language Models: A Case Study on Detoxification,False,False,False,Findings
+dammu-etal-2024-claimver,{C}laim{V}er: Explainable Claim-Level Verification and Evidence Attribution of Text Through Knowledge Graphs,False,False,True,Findings
+thota-nilizadeh-2024-attacks,Attacks against Abstractive Text Summarization Models through Lead Bias and Influence Functions,False,False,False,Findings
+xu-etal-2024-nala,{NALA}: an Effective and Interpretable Entity Alignment Method,False,False,True,Findings
+elaraby-etal-2024-persuasiveness,Persuasiveness of Generated Free-Text Rationales in Subjective Decisions: A Case Study on Pairwise Argument Ranking,True,False,True,Findings
+kim-etal-2024-semantic,Semantic Token Reweighting for Interpretable and Controllable Text Embeddings in {CLIP},False,False,True,Findings
+nguyen-etal-2024-llms,{LLM}s for Generating and Evaluating Counterfactuals: A Comprehensive Study,True,False,True,Findings
+paul-etal-2024-making,Making Reasoning Matter: Measuring and Improving Faithfulness of Chain-of-Thought Reasoning,True,False,True,Findings
+treviso-etal-2024-xtower,x{T}ower: A Multilingual {LLM} for Explaining and Correcting Translation Errors,True,False,True,Findings
+shen-etal-2024-towards,"Towards Explainable {C}hinese Native Learner Essay Fluency Assessment: Dataset, Tasks, and Method",False,False,False,Findings
+sonkar-etal-2024-malalgoqa,{M}al{A}lgo{QA}: Pedagogical Evaluation of Counterfactual Reasoning in Large Language Models and Implications for {AI} in Education,True,False,True,Findings
+vakil-amiri-2024-controlled,Controlled Transformation of Text-Attributed Graphs,False,False,False,Findings
+spangher-etal-2024-explaining,Explaining Mixtures of Sources in News Articles,False,False,False,Findings
+maheshwari-etal-2024-presentations,Presentations are not always linear! {GNN} meets {LLM} for Text Document-to-Presentation Transformation with Attribution,False,False,False,Findings
+qorib-etal-2024-efficient,Efficient and Interpretable Grammatical Error Correction with Mixture of Experts,False,False,True,Findings
+razumovskaia-etal-2024-dial,Dial {B}e{I}nfo for Faithfulness: Improving Factuality of Information-Seeking Dialogue via Behavioural Fine-Tuning,False,False,False,Findings
+amouyal-etal-2024-large,Large Language Models for Psycholinguistic Plausibility Pretesting,False,False,False,Findings
+wein-etal-2024-barriers,Barriers to Effective Evaluation of Simultaneous Interpretation,False,False,False,Findings
+li-etal-2024-improving-cross,Improving Cross-Domain Low-Resource Text Generation through {LLM} Post-Editing: A Programmer-Interpreter Approach,False,False,False,Findings
+feng-etal-2024-promptexplainer,{P}rompt{E}xplainer: Explaining Language Models through Prompt-based Learning,True,False,True,Findings
+zhao-etal-2024-explaining,Explaining Language Model Predictions with High-Impact Concepts,True,False,True,Findings
+mishra-etal-2024-correcting,Correcting Language Model Outputs by Editing Salient Layers,False,False,False,Findings
+tian-etal-2024-cma,{CMA}-{R}: Causal Mediation Analysis for Explaining Rumour Detection,True,False,True,Findings
+moon-etal-2024-generative,Generative Interpretation: Toward Human-Like Evaluation for Educational Question-Answer Pair Generation,False,False,False,Findings
+leiter-etal-2024-bmx,{BMX}: Boosting Natural Language Generation Metrics with Explainability,True,False,True,Findings
+peng-etal-2024-controllable,Controllable Data Augmentation for Few-Shot Text Mining with Chain-of-Thought Attribute Manipulation,False,False,False,Findings
+madsen-etal-2024-self,Are self-explanations from Large Language Models faithful?,True,False,True,Findings
+zou-etal-2024-implicitave,{I}mplicit{AVE}: An Open-Source Dataset and Multimodal {LLM}s Benchmark for Implicit Attribute Value Extraction,False,False,False,Findings
+li-etal-2024-towards-verifiable,Towards Verifiable Generation: A Benchmark for Knowledge-aware Language Model Attribution,False,False,False,Findings
+qu-etal-2024-unsupervised,Unsupervised Distractor Generation via Large Language Model Distilling and Counterfactual Contrastive Decoding,False,False,False,Findings
+liao-etal-2024-mario,{MARIO}: {MA}th Reasoning with code Interpreter Output - A Reproducible Pipeline,False,False,False,Findings
+pan-etal-2024-llmlingua,{LLML}ingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression,False,False,False,Findings
+jin-etal-2024-cutting,Cutting Off the Head Ends the Conflict: A Mechanism for Interpreting and Mitigating Knowledge Conflicts in Language Models,True,False,True,Findings
+lin-etal-2024-criticbench,{C}ritic{B}ench: Benchmarking {LLM}s for Critique-Correct Reasoning,False,False,False,Findings
+qiu-etal-2024-valor,{VALOR}-{EVAL}: Holistic Coverage and Faithfulness Evaluation of Large Vision-Language Models,True,False,True,Findings
+miao-etal-2024-episodic,Episodic Memory Retrieval from {LLM}s: A Neuromorphic Mechanism to Generate Commonsense Counterfactuals for Relation Extraction,False,False,False,Findings
+wang-etal-2024-llmfactor,{LLMF}actor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction,False,False,True,Findings
+yang-etal-2024-enhancing,Enhancing Semantic Consistency of Large Language Models through Model Editing: An Interpretability-Oriented Approach,False,False,True,Findings
+li-etal-2024-data,Data-Centric Explainable Debiasing for Improving Fairness in Pre-trained Language Models,True,False,True,Findings
+li-etal-2024-large-language,Can Large Language Models Mine Interpretable Financial Factors More Effectively? A Neural-Symbolic Factor Mining Agent Model,False,False,True,Findings
+cheng-etal-2024-call,Call Me When Necessary: {LLM}s can Efficiently and Faithfully Reason over Structured Environments,False,False,False,Findings
+nigam-etal-2024-legal,Legal Judgment Reimagined: {P}red{E}x and the Rise of Intelligent {AI} Interpretation in {I}ndian Courts,True,False,True,Findings
+zhou-etal-2024-evaluating,Evaluating the Smooth Control of Attribute Intensity in Text Generation with {LLM}s,False,False,False,Findings
+amara-etal-2024-syntaxshap,{S}yntax{S}hap: Syntax-aware Explainability Method for Text Generation,True,False,True,Findings
+maeda-etal-2024-decomposing,Decomposing Co-occurrence Matrices into Interpretable Components as Formal Concepts,False,False,True,Findings
+agarwal-etal-2024-mememqa,{M}eme{MQA}: Multimodal Question Answering for Memes via Rationale-Based Inferencing,True,False,True,Findings
+li-etal-2024-improving-attributed,Improving Attributed Text Generation of Large Language Models via Preference Learning,False,False,False,Findings
+wei-jie-etal-2024-plausible,Plausible Extractive Rationalization through Semi-Supervised Entailment Signal,True,False,True,Findings
+liang-etal-2024-controlled,Controlled Text Generation for Large Language Model with Dynamic Attribute Graphs,False,False,False,Findings
+mishra-etal-2024-characterizing,Characterizing Large Language Models as Rationalizers of Knowledge-intensive Tasks,True,False,True,Findings
+zhang-etal-2024-stronger,"Stronger, Lighter, Better: Towards Life-Long Attribute Value Extraction for {E}-Commerce Products",False,False,False,Findings
+zhang-etal-2024-rationales,Rationales for Answers to Simple Math Word Problems Confuse Large Language Models,False,False,False,Findings
+yoon-etal-2024-assessing,Assessing News Thumbnail Representativeness: Counterfactual text can enhance the cross-modal matching ability,False,False,False,Findings
+sun-etal-2024-critique,The Critique of Critique,False,False,False,Findings
+fan-etal-2024-frva,{FRVA}: Fact-Retrieval and Verification Augmented Entailment Tree Generation for Explainable Question Answering,True,False,True,Findings
+ma-etal-2024-ex,{EX}-{FEVER}: A Dataset for Multi-hop Explainable Fact Verification,False,False,True,Findings
+liang-etal-2024-selp,{SELP}: A Semantically-Driven Approach for Separated and Accurate Class Prototypes in Few-Shot Text Classification,False,False,False,Findings
+phukan-etal-2024-peering,Peering into the Mind of Language Models: An Approach for Attribution in Contextual Question Answering,True,False,True,Findings
+wang-etal-2024-x,{X}-{ACE}: Explainable and Multi-factor Audio Captioning Evaluation,True,False,True,Findings
+hua-etal-2024-propagation,Propagation and Pitfalls: Reasoning-based Assessment of Knowledge Editing through Counterfactual Tasks,False,False,False,Findings
+katsios-etal-2024-figuratively,Figuratively Speaking: Authorship Attribution via Multi-Task Figurative Language Modeling,False,False,False,Findings
+li-lyu-2024-gradual,{GRADUAL}: Granularity-aware Dual Prototype Learning for Better Few-Shot Relation Extraction,False,False,False,Findings
+akhtar-etal-2024-chartcheck,{C}hart{C}heck: Explainable Fact-Checking over Real-World Chart Images,False,False,True,Findings
+yadav-etal-2024-tox,Tox-{BART}: Leveraging Toxicity Attributes for Explanation Generation of Implicit Hate Speech,True,False,True,Findings
+enouen-etal-2024-textgenshap,{T}ext{G}en{SHAP}: Scalable Post-Hoc Explanations in Text Generation with Long Documents,True,False,True,Findings
+huang-etal-2024-learning,Learning Fine-Grained Grounded Citations for Attributed Large Language Models,False,False,False,Findings
+zhong-etal-2024-harnessing,Harnessing Large Language Models as Post-hoc Correctors,False,False,False,Findings
+abolghasemi-etal-2024-cause,{CAUSE}: Counterfactual Assessment of User Satisfaction Estimation in Task-Oriented Dialogue Systems,False,False,False,Findings
+li-etal-2024-attributionbench,{A}ttribution{B}ench: How Hard is Automatic Attribution Evaluation?,False,False,False,Findings
+zhang-etal-2024-countercurate,{C}ounter{C}urate: Enhancing Physical and Semantic Visio-Linguistic Compositional Reasoning via Counterfactual Examples,False,False,False,Findings
+liu-etal-2024-teller,"{TELLER}: A Trustworthy Framework for Explainable, Generalizable and Controllable Fake News Detection",False,False,True,Findings
+li-etal-2024-evaluating-readability,Evaluating Readability and Faithfulness of Concept-based Explanations,True,False,True,EMNLP
+zhao-etal-2024-successfully,Successfully Guiding Humans with Imperfect Instructions by Highlighting Potential Errors and Suggesting Corrections,True,False,True,EMNLP
+deng-etal-2024-learning,Learning Interpretable Legal Case Retrieval via Knowledge-Guided Case Reformulation,False,False,True,EMNLP
+chen-etal-2024-mitigating,Mitigating Language Bias of {LMM}s in Social Intelligence Understanding with Virtual Counterfactual Calibration,False,False,False,EMNLP
+zhao-etal-2024-seer,{SEER}: Self-Aligned Evidence Extraction for Retrieval-Augmented Generation,True,False,True,EMNLP
+mosbach-etal-2024-insights,From Insights to Actions: The Impact of Interpretability and Analysis Research on {NLP},False,False,True,EMNLP
+yu-ananiadou-2024-neuron,Neuron-Level Knowledge Attribution in Large Language Models,True,False,True,EMNLP
+yu-ananiadou-2024-interpreting,Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis,False,False,True,EMNLP
+huang-etal-2024-advancing,Advancing Large Language Model Attribution through Self-Improving,False,False,False,EMNLP
+hong-lipani-2024-interpretability,Interpretability-based Tailored Knowledge Editing in Transformers,False,False,True,EMNLP
+wu-etal-2024-dancing,Dancing in Chains: Reconciling Instruction Following and Faithfulness in Language Models,True,False,True,EMNLP
+fisher-etal-2024-styleremix,{S}tyle{R}emix: Interpretable Authorship Obfuscation via Distillation and Perturbation of Style Elements,True,False,True,EMNLP
+wang-etal-2024-f2rl,{F}$^2${RL}: Factuality and Faithfulness Reinforcement Learning Framework for Claim-Guided Evidence-Supported Counterspeech Generation,True,False,True,EMNLP
+edin-etal-2024-unsupervised,An Unsupervised Approach to Achieve Supervised-Level Explainability in Healthcare Records,True,False,True,EMNLP
+du-etal-2024-llms,{LLM}s Assist {NLP} Researchers: Critique Paper (Meta-)Reviewing,False,False,False,EMNLP
+feng-etal-2024-teaching-small,Teaching Small Language Models Reasoning through Counterfactual Distillation,False,False,False,EMNLP
+xu-etal-2024-sayself,{S}ay{S}elf: Teaching {LLM}s to Express Confidence with Self-Reflective Rationales,True,False,True,EMNLP
+qi-etal-2024-model,Model Internals-based Answer Attribution for Trustworthy Retrieval-Augmented Generation,True,False,True,EMNLP
+huo-etal-2024-mmneuron,{MMN}euron: Discovering Neuron-Level Domain-Specific Interpretation in Multimodal Large Language Model,True,False,True,EMNLP
+men-etal-2024-unlocking,Unlocking the Future: Exploring Look-Ahead Planning Mechanistic Interpretability in Large Language Models,False,False,True,EMNLP
+yona-etal-2024-large,Can Large Language Models Faithfully Express Their Intrinsic Uncertainty in Words?,True,False,True,EMNLP
+buchmann-etal-2024-attribute,Attribute or Abstain: Large Language Models as Long Document Assistants,True,False,True,EMNLP
+hirota-etal-2024-resampled,Resampled Datasets Are Not Enough: Mitigating Societal Bias Beyond Single Attributes,False,False,False,EMNLP
+chang-etal-2024-explaining,Explaining and Improving Contrastive Decoding by Extrapolating the Probabilities of a Huge and Hypothetical {LM},False,False,False,EMNLP
+wu-etal-2024-beyond,Beyond Label Attention: Transparency in Language Models for Automated Medical Coding via Dictionary Learning,True,False,True,EMNLP
+weir-etal-2024-ontologically,Ontologically Faithful Generation of Non-Player Character Dialogues,False,False,False,EMNLP
+wu-etal-2024-synchronous,Synchronous Faithfulness Monitoring for Trustworthy Retrieval-Augmented Generation,True,False,True,EMNLP
+berlot-attwell-etal-2024-attribute,Attribute Diversity Determines the Systematicity Gap in {VQA},False,False,False,EMNLP
+subbiah-etal-2024-storysumm,{STORYSUMM}: Evaluating Faithfulness in Story Summarization,True,False,True,EMNLP
+chen-etal-2024-dynamic,Dynamic Multi-granularity Attribution Network for Aspect-based Sentiment Analysis,False,False,True,EMNLP
+jiang-etal-2024-mare,{MARE}: Multi-Aspect Rationale Extractor on Unsupervised Rationale Extraction,True,False,True,EMNLP
+pavlopoulos-etal-2024-towards,Towards a {G}reek Proverb Atlas: Computational Spatial Exploration and Attribution of {G}reek Proverbs,False,False,False,EMNLP
+brinner-zarriess-2024-rationalizing,Rationalizing Transformer Predictions via End-To-End Differentiable Self-Training,True,False,True,EMNLP
+kim-etal-2024-panda,{PANDA}: Persona Attributes Navigation for Detecting and Alleviating Overuse Problem in Large Language Models,False,False,False,EMNLP
+zhu-etal-2024-ra2fd,{RA}2{FD}: Distilling Faithfulness into Efficient Dialogue Systems,False,False,False,EMNLP
+lan-etal-2024-towards,Towards Interpretable Sequence Continuation: Analyzing Shared Circuits in Large Language Models,False,False,True,EMNLP
+hu-etal-2024-bayesian,A {B}ayesian Approach to Harnessing the Power of {LLM}s in Authorship Attribution,False,False,False,EMNLP
+wu-etal-2024-enhancing-training,Enhancing Training Data Attribution for Large Language Models with Fitting Error Consideration,False,False,True,EMNLP
+aoki-etal-2024-first,First Heuristic Then Rational: Dynamic Use of Heuristics in Language Model Reasoning,False,False,False,EMNLP
+zhou-etal-2024-mystery,The Mystery of In-Context Learning: A Comprehensive Survey on Interpretation and Analysis,False,False,True,EMNLP
+yin-etal-2024-asl,{ASL} {STEM} {W}iki: Dataset and Benchmark for Interpreting {STEM} Articles,False,False,False,EMNLP
+li-etal-2024-interpretable,Interpretable Composition Attribution Enhancement for Visio-linguistic Compositional Understanding,True,False,True,EMNLP
+zhao-etal-2024-findver,{F}in{DV}er: Explainable Claim Verification over Long and Hybrid-content Financial Documents,False,False,True,EMNLP
+wang-etal-2024-bridging-local,Bridging Local Details and Global Context in Text-Attributed Graphs,False,False,False,EMNLP
+sotudeh-goharian-2024-learning,Learning to Rank Salient Content for Query-focused Summarization,False,False,False,EMNLP
+hu-etal-2024-themis,Themis: A Reference-free {NLG} Evaluation Language Model with Flexibility and Interpretability,False,False,True,EMNLP
+kawabata-sugawara-2024-rationale,Rationale-Aware Answer Verification by Pairwise Self-Evaluation,True,False,True,EMNLP
+doddapaneni-etal-2024-finding,Finding Blind Spots in Evaluator {LLM}s with Interpretable Checklists,True,False,True,EMNLP
+saenger-etal-2024-autopersuade,{A}uto{P}ersuade: A Framework for Evaluating and Explaining Persuasive Arguments,True,False,True,EMNLP
+neo-etal-2024-interpreting,Interpreting Context Look-ups in Transformers: Investigating Attention-{MLP} Interactions,True,False,True,EMNLP
+ferrando-voita-2024-information,Information Flow Routes: Automatically Interpreting Language Models at Scale,False,False,True,EMNLP
+chen-etal-2024-dual-oriented,Dual-oriented Disentangled Network with Counterfactual Intervention for Multimodal Intent Detection,False,False,False,EMNLP
+ramu-etal-2024-enhancing,Enhancing Post-Hoc Attributions in Long Document Comprehension via Coarse Grained Answer Decomposition,True,False,True,EMNLP
+zhai-etal-2024-towards,Towards Faithful Knowledge Graph Explanation Through Deep Alignment in Commonsense Question Answering,True,False,True,EMNLP
+ghosal-etal-2024-intcoop,{I}nt{C}o{O}p: Interpretability-Aware Vision-Language Prompt Tuning,False,False,True,EMNLP
+sun-etal-2024-revealing,Revealing Personality Traits: A New Benchmark Dataset for Explainable Personality Recognition on Dialogues,False,False,True,EMNLP
+perrella-etal-2024-beyond,Beyond Correlation: Interpretable Evaluation of Machine Translation Metrics,True,False,True,EMNLP
+mamta-etal-2024-biaswipe,{B}ias{W}ipe: Mitigating Unintended Bias in Text Classifiers through Model Interpretability,False,False,True,EMNLP
+tater-etal-2024-unveiling,"Unveiling the mystery of visual attributes of concrete and abstract concepts: Variability, nearest neighbors, and challenging categories",False,False,False,EMNLP
+kim-lee-2024-rag,{RE}-{RAG}: Improving Open-Domain {QA} Performance and Interpretability with Relevance Estimator in Retrieval-Augmented Generation,False,False,True,EMNLP
+sakai-etal-2024-simultaneous,Simultaneous Interpretation Corpus Construction by Large Language Models in Distant Language Pair,False,False,False,EMNLP
+baan-etal-2024-interpreting,Interpreting Predictive Probabilities: Model Confidence or Human Label Variation?,False,False,False,EACL
+liu-niehues-2024-transferable,How Transferable are Attribute Controllers on Pretrained Multilingual Translation Models?,False,False,False,EACL
+suresh-etal-2024-relative,It{'}s All Relative: Learning Interpretable Models for Scoring Subjective Bias in Documents from Pairwise Comparisons,True,False,True,EACL
+fathullah-etal-2024-needs,Who Needs Decoders? Efficient Estimation of Sequence-Level Attributes with Proxies,False,False,False,EACL
+zhang-etal-2024-fine,Fine-Grained Natural Language Inference Based Faithfulness Evaluation for Diverse Summarisation Tasks,True,False,True,EACL
+sachdeva-etal-2024-catfood,{CAT}f{OOD}: Counterfactual Augmented Training for Improving Out-of-Domain Performance and Calibration,True,False,True,EACL
+moeller-etal-2024-approximate,Approximate Attributions for Off-the-Shelf {S}iamese Transformers,True,False,True,EACL
+pastor-etal-2024-explaining,Explaining Speech Classification Models via Word-Level Audio Segments and Paralinguistic Features,True,False,True,EACL
+oh-etal-2024-frequency,"Frequency Explains the Inverse Correlation of Large Language Models' Size, Training Data Amount, and Surprisal{'}s Fit to Reading Times",False,False,False,EACL
+zellinger-etal-2024-counterfactual,Counterfactual Reasoning with Knowledge Graph Embeddings,False,False,False,EACL
+yao-etal-2024-ameli,Ameli: Enhancing Multimodal Entity Linking with Fine-Grained Attributes,False,False,False,EACL
+golde-etal-2024-large,Large-Scale Label Interpretation Learning for Few-Shot Named Entity Recognition,False,False,False,EACL
+li-etal-2024-ccprefix,{CCP}refix: Counterfactual Contrastive Prefix-Tuning for Many-Class Classification,False,False,False,EACL
+matusevych-2024-cognitive,Cognitive Plausibility in Natural Language Processing,False,False,False,Computational Linguistics (CL)
+lyu-etal-2024-towards,Towards Faithful Model Explanation in {NLP}: A Survey,True,False,True,Computational Linguistics (CL)
+chaturvedi-etal-2024-analyzing,Analyzing Semantic Faithfulness of Language Models via Input Intervention on Question Answering,True,False,True,Computational Linguistics (CL)
+wang-etal-2024-rdrec,{RDR}ec: Rationale Distillation for {LLM}-based Recommendation,False,False,True,ACL
+heinzerling-inui-2024-monotonic,Monotonic Representation of Numeric Attributes in Language Models,True,False,True,ACL
+zhang-etal-2024-atlas,{ATLAS}: Improving Lay Summarisation with Attribute-based Control,False,False,False,ACL
+calabrese-etal-2024-explainability,Explainability and Hate Speech: Structured Explanations Make Social Media Moderators Faster,True,False,True,ACL
+fang-etal-2024-born,Born Differently Makes a Difference: Counterfactual Study of Bias in Biography Generation from a Data-to-Text Perspective,False,False,False,ACL
+zhao-etal-2024-agr,{AGR}: Reinforced Causal Agent-Guided Self-explaining Rationalization,False,False,True,ACL
+siegel-etal-2024-probabilities,The Probabilities Also Matter: A More Faithful Metric for Faithfulness of Free-Text Explanations in Large Language Models,True,False,True,ACL
+verma-etal-2024-cross,Cross-Modal Projection in Multimodal {LLM}s Doesn{'}t Really Project Visual Attributes to Textual Space,False,False,True,ACL
+weinzierl-harabagiu-2024-tree,Tree-of-Counterfactual Prompting for Zero-Shot Stance Detection,False,False,False,ACL
+wang-etal-2024-absinstruct,{A}bs{I}nstruct: Eliciting Abstraction Ability from {LLM}s through Explanation Tuning with Plausibility Estimation,False,False,True,ACL
+jiang-etal-2024-rora,{RORA}: Robust Free-Text Rationale Evaluation,True,False,True,ACL
+schimanski-etal-2024-towards,Towards Faithful and Robust {LLM} Specialists for Evidence-Based Question-Answering,True,False,True,ACL
+cheng-etal-2024-interpreting,Interpreting Conversational Dense Retrieval by Rewriting-Enhanced Inversion of Session Embedding,True,False,True,ACL
+slobodkin-etal-2024-attribute,"Attribute First, then Generate: Locally-attributable Grounded Text Generation",True,False,True,ACL
+lee-etal-2024-fleur,{FLEUR}: An Explainable Reference-Free Evaluation Metric for Image Captioning Using a Large Multimodal Model,True,False,True,ACL
+weber-etal-2024-interpretability,Interpretability of Language Models via Task Spaces,False,False,True,ACL
+madureira-etal-2024-time,When Only Time Will Tell: Interpreting How Transformers Process Local Ambiguities Through the Lens of Restart-Incrementality,False,False,True,ACL
+zhuang-etal-2024-pcad,{PCAD}: Towards {ASR}-Robust Spoken Language Understanding via Prototype Calibration and Asymmetric Decoupling,False,False,False,ACL
+gu-etal-2024-digital,Digital Socrates: Evaluating {LLM}s through Explanation Critiques,True,False,True,ACL
+parcalabescu-frank-2024-measuring,On Measuring Faithfulness or Self-consistency of Natural Language Explanations,True,False,True,ACL
+miao-etal-2024-discursive,Discursive Socratic Questioning: Evaluating the Faithfulness of Language Models' Understanding of Discourse Relations,True,False,True,ACL
+mu-li-2024-causal,A Causal Approach for Counterfactual Reasoning in Narratives,False,False,False,ACL
+dutt-etal-2024-leveraging,Leveraging Machine-Generated Rationales to Facilitate Social Meaning Detection in Conversations,False,False,True,ACL
+plaza-del-arco-etal-2024-angry,"Angry Men, Sad Women: Large Language Models Reflect Gendered Stereotypes in Emotion Attribution",False,False,False,ACL
+yu-etal-2024-revealing,Revealing the Parametric Knowledge of Language Models: A Unified Framework for Attribution Methods,True,False,True,ACL
+choi-etal-2024-hard,Hard Prompts Made Interpretable: Sparse Entropy Regularization for Prompt Tuning with {RL},False,False,True,ACL
+ortu-etal-2024-competition,Competition of Mechanisms: Tracing How Language Models Handle Facts and Counterfactuals,False,False,True,ACL
+huang-etal-2024-ravel,{RAVEL}: Evaluating Interpretability Methods on Disentangling Language Model Representations,True,False,True,ACL
+krichene-etal-2024-faithful,Faithful Chart Summarization with {C}ha{TS}-Pi,True,False,True,ACL
+zhang-etal-2024-mc2,{MC}$^2$: Towards Transparent and Culturally-Aware {NLP} for Minority Languages in {C}hina,False,False,False,ACL
+li-etal-2024-focus,Focus on Your Question! Interpreting and Mitigating Toxic {C}o{T} Problems in Commonsense Reasoning,True,False,True,ACL
+liu-etal-2024-multi,Multi-Aspect Controllable Text Generation with Disentangled Counterfactual Augmentation,False,False,False,ACL
+zhang-etal-2024-hyperspherical,Hyperspherical Multi-Prototype with Optimal Transport for Event Argument Extraction,False,False,False,ACL
+chen-etal-2024-fine,Fine-Grained Image-Text Alignment in Medical Imaging Enables Explainable Cyclic Image-Report Generation,False,False,True,ACL
+toker-etal-2024-diffusion,Diffusion Lens: Interpreting Text Encoders in Text-to-Image Pipelines,False,False,True,ACL
+huang-etal-2024-clomo,{CLOMO}: Counterfactual Logical Modification with Large Language Models,False,False,False,ACL
+lin-etal-2024-interpretable,Interpretable User Satisfaction Estimation for Conversational Systems with Large Language Models,False,False,True,ACL
+zhou-etal-2024-enhancing-explainable,Enhancing Explainable Rating Prediction through Annotated Macro Concepts,False,False,True,ACL
+qiu-etal-2024-paircfr,{P}air{CFR}: Enhancing Model Training on Paired Counterfactually Augmented Data through Contrastive Learning,False,False,False,ACL
+ku-etal-2024-viescore,{VIES}core: Towards Explainable Metrics for Conditional Image Synthesis Evaluation,True,False,True,ACL
+zhao-etal-2024-tapera,{T}a{PERA}: Enhancing Faithfulness and Interpretability in Long-Form Table {QA} by Content Planning and Execution-based Reasoning,True,False,True,ACL
+ke-etal-2024-critiquellm,{C}ritique{LLM}: Towards an Informative Critique Generation Model for Evaluation of Large Language Model Generation,False,False,False,ACL
+tian-etal-2024-bridging,Bridging Word-Pair and Token-Level Metaphor Detection with Explainable Domain Mining,False,False,True,ACL
+xu-etal-2024-faithful,Faithful Logical Reasoning via Symbolic Chain-of-Thought,True,False,True,ACL
+zhang-etal-2024-escot,{ESC}o{T}: Towards Interpretable Emotional Support Dialogue Systems,True,False,True,ACL
+ramos-etal-2024-transparent,Transparent and Scrutable Recommendations Using Natural Language User Profiles,True,False,True,ACL
+arora-etal-2024-causalgym,{C}ausal{G}ym: Benchmarking causal interpretability methods on linguistic tasks,True,False,True,ACL
+deng-etal-2024-webcites,{W}eb{C}ite{S}: Attributed Query-Focused Summarization on {C}hinese Web Search Results with Citations,True,False,True,ACL
+saakyan-muresan-2024-iclef,{ICLEF}: In-Context Learning with Expert Feedback for Explainable Style Transfer,True,False,True,ACL
+shao-etal-2023-erasure,Erasure of Unaligned Attributes from Neural Representations,False,False,False,TACL
+wu-etal-2023-transparency,Transparency Helps Reveal When Language Models Learn Meaning,False,False,False,TACL
+zhang-etal-2023-macsum,{MACS}um: Controllable Summarization with Mixed Attributes,False,False,False,TACL
+stengel-eskin-van-durme-2023-calibrated,Calibrated Interpretation: Confidence Estimation in Semantic Parsing,False,False,False,TACL
+wu-etal-2023-recogs,{R}e{COGS}: How Incidental Details of a Logical Form Overshadow an Evaluation of Semantic Interpretation,False,False,False,TACL
+fang-etal-2023-say,"It{'}s not only What You Say, It{'}s also Who It{'}s Said to: Counterfactual Analysis of Interactive Behavior in the Courtroom",False,False,False,AACL/IJCNLP
+lyu-etal-2023-faithful,Faithful Chain-of-Thought Reasoning,False,False,False,AACL/IJCNLP
+tyo-etal-2023-valla,Valla: Standardizing and Benchmarking Authorship Attribution and Verification Through Empirical Evaluation and Comparative Analysis,False,False,False,AACL/IJCNLP
+tonni-dras-2023-learned,What Learned Representations and Influence Functions Can Tell Us About Adversarial Examples,False,False,False,Findings
+balashankar-etal-2023-improving,Improving Classifier Robustness through Active Generative Counterfactual Data Augmentation,False,False,False,Findings
+chun-etal-2023-cr,{CR}-{COPEC}: Causal Rationale of Corporate Performance Changes to learn from Financial Reports,False,False,False,Findings
+ryu-2023-plausibility,Plausibility Processing in Transformer Language Models: Focusing on the Role of Attention Heads in {GPT},True,False,True,Findings
+lin-etal-2023-counterfactual,Counterfactual Augmentation for Multimodal Learning Under Presentation Bias,False,False,False,Findings
+hu-etal-2023-adapter,Adapter-{TST}: A Parameter Efficient Method for Multiple-Attribute Text Style Transfer,False,False,False,Findings
+du-etal-2023-make,Make Your Decision Convincing! A Unified Two-Stage Framework: Self-Attribution and Decision-Making,True,False,True,Findings
+madaan-etal-2023-makes,What Makes Chain-of-Thought Prompting Effective? A Counterfactual Study,True,False,True,Findings
+wang-etal-2023-interpreting,Interpreting Indirect Answers to Yes-No Questions in Multiple Languages,False,False,False,Findings
+li-etal-2023-grenade,{GRENADE}: Graph-Centric Language Model for Self-Supervised Representation Learning on Text-Attributed Graphs,False,False,False,Findings
+reich-etal-2023-measuring,Measuring Faithful and Plausible Visual Grounding in {VQA},True,False,True,Findings
+zhang-etal-2023-extractive-summarization,Extractive Summarization via {C}hat{GPT} for Faithful Summary Generation,False,False,False,Findings
+pan-etal-2023-logic,Logic-{LM}: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning,False,False,False,Findings
+xie-etal-2023-proto,Proto-lm: A Prototypical Network-Based Framework for Built-in Interpretability in Large Language Models,False,False,True,Findings
+jumelet-zuidema-2023-transparency,Transparency at the Source: Evaluating and Interpreting Language Models With Access to the True Distribution,True,False,True,Findings
+he-garner-2023-interpreter,The Interpreter Understands Your Meaning: End-to-end Spoken Language Understanding Aided by Speech Translation,False,False,False,Findings
+yue-etal-2023-automatic,Automatic Evaluation of Attribution by Large Language Models,True,False,True,Findings
+sengupta-etal-2023-modeling,Modeling Highlighting of Metaphors in Multitask Contrastive Learning Paradigms,False,False,False,Findings
+chen-etal-2023-zara,{ZARA}: Improving Few-Shot Self-Rationalization for Small Language Models,True,False,True,Findings
+yang-etal-2023-hare,{HARE}: Explainable Hate Speech Detection with Step-by-Step Reasoning,True,False,True,Findings
+dong-etal-2023-co2pt,{C}o$^2${PT}: Mitigating Bias in Pre-trained Language Models through Counterfactual Contrastive Prompt Tuning,False,False,False,Findings
+lu-etal-2023-miracle,Miracle: Towards Personalized Dialogue Generation with Latent-Space Multiple Personal Attribute Control,False,False,False,Findings
+li-etal-2023-distilling,Distilling {C}hat{GPT} for Explainable Automated Student Answer Assessment,True,False,True,Findings
+wang-shu-2023-explainable,Explainable Claim Verification via Knowledge-Grounded Reasoning with Large Language Models,False,False,True,Findings
+li-du-2023-leveraging,Leveraging Structured Information for Explainable Multi-hop Question Answering and Reasoning,True,False,True,Findings
+liu-etal-2023-knowledge,Knowledge-Selective Pretraining for Attribute Value Extraction,False,False,False,Findings
+kuang-etal-2023-unleashing,Unleashing the Power of Language Models in Text-Attributed Graph,False,False,False,Findings
+mcinerney-etal-2023-chill,{CH}i{LL}: Zero-shot Custom Interpretable Feature Extraction from Clinical Notes with Large Language Models,True,False,True,Findings
+he-etal-2023-lego,{LEGO}: A Multi-agent Collaborative Framework with Role-playing and Iterative Feedback for Causality Explanation Generation,True,False,True,Findings
+li-etal-2023-mixture,Mixture-of-Linguistic-Experts Adapters for Improving and Interpreting Pre-trained Language Models,False,False,True,Findings
+chakrabarty-etal-2023-learning,Learning to Follow Object-Centric Image Editing Instructions Faithfully,False,False,False,Findings
+zhang-etal-2023-factspotter,{F}act{S}potter: Evaluating the Factual Faithfulness of Graph-to-Text Generation,False,False,False,Findings
+zhou-etal-2023-realbehavior,{R}eal{B}ehavior: A Framework for Faithfully Characterizing Foundation Models' Human-like Behavior Mechanisms,True,False,True,Findings
+zou-etal-2023-pretraining,Pretraining Language Models with Text-Attributed Heterogeneous Graphs,False,False,False,Findings
+zhang-etal-2023-instructsafety,{I}nstruct{S}afety: A Unified Framework for Building Multidimensional and Explainable Safety Detector through Instruction Tuning,False,False,True,Findings
+dong-etal-2023-steerlm,{S}teer{LM}: Attribute Conditioned {SFT} as an (User-Steerable) Alternative to {RLHF},False,False,False,Findings
+gu-etal-2023-iaeval,{IAE}val: A Comprehensive Evaluation of Instance Attribution on Natural Language Understanding,True,False,True,Findings
+rao-etal-2023-makes,What Makes it Ok to Set a Fire? Iterative Self-distillation of Contexts and Rationales for Disambiguating Defeasible Social and Moral Situations,True,False,True,Findings
+jin-etal-2023-adversarial,Adversarial Robustness for Large Language {NER} models using Disentanglement and Word Attributions,False,False,True,Findings
+xu-etal-2023-structural,Are Structural Concepts Universal in Transformer Language Models? Towards Interpretable Cross-Lingual Generalization,False,False,False,Findings
+katz-belinkov-2023-visit,{VISIT}: Visualizing and Interpreting the Semantic Information Flow of Transformers,False,False,True,Findings
+mathur-etal-2023-interpreting,Interpreting Answers to Yes-No Questions in User-Generated Content,False,False,False,Findings
+zhou-etal-2023-context,Context-faithful Prompting for Large Language Models,True,False,True,Findings
+patel-etal-2023-learning,Learning Interpretable Style Embeddings via Prompting {LLM}s,False,False,True,Findings
+huang-etal-2023-swing,{SWING}: Balancing Coverage and Faithfulness for Dialogue Summarization,False,False,False,Findings
+yang-etal-2023-task,Task-specific Compression for Multi-task Language Models using Attribution-based Pruning,False,False,True,Findings
+joshi-etal-2023-unsupervised,Unsupervised Keyphrase Extraction via Interpretable Neural Networks,True,False,True,Findings
+cao-etal-2023-multi,Multi-View Source Ablation for Faithful Summarization,True,False,True,Findings
+zhou-shah-2023-solvability,The Solvability of Interpretability Evaluation Metrics,True,False,True,Findings
+ding-etal-2023-shot,Few-shot Classification with Hypersphere Modeling of Prototypes,False,False,False,Findings
+chiesurin-etal-2023-dangers,The Dangers of trusting Stochastic Parrots: Faithfulness and Trust in Open-domain Conversational Question Answering,True,False,True,Findings
+varshney-etal-2023-unified,A Unified Evaluation Framework for Novelty Detection and Accommodation in {NLP} with an Instantiation in Authorship Attribution,False,False,False,Findings
+liu-etal-2023-attribute,Attribute Controlled Dialogue Prompting,False,False,False,Findings
+wang-etal-2023-rfid,{RF}i{D}: Towards Rational Fusion-in-Decoder for Open-Domain Question Answering,False,False,True,Findings
+zhu-etal-2023-knowledge,What Knowledge Is Needed? Towards Explainable Memory for k{NN}-{MT} Domain Adaptation,True,False,True,Findings
+huang-etal-2023-pram,{PRAM}: An End-to-end Prototype-based Representation Alignment Model for Zero-resource Cross-lingual Named Entity Recognition,False,False,False,Findings
+hong-etal-2023-robust,A Robust Information-Masking Approach for Domain Counterfactual Generation,False,False,False,Findings
+lin-morency-2023-sentecon,{S}ente{C}on: Leveraging Lexicons to Learn Human-Interpretable Language Representations,True,False,True,Findings
+goldfarb-tarrant-etal-2023-bias,Bias Beyond {E}nglish: Counterfactual Tests for Bias in Sentiment Analysis in Four Languages,False,False,False,Findings
+lu-etal-2023-asymmetric,Asymmetric feature interaction for interpreting model predictions,True,False,True,Findings
+chen-etal-2023-honestbait,{H}onest{B}ait: Forward References for Attractive but Faithful Headline Generation,False,False,False,Findings
+veerubhotla-etal-2023-shot,Few Shot Rationale Generation using Self-Training with Dual Teachers,True,False,True,Findings
+luo-etal-2023-prototype,Prototype-Based Interpretability for Legal Citation Prediction,False,False,True,Findings
+wicke-2023-lms,{LM}s stand their Ground: Investigating the Effect of Embodiment in Figurative Language Interpretation by Language Models,False,False,False,Findings
+jourdan-etal-2023-cockatiel,{COCKATIEL}: {CO}ntinuous Concept ran{K}ed {AT}tribution with Interpretable {EL}ements for explaining neural net classifiers on {NLP},True,False,True,Findings
+fang-etal-2023-whole,The Whole Truth and Nothing But the Truth: Faithful and Controllable Dialogue Response Generation with Dataflow Transduction and Constrained Decoding,False,False,False,Findings
+iskander-etal-2023-shielded,Shielded Representations: Protecting Sensitive Attributes Through Iterative Gradient-Based Projection,False,False,False,Findings
+guo-etal-2023-comave,{C}o{M}ave: Contrastive Pre-training with Multi-scale Masking for Attribute Value Extraction,False,False,False,Findings
+hauzenberger-etal-2023-modular,Modular and On-demand Bias Mitigation with Attribute-Removal Subnetworks,False,False,False,Findings
+li-etal-2023-factual,{FACTUAL}: A Benchmark for Faithful and Consistent Textual Scene Graph Parsing,False,False,False,Findings
+chan-etal-2023-interpretable,Interpretable Automatic Fine-grained Inconsistency Detection in Text Summarization,True,False,True,Findings
+shinzato-etal-2023-unified,A Unified Generative Approach to Product Attribute-Value Identification,False,False,False,Findings
+jiang-etal-2023-interpreting,Interpreting Sentiment Composition with Latent Semantic Tree,False,False,True,Findings
+enguehard-2023-sequential,Sequential Integrated Gradients: a simple but effective method for explaining language models,True,False,True,Findings
+ju-etal-2023-continuous,Is Continuous Prompt a Combination of Discrete Prompts? Towards a Novel View for Interpreting Continuous Prompts,True,False,True,Findings
+vincent-etal-2023-mtcue,{MTC}ue: Learning Zero-Shot Control of Extra-Textual Attributes by Leveraging Unstructured Context in Neural Machine Translation,False,False,False,Findings
+wen-etal-2023-grace,{GRACE}: Gradient-guided Controllable Retrieval for Augmenting Attribute-based Text Generation,False,False,False,Findings
+bernard-mickus-2023-many,So many design choices: Improving and interpreting neural agent communication in signaling games,False,False,False,Findings
+wang-xie-2023-constructing,Constructing Word-Context-Coupled Space Aligned with Associative Knowledge Relations for Interpretable Language Modeling,True,False,True,Findings
+li-etal-2023-defending,Defending against Insertion-based Textual Backdoor Attacks via Attribution,True,False,True,Findings
+zanwar-etal-2023-fuse,What to Fuse and How to Fuse: Exploring Emotion and Personality Fusion Strategies for Explainable Mental Disorder Detection,False,False,False,Findings
+jukic-etal-2023-easy,"Easy to Decide, Hard to Agree: Reducing Disagreements Between Saliency Methods",True,False,True,Findings
+rajaraman-etal-2023-investigating,Investigating Transformer-Guided Chaining for Interpretable Natural Logic Reasoning,False,False,True,Findings
+lam-etal-2023-large,Large Language Models Are Partially Primed in Pronoun Interpretation,False,False,False,Findings
+filandrianos-etal-2023-counterfactuals,Counterfactuals of Counterfactuals: a back-translation-inspired approach to analyse counterfactual editors,True,False,True,Findings
+liu-etal-2023-interpretable,Interpretable Multimodal Misinformation Detection with Logic Reasoning,False,False,True,Findings
+yang-etal-2023-mixpave,{M}ix{PAVE}: Mix-Prompt Tuning for Few-shot Product Attribute Value Extraction,False,False,False,Findings
+fajcik-etal-2023-claim,Claim-Dissector: An Interpretable Fact-Checking System with Joint Re-ranking and Veracity Prediction,True,False,True,Findings
+mei-etal-2023-foveate,"Foveate, Attribute, and Rationalize: Towards Physically Safe and Trustworthy {AI}",False,False,True,Findings
+madhavan-etal-2023-cfl,{CFL}: Causally Fair Language Models Through Token-level Attribute Controlled Generation,False,False,False,Findings
+jacovi-etal-2023-neighboring,Neighboring Words Affect Human Interpretation of Saliency Explanations,True,False,True,Findings
+garg-etal-2023-annotated,An Annotated Dataset for Explainable Interpersonal Risk Factors of Mental Disturbance in Social Media Posts,False,False,True,Findings
+ju-etal-2023-hierarchical,A Hierarchical Explanation Generation Method Based on Feature Interaction Detection,True,False,True,Findings
+wagner-foster-2023-investigating,Investigating the Saliency of Sentiment Expressions in Aspect-Based Sentiment Analysis,True,False,True,Findings
+govindarajan-etal-2023-counterfactual,Counterfactual Probing for the Influence of Affect and Specificity on Intergroup Bias,True,False,True,Findings
+zhang-etal-2023-pay,Pay Attention to Implicit Attribute Values: A Multi-modal Generative Framework for {AVE} Task,False,False,False,Findings
+chen-etal-2023-distinguish,Distinguish Before Answer: Generating Contrastive Explanation as Knowledge for Commonsense Question Answering,True,False,True,Findings
+brinner-zarriess-2023-model,Model Interpretability and Rationale Extraction by Input Mask Optimization,True,False,True,Findings
+kawabata-sugawara-2023-evaluating,Evaluating the Rationale Understanding of Critical Reasoning in Logical Reading Comprehension,True,False,True,EMNLP
+muller-etal-2023-evaluating,Evaluating and Modeling Attribution for Cross-Lingual Question Answering,True,False,True,EMNLP
+chen-etal-2023-using,Using Interpretation Methods for Model Enhancement,True,False,True,EMNLP
+chen-etal-2023-fidelity,Fidelity-Enriched Contrastive Search: Reconciling the Faithfulness-Diversity Trade-Off in Text Generation,False,False,False,EMNLP
+wen-yi-mimno-2023-hyperpolyglot,Hyperpolyglot {LLM}s: Cross-Lingual Interpretability in Token Embeddings,False,False,True,EMNLP
+liu-etal-2023-vera,Vera: A General-Purpose Plausibility Estimation Model for Commonsense Statements,False,False,False,EMNLP
+hwang-shwartz-2023-memecap,{M}eme{C}ap: A Dataset for Captioning and Interpreting Memes,False,False,False,EMNLP
+simhi-markovitch-2023-interpreting,Interpreting Embedding Spaces by Conceptualization,True,False,True,EMNLP
+patel-etal-2023-magnifico,{MAGNIFIC}o: Evaluating the In-Context Learning Ability of Large Language Models to Generalize to Novel Interpretations,False,False,False,EMNLP
+wu-etal-2023-mproto,{MP}roto: Multi-Prototype Network with Denoised Optimal Transport for Distantly Supervised Named Entity Recognition,False,False,False,EMNLP
+bouyamourn-2023-llms,"Why {LLM}s Hallucinate, and How to Get (Evidential) Closure: Perceptual, Intensional, and Extensional Learning for Faithful Natural Language Generation",True,False,True,EMNLP
+mousi-etal-2023-llms,Can {LLM}s Facilitate Interpretation of Pre-trained Language Models?,True,False,True,EMNLP
+ch-wang-etal-2023-sociocultural,Sociocultural Norm Similarities and Differences via Situational Alignment and Explainable Textual Entailment,True,False,True,EMNLP
+urrutia-etal-2023-deep,Deep Natural Language Feature Learning for Interpretable Prediction,False,False,True,EMNLP
+attanasio-etal-2023-tale,A Tale of Pronouns: Interpretability Informs Gender Bias Mitigation for Fairer Instruction-Tuned Machine Translation,True,True,True,EMNLP
+beinborn-pinter-2023-analyzing,Analyzing Cognitive Plausibility of Subword Tokenization,False,False,False,EMNLP
+zhao-etal-2023-prototype,Prototype-based {H}yper{A}dapter for Sample-Efficient Multi-task Tuning,False,False,False,EMNLP
+koo-etal-2023-kebap,{KEBAP}: {K}orean Error Explainable Benchmark Dataset for {ASR} and Post-processing,False,False,False,EMNLP
+jang-etal-2023-post,Post-hoc Utterance Refining Method by Entity Mining for Faithful Knowledge Grounded Conversations,True,False,True,EMNLP
+hou-etal-2023-towards,Towards a Mechanistic Interpretation of Multi-Step Reasoning Capabilities of Language Models,True,False,True,EMNLP
+meng-etal-2023-rapl,{RAPL}: A Relation-Aware Prototype Learning Approach for Few-Shot Document-Level Relation Extraction,False,False,False,EMNLP
+miao-etal-2023-generating,Generating Commonsense Counterfactuals for Stable Relation Extraction,False,False,False,EMNLP
+kaffee-etal-2023-article,Why Should This Article Be Deleted? Transparent Stance Detection in Multilingual {W}ikipedia Editor Discussions,False,False,True,EMNLP
+xu-etal-2023-instructscore,{INSTRUCTSCORE}: Towards Explainable Text Generation Evaluation with Automatic Feedback,False,False,True,EMNLP
+yang-etal-2023-towards,Towards Interpretable Mental Health Analysis with Large Language Models,True,False,True,EMNLP
+kamp-etal-2023-dynamic,Dynamic Top-k Estimation Consolidates Disagreement between Feature Attribution Methods,True,False,True,EMNLP
+wu-etal-2023-enhancing,Enhancing Structured Evidence Extraction for Fact Verification,False,False,False,EMNLP
+eberle-etal-2023-rather,Rather a Nurse than a Physician - Contrastive Explanations under Investigation,True,False,True,EMNLP
+stolfo-etal-2023-mechanistic,A Mechanistic Interpretation of Arithmetic Reasoning in Language Models using Causal Mediation Analysis,True,False,True,EMNLP
+hu-etal-2023-faithful,Faithful Model Evaluation for Model-Based Metrics,False,False,False,EMNLP
+tian-etal-2023-modeling,Modeling Conceptual Attribute Likeness and Domain Inconsistency for Metaphor Detection,False,False,False,EMNLP
+fu-etal-2023-scene,{SCENE}: Self-Labeled Counterfactuals for Extrapolating to Negative Examples,False,False,False,EMNLP
+zhong-etal-2023-air,Air-Decoding: Attribute Distribution Reconstruction for Decoding-Time Controllable Text Generation,False,False,False,EMNLP
+yu-etal-2023-ifqa,{I}f{QA}: A Dataset for Open-domain Question Answering under Counterfactual Presuppositions,False,False,False,EMNLP
+saxena-etal-2023-idtraffickers,{IDT}raffickers: An Authorship Attribution Dataset to link and connect Potential Human-Trafficking Operations on Text Escort Advertisements,False,False,False,EMNLP
+majumder-etal-2023-interfair,{I}nter{F}air: Debiasing with Natural Language Feedback for Fair Interpretable Predictions,True,False,True,EMNLP
+xu-etal-2023-dissonance,From Dissonance to Insights: Dissecting Disagreements in Rationale Construction for Case Outcome Classification,True,False,True,EMNLP
+askari-etal-2023-expand,"Expand, Highlight, Generate: {RL}-driven Document Generation for Passage Reranking",False,False,False,EMNLP
+nandwani-etal-2023-pointwise,Pointwise Mutual Information Based Metric and Decoding Strategy for Faithful Generation in Document Grounded Dialogs,True,False,True,EMNLP
+lahoti-etal-2023-improving,Improving Diversity of Demographic Representation in Large Language Models via Collective-Critiques and Self-Voting,False,False,False,EMNLP
+sen-etal-2023-people,People Make Better Edits: Measuring the Efficacy of {LLM}-Generated Counterfactually Augmented Data for Harmful Language Detection,False,False,False,EMNLP
+wang-etal-2023-goal,Goal-Driven Explainable Clustering via Language Descriptions,True,False,True,EMNLP
+zhang-etal-2023-famesumm,{F}a{M}e{S}umm: Investigating and Improving Faithfulness of Medical Summarization,True,False,True,EMNLP
+jia-etal-2023-zero,Zero-shot Faithfulness Evaluation for Text Summarization with Foundation Language Model,True,False,True,EMNLP
+briakou-etal-2023-explaining,Explaining with Contrastive Phrasal Highlighting: A Case Study in Assisting Humans to Detect Translation Differences,True,False,True,EMNLP
+yue-etal-2023-interventional,Interventional Rationalization,True,False,True,EMNLP
+chang-etal-2023-beyond,Beyond Detection: A Defend-and-Summarize Strategy for Robust and Interpretable Rumor Analysis on Social Media,False,False,True,EMNLP
+xu-etal-2023-vechr,{VECHR}: A Dataset for Explainable and Robust Classification of Vulnerability Type in the {E}uropean Court of Human Rights,True,False,True,EMNLP
+wu-etal-2023-acquired,{ACQUIRED}: A Dataset for Answering Counterfactual Questions In Real-Life Videos,False,False,False,EMNLP
+maekawa-imai-2023-identifying,Identifying Statements Crucial for Awareness of Interpretive Nonsense to Prevent Communication Breakdowns,False,False,False,EMNLP
+choudhury-etal-2023-explaining,Explaining Interactions Between Text Spans,True,False,True,EMNLP
+burger-etal-2023-explanations,``Are Your Explanations Reliable?'' Investigating the Stability of {LIME} in Explaining Text Classifiers by Marrying {XAI} and Adversarial Attack,True,False,True,EMNLP
+zhang-etal-2023-semantic,Semantic Space Grounded Weighted Decoding for Multi-Attribute Controllable Dialogue Generation,False,False,False,EMNLP
+wang-etal-2023-coffee,{COFFEE}: Counterfactual Fairness for Personalized Text Generation in Explainable Recommendation,True,False,True,EMNLP
+zhu-etal-2023-explain,"{EXPLAIN}, {EDIT}, {GENERATE}: Rationale-Sensitive Counterfactual Data Augmentation for Multi-hop Fact Verification",False,False,True,EMNLP
+menon-etal-2023-mantle,{M}a{N}t{LE}: Model-agnostic Natural Language Explainer,True,False,True,EMNLP
+fanconi-etal-2023-reads,This Reads Like That: Deep Learning for Interpretable Natural Language Processing,True,False,True,EMNLP
+huang-etal-2023-bridging,Bridging Continuous and Discrete Spaces: Interpretable Sentence Representation Learning via Compositional Operations,False,False,True,EMNLP
+chakraborty-etal-2023-factify3m,{FACTIFY}3{M}: A benchmark for multimodal fact verification with explainability through 5{W} Question-Answering,False,False,True,EMNLP
+xiong-etal-2023-rationale,Rationale-Enhanced Language Models are Better Continual Relation Learners,False,False,True,EMNLP
+tu-etal-2023-training,A Training-Free Debiasing Framework with Counterfactual Reasoning for Conversational Emotion Detection,True,False,True,EMNLP
+moeller-etal-2023-attribution,An Attribution Method for {S}iamese Encoders,True,False,True,EMNLP
+zhao-etal-2023-hop,"Hop, Union, Generate: Explainable Multi-hop Reasoning without Rationale Supervision",True,False,True,EMNLP
+liu-etal-2023-towards-interpretable,Towards Interpretable and Efficient Automatic Reference-Based Summarization Evaluation,False,False,True,EMNLP
+li-etal-2023-interpreting,Interpreting and Exploiting Functional Specialization in Multi-Head Attention under Multi-task Learning,False,False,True,EMNLP
+maity-etal-2023-genex,{G}en{E}x: A Commonsense-aware Unified Generative Framework for Explainable Cyberbullying Detection,False,False,True,EMNLP
+widiaputri-etal-2023-speech,Speech Recognition and Meaning Interpretation: Towards Disambiguation of Structurally Ambiguous Spoken Utterances in {I}ndonesian,False,False,False,EMNLP
+wang-etal-2023-extracting,Extracting or Guessing? Improving Faithfulness of Event Temporal Relation Extraction,True,False,True,EACL
+zhao-etal-2023-loft,{L}o{FT}: Enhancing Faithfulness and Diversity for Table-to-Text Generation via Logic Form Control,True,False,True,EACL
+deutsch-roth-2023-incorporating,Incorporating Question Answering-Based Signals into Abstractive Summarization via Salient Span Selection,False,False,False,EACL
+hu-etal-2023-unifee,{U}nif{EE}: Unified Evidence Extraction for Fact Verification,False,False,False,EACL
+shao-etal-2023-gold,Gold Doesn{'}t Always Glitter: Spectral Removal of Linear and Nonlinear Guarded Attribute Information,False,False,False,EACL
+krishna-etal-2023-longeval,{L}ong{E}val: Guidelines for Human Evaluation of Faithfulness in Long-form Summarization,True,False,True,EACL
+modarressi-etal-2023-guide,Guide the Learner: Controlling Product of Experts Debiasing Method Based on Token Attribution Similarities,True,False,True,EACL
+dai-etal-2023-plausible,Plausible May Not Be Faithful: Probing Object Hallucination in Vision-Language Pre-training,True,False,True,EACL
+held-yang-2023-shapley,Shapley Head Pruning: Identifying and Removing Interference in Multilingual Transformers,True,False,True,EACL
+hayati-etal-2023-stylex,{S}ty{LE}x: Explaining Style Using Human Lexical Annotations,True,False,True,EACL
+wan-etal-2023-faithfulness,Faithfulness-Aware Decoding Strategies for Abstractive Summarization,True,True,True,EACL
+cole-etal-2023-salient,Salient Span Masking for Temporal Understanding,False,False,False,EACL
+xie-etal-2023-counter,Counter-{GAP}: Counterfactual Bias Evaluation through Gendered Ambiguous Pronouns,False,False,False,EACL
+rashkin-etal-2023-measuring,Measuring Attribution in Natural Language Generation Models,True,False,True,Computational Linguistics (CL)
+reig-alamillo-etal-2023-analysis,The Analysis of Synonymy and Antonymy in Discourse Relations: An Interpretable Modeling Approach,False,False,True,Computational Linguistics (CL)
+apidianaki-2023-word,From Word Types to Tokens and Back: A Survey of Approaches to Word Meaning Representation and Interpretation,False,False,True,Computational Linguistics (CL)
+atanasova-etal-2023-faithfulness,Faithfulness Tests for Natural Language Explanations,True,False,True,ACL
+an-rudinger-2023-nichelle,Nichelle and Nancy: The Influence of Demographic Attributes and Tokenization Length on First Name Biases,False,False,False,ACL
+valentini-etal-2023-interpretability,On the Interpretability and Significance of Bias Metrics in Texts: a {PMI}-based Approach,False,False,True,ACL
+vishnubhotla-etal-2023-improving,Improving Automatic Quotation Attribution in Literary Novels,False,False,False,ACL
+li-etal-2023-counterfactual,Counterfactual reasoning: Testing language models' understanding of hypothetical scenarios,False,False,False,ACL
+steen-etal-2023-little,"With a Little Push, {NLI} Models can Robustly and Efficiently Predict Faithfulness",True,True,True,ACL
+mu-li-2023-enhancing,Enhancing Event Causality Identification with Counterfactual Reasoning,False,False,False,ACL
+nguyen-duc-etal-2023-class,Class based Influence Functions for Error Detection,False,False,True,ACL
+sarti-etal-2023-ramp,{RAMP}: Retrieval and Attribute-Marking Enhanced Prompting for Attribute-Controlled Translation,False,False,False,ACL
+agnew-etal-2023-mechanical,The Mechanical Bard: An Interpretable Machine Learning Approach to {S}hakespearean Sonnet Generation,False,False,False,ACL
+zhang-etal-2023-safeconv,{S}afe{C}onv: Explaining and Correcting Conversational Unsafe Behavior,True,False,True,ACL
+cheng-etal-2023-explainable,Explainable Recommendation with Personalized Review Retrieval and Aspect Learning,True,False,True,ACL
+chronis-etal-2023-method,A Method for Studying Semantic Construal in Grammatical Constructions with Interpretable Contextual Embedding Spaces,False,False,True,ACL
+clarke-etal-2023-rule,Rule By Example: Harnessing Logical Rules for Explainable Hate Speech Detection,False,False,True,ACL
+yang-etal-2023-tailor,Tailor: A Soft-Prompt-Based Approach to Attribute-Based Controlled Text Generation,False,False,False,ACL
+chen-etal-2023-causal,Causal Intervention and Counterfactual Reasoning for Multi-modal Fake News Detection,False,False,False,ACL
+lin-etal-2023-techs,{TECHS}: Temporal Logical Graph Networks for Explainable Extrapolation Reasoning,False,False,True,ACL
+chen-etal-2023-rev,{REV}: Information-Theoretic Evaluation of Free-Text Rationales,True,False,True,ACL
+li-etal-2023-attgen,{A}t{TG}en: Attribute Tree Generation for Real-World Attribute Joint Extraction,False,False,False,ACL
+zhang-etal-2023-extractive,Extractive is not Faithful: An Investigation of Broad Unfaithfulness Problems in Extractive Summarization,True,False,True,ACL
+modarressi-etal-2023-decompx,{D}ecomp{X}: Explaining Transformers Decisions by Propagating Token Decomposition,True,False,True,ACL
+wang-etal-2023-faithful,Faithful Low-Resource Data-to-Text Generation through Cycle Training,False,False,False,ACL
+giulianelli-etal-2023-interpretable,Interpretable Word Sense Representations via Definition Generation: The Case of Semantic Change Analysis,False,False,True,ACL
+hong-etal-2023-faithful,Faithful Question Answering with {M}onte-{C}arlo Planning,False,False,True,ACL
+zhou-etal-2023-improving,Improving Self-training for Cross-lingual Named Entity Recognition with Contrastive and Prototype Learning,False,False,False,ACL
+parcalabescu-frank-2023-mm,{MM}-{SHAP}: A Performance-agnostic Metric for Measuring Multimodal Contributions in Vision and Language Models {\&} Tasks,True,False,True,ACL
+guo-etal-2023-counterfactual,Counterfactual Multihop {QA}: A Cause-Effect Approach for Reducing Disconnected Reasoning,False,False,False,ACL
+deng-etal-2023-towards,Towards Faithful Dialogues via Focus Learning,False,False,True,ACL
+liu-etal-2023-dimongen,{D}imon{G}en: Diversified Generative Commonsense Reasoning for Explaining Concept Relationships,False,False,False,ACL
+zhao-aletras-2023-incorporating,Incorporating Attribution Importance for Improving Faithfulness Metrics,True,False,True,ACL
+ferrando-etal-2023-explaining,Explaining How Transformers Use Context to Build Predictions,True,False,True,ACL
+chen-etal-2023-disco,{DISCO}: Distilling Counterfactuals with Large Language Models,False,False,False,ACL
+tang-etal-2023-daam,What the {DAAM}: Interpreting Stable Diffusion Using Cross Attention,True,False,True,ACL
+huang-etal-2023-zero,Zero-shot Faithful Factual Error Correction,True,False,True,ACL
+xu-etal-2023-counterfactual,Counterfactual Debiasing for Fact Verification,False,False,False,ACL
+zhang-etal-2023-interpretable,Interpretable Math Word Problem Solution Generation via Step-by-step Planning,True,False,True,ACL
+joshi-etal-2023-machine,Are Machine Rationales (Not) Useful to Humans? Measuring and Improving Human Utility of Free-text Rationales,True,False,True,ACL
+singh-etal-2023-peeking,Peeking inside the black box: A Commonsense-aware Generative Framework for Explainable Complaint Detection,True,False,True,ACL
+chen-etal-2023-consistent,Consistent Prototype Learning for Few-Shot Continual Relation Extraction,False,False,False,ACL
+foley-etal-2023-matching,Matching Pairs: Attributing Fine-Tuned Models to their Pre-Trained Large Language Models,False,False,False,ACL
+whitehouse-etal-2023-webie,{W}eb{IE}: Faithful and Robust Information Extraction on the Web,False,False,False,ACL
+wu-etal-2023-ad,{AD}-{KD}: Attribution-Driven Knowledge Distillation for Language Model Compression,True,False,True,ACL
+hosking-etal-2023-attributable,Attributable and Scalable Opinion Summarization,False,False,False,ACL
+yang-etal-2023-efficient,Efficient Shapley Values Estimation by Amortization for Text Classification,True,False,True,ACL
+xilong-etal-2023-interpreting,Interpreting Positional Information in Perspective of Word Order,False,False,False,ACL
+zhu-etal-2023-paed,{PAED}: Zero-Shot Persona Attribute Extraction in Dialogues,False,False,False,ACL
+neeman-etal-2023-disentqa,{D}isent{QA}: Disentangling Parametric and Contextual Knowledge with Counterfactual Question Answering,False,False,True,ACL
+kwak-etal-2023-language,Language Detoxification with Attribute-Discriminative Latent Space,False,False,False,ACL
+yang-etal-2023-local,Local Interpretation of Transformer Based on Linear Decomposition,True,False,True,ACL
+jing-etal-2023-multi,Multi-source Semantic Graph-based Multimodal Sarcasm Explanation Generation,False,False,True,ACL
+deng-etal-2023-counterfactual,Counterfactual Active Learning for Out-of-Distribution Generalization,False,False,False,ACL
+ladhak-etal-2023-contrastive,Contrastive Error Attribution for Finetuned Language Models,True,False,True,ACL
+bansal-etal-2023-rethinking,Rethinking the Role of Scale for In-Context Learning: An Interpretability-based Case Study at 66 Billion Scale,False,False,True,ACL
+du-etal-2023-generalizing,Generalizing Backpropagation for Gradient-Based Interpretability,True,False,True,ACL
+xu-etal-2023-towards,Towards Open-World Product Attribute Mining: A Lightly-Supervised Approach,False,False,False,ACL
+storek-etal-2023-unsupervised,Unsupervised Selective Rationalization with Noise Injection,True,False,True,ACL
+liu-etal-2023-mgr,{MGR}: Multi-generator Based Rationalization,False,False,True,ACL
+ma-etal-2023-bump,{BUMP}: A Benchmark of Unfaithful Minimal Pairs for Meta-Evaluation of Faithfulness Metrics,True,False,True,ACL
+kim-etal-2023-explainmeetsum,{E}xplain{M}eet{S}um: A Dataset for Explainable Meeting Summarization Aligned with Human Intent,True,False,True,ACL
+yamasaki-etal-2023-holistic,Holistic Prediction on a Time-Evolving Attributed Graph,False,False,False,ACL
+liscio-etal-2023-text,What does a Text Classifier Learn about Morality? An Explainable Method for Cross-Domain Comparison of Moral Rhetoric,True,False,True,ACL
+zeng-etal-2023-seen,Seen to Unseen: Exploring Compositional Generalization of Multi-Attribute Controllable Dialogue Generation,False,False,False,ACL
+zhang-etal-2023-reasoning,Reasoning over Hierarchical Question Decomposition Tree for Explainable Question Answering,False,False,True,ACL
+nourbakhsh-etal-2023-using,Using counterfactual contrast to improve compositional generalization for multi-step quantitative reasoning,False,False,False,ACL
+treviso-etal-2023-crest,{CREST}: A Joint Framework for Rationalization and Counterfactual Text Generation,True,False,True,ACL
+wu-etal-2023-estimating,Estimating the Uncertainty in Emotion Attributes using Deep Evidential Regression,False,False,False,ACL
+ramshetty-etal-2023-cross,Cross-Modal Attribute Insertions for Assessing the Robustness of Vision-and-Language Learning,False,False,False,ACL
+yang-etal-2023-prototype,Prototype-Guided Pseudo Labeling for Semi-Supervised Text Classification,False,False,False,ACL
+chakrabarty-etal-2022-rocket,It{'}s not Rocket Science: Interpreting Figurative Language in Narratives,False,False,False,TACL
+dziri-etal-2022-evaluating,Evaluating Attribution in Dialogue Systems: The {BEGIN} Benchmark,True,False,True,TACL
+thayaparan-etal-2022-diff,Diff-Explainer: Differentiable Convex Optimization for Explainable Multi-hop Inference,True,False,True,TACL
+feder-etal-2022-causal,"Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond",False,False,True,TACL
+sajjad-etal-2022-neuron,Neuron-level Interpretation of Deep {NLP} Models: A Survey,True,False,True,TACL
+calabrese-etal-2022-explainable,Explainable Abuse Detection as Intent Classification and Slot Filling,False,False,True,TACL
+dziri-etal-2022-faithdial,{F}aith{D}ial: A Faithful Benchmark for Information-Seeking Dialogue,True,False,True,TACL
+modarressi-etal-2022-globenc,{G}lob{E}nc: Quantifying Global Token Attribution by Incorporating the Whole Encoder Layer in Transformers,True,False,True,NAACL
+sullivan-etal-2022-explaining,Explaining Why: How Instructions and User Interfaces Impact Annotator Rationales When Labeling Text Data,True,False,True,NAACL
+sridhar-yang-2022-explaining,Explaining Toxic Text via Knowledge Enhanced Text Generation,True,False,True,NAACL
+kim-etal-2022-cosim,{C}o{SI}m: Commonsense Reasoning for Counterfactual Scene Imagination,False,False,False,NAACL
+adewoyin-etal-2022-rstgen,{RSTG}en: Imbuing Fine-Grained Interpretable Control into Long-{F}orm{T}ext Generators,False,False,False,NAACL
+zhang-etal-2022-locally,Locally Aggregated Feature Attribution on Natural Language Model Understanding,True,False,True,NAACL
+balkir-etal-2022-necessity,Necessity and Sufficiency for Explaining Text Classifiers: A Case Study in Hate Speech Detection,True,False,True,NAACL
+qu-etal-2022-interpretable,Interpretable Proof Generation via Iterative Backward Reasoning,False,False,True,NAACL
+wang-etal-2022-rely,Should We Rely on Entity Mentions for Relation Extraction? Debiasing Relation Extraction with Counterfactual Analysis,True,False,True,NAACL
+kasai-etal-2022-transparent,Transparent Human Evaluation for Image Captioning,False,False,False,NAACL
+khashabi-etal-2022-prompt,Prompt Waywardness: The Curious Case of Discretized Interpretation of Continuous Prompts,True,False,True,NAACL
+iv-etal-2022-fruit,{FRUIT}: Faithfully Reflecting Updated Information in Text,False,False,False,NAACL
+chen-etal-2022-rationalization,Can Rationalization Improve Robustness?,True,False,True,NAACL
+sen-etal-2022-counterfactually,Counterfactually Augmented Data and Unintended Bias: The Case of Sexism and Hate Speech Detection,False,False,False,NAACL
+sun-etal-2022-semantically,Semantically Informed Slang Interpretation,False,False,False,NAACL
+wang-etal-2022-automatic,Automatic Multi-Label Prompting: Simple and Interpretable Few-Shot Classification,False,False,False,NAACL
+tang-etal-2022-confit,{CONFIT}: Toward Faithful Dialogue Summarization with Linguistically-Informed Contrastive Fine-tuning,False,False,False,NAACL
+khalid-lee-2022-explaining,Explaining Dialogue Evaluation Metrics using Adversarial Behavioral Analysis,True,False,True,NAACL
+yamada-etal-2022-annotation,Annotation Study of {J}apanese Judgments on Tort for Legal Judgment Prediction with Rationales,True,False,True,LREC
+przybyl-etal-2022-epic,{EPIC} {U}d{S} - Creation and Applications of a Simultaneous Interpreting Corpus,False,False,False,LREC
+hladka-etal-2022-annotating,Annotating Attribution in {C}zech News Server Articles,False,False,False,LREC
+frohberg-binder-2022-crass,{CRASS}: A Novel Data Set and Benchmark to Test Counterfactual Reasoning of Large Language Models,False,False,False,LREC
+mertz-etal-2022-low,A Low-Cost Motion Capture Corpus in {F}rench {S}ign {L}anguage for Interpreting Iconicity and Spatial Referencing Mechanisms,False,False,False,LREC
+mendez-guzman-etal-2022-rafola,{R}a{F}o{L}a: A Rationale-Annotated Corpus for Detecting Indicators of Forced Labour,False,False,True,LREC
+bhattarai-etal-2022-convtexttm,{C}onv{T}ext{TM}: An Explainable Convolutional Tsetlin Machine Framework for Text Classification,False,False,True,LREC
+cambria-etal-2022-senticnet,{S}entic{N}et 7: A Commonsense-based Neurosymbolic {AI} Framework for Explainable Sentiment Analysis,False,False,True,LREC
+coeckelbergs-2022-pattern,From Pattern to Interpretation. Using Colibri Core to Detect Translation Patterns in the Peshitta.,False,False,False,LREC
+prouteau-etal-2022-embedding,Are Embedding Spaces Interpretable? Results of an Intrusion Detection Evaluation on a Large {F}rench Corpus,True,False,True,LREC
+luo-surdeanu-2022-step,A {STEP} towards Interpretable Multi-Hop Reasoning:Bridge Phrase Identification and Query Expansion,True,False,True,LREC
+bhattarai-etal-2022-explainable,Explainable Tsetlin Machine Framework for Fake News Detection with Credibility Score Assessment,True,False,True,LREC
+vishnubhotla-etal-2022-project,The Project Dialogism Novel Corpus: A Dataset for Quotation Attribution in Literary Texts,False,False,False,LREC
+wang-riddell-2022-cctaa,{CCTAA}: A Reproducible Corpus for {C}hinese Authorship Attribution Research,False,False,False,LREC
+lertvittayakumjorn-etal-2022-grasp,{G}r{ASP}: A Library for Extracting and Exploring Human-Interpretable Textual Patterns,False,False,False,LREC
+wood-etal-2022-bayesian,A {B}ayesian Topic Model for Human-Evaluated Interpretability,False,False,True,LREC
+le-etal-2022-vimqa,{VIMQA}: A {V}ietnamese Dataset for Advanced Reasoning and Explainable Multi-hop Question Answering,False,False,True,LREC
+zhang-liu-2022-directquote,{D}irect{Q}uote: A Dataset for Direct Quotation Extraction and Attribution in News Articles,False,False,False,LREC
+marasovic-etal-2022-shot,Few-Shot Self-Rationalization with Natural Language Prompts,True,False,True,Findings
+hossain-etal-2022-question,A Question-Answer Driven Approach to Reveal Affirmative Interpretations from Verbal Negations,False,False,False,Findings
+zhang-etal-2022-improving-faithfulness,Improving the Faithfulness of Abstractive Summarization via Entity Coverage Control,True,False,True,Findings
+liu-etal-2022-learn,Learn from Relation Information: Towards Prototype Representation Rectification for Few-Shot Relation Extraction,False,False,False,Findings
+xu-zhao-2022-jointly,Jointly Learning Guidance Induction and Faithful Summary Generation via Conditional Variational Autoencoders,False,False,False,Findings
+yang-etal-2022-logicsolver,{L}ogic{S}olver: Towards Interpretable Math Word Problem Solving with Logical Prompt-enhanced Learning,False,False,True,Findings
+chen-etal-2022-salient,Salient Phrase Aware Dense Retrieval: Can a Dense Retriever Imitate a Sparse One?,False,False,False,Findings
+wang-etal-2022-smartave,{SMARTAVE}: Structured Multimodal Transformer for Product Attribute Value Extraction,False,False,False,Findings
+liu-etal-2022-improve,Improve Interpretability of Neural Networks via Sparse Contrastive Coding,True,False,True,Findings
+li-etal-2022-systematicity,Systematicity in {GPT}-3{'}s Interpretation of Novel {E}nglish Noun Compounds,False,False,False,Findings
+jain-etal-2022-influence,Influence Functions for Sequence Tagging Models,True,False,True,Findings
+dong-etal-2022-faithful,Faithful to the Document or to the World? Mitigating Hallucinations via Entity-Linked Knowledge in Abstractive Summarization,False,False,False,Findings
+el-zini-awad-2022-beyond,Beyond Model Interpretability: On the Faithfulness and Adversarial Robustness of Contrastive Textual Explanations,True,False,True,Findings
+madsen-etal-2022-evaluating,Evaluating the Faithfulness of Importance Measures in {NLP} by Recursively Masking Allegedly Important Tokens and Retraining,True,False,True,Findings
+lee-goldwasser-2022-towards,Towards Explaining Subjective Ground of Individuals on Social Media,True,False,True,Findings
+wen-etal-2022-autocad,{A}uto{CAD}: Automatically Generate Counterfactuals for Mitigating Shortcut Learning,False,False,True,Findings
+palaskar-etal-2022-advances,On Advances in Text Generation from Images Beyond Captioning: A Case Study in Self-Rationalization,True,False,True,Findings
+dixit-etal-2022-core,{CORE}: A Retrieve-then-Edit Framework for Counterfactual Data Generation,False,False,False,Findings
+gunaratna-etal-2022-explainable,Explainable Slot Type Attentions to Improve Joint Intent Detection and Slot Filling,False,False,True,Findings
+wu-etal-2022-frsum,{FRSUM}: Towards Faithful Abstractive Summarization via Enhancing Factual Robustness,False,False,False,Findings
+adams-etal-2022-learning,Learning to Revise References for Faithful Summarization,False,False,False,Findings
+geng-etal-2022-inducing,Inducing Generalizable and Interpretable Lexica,True,False,True,Findings
+lamarre-etal-2022-attention,Attention weights accurately predict language representations in the brain,False,False,False,Findings
+zhang-etal-2022-moba,{MOBA}-{E}2{C}: Generating {MOBA} Game Commentaries via Capturing Highlight Events from the Meta-Data,False,False,False,Findings
+engler-etal-2022-sensepolar,{S}ense{POLAR}: Word sense aware interpretability for pre-trained contextual word embeddings,False,False,True,Findings
+howard-etal-2022-neurocounterfactuals,{N}euro{C}ounterfactuals: Beyond Minimal-Edit Counterfactuals for Richer Data Augmentation,False,False,False,Findings
+he-etal-2022-controlling,Controlling Bias Exposure for Fair Interpretable Predictions,True,False,True,Findings
+sun-etal-2022-investigating,Investigating the Benefits of Free-Form Rationales,True,False,True,Findings
+fang-zhang-2022-data,Data-Efficient Concept Extraction from Pre-trained Language Models for Commonsense Explanation Generation,True,False,True,Findings
+qasemi-etal-2022-paco,{P}a{C}o: Preconditions Attributed to Commonsense Knowledge,False,False,False,Findings
+zeng-etal-2022-contrastive,Contrastive Learning with Prompt-derived Virtual Semantic Prototypes for Unsupervised Sentence Embedding,False,False,False,Findings
+cai-etal-2022-multi,Multi-Scale Distribution Deep Variational Autoencoder for Explanation Generation,False,False,True,Findings
+xie-etal-2022-eider,Eider: Empowering Document-level Relation Extraction with Efficient Evidence Extraction and Inference-stage Fusion,False,False,True,Findings
+mo-etal-2022-towards,Towards Transparent Interactive Semantic Parsing via Step-by-Step Correction,False,False,True,Findings
+tuan-etal-2022-towards,Towards Large-Scale Interpretable Knowledge Graph Reasoning for Dialogue Systems,False,False,True,Findings
+gupta-etal-2022-mitigating,Mitigating Gender Bias in Distilled Language Models via Counterfactual Role Reversal,False,False,False,Findings
+su-etal-2022-read,Read before Generate! Faithful Long Form Question Answering with Machine Reading,False,False,False,Findings
+li-etal-2022-using,Using Interactive Feedback to Improve the Accuracy and Explainability of Question Answering Systems Post-Deployment,True,False,True,Findings
+ronnqvist-etal-2022-explaining,Explaining Classes through Stable Word Attributions,True,False,True,Findings
+carton-etal-2022-learn,"What to Learn, and How: {T}oward Effective Learning from Rationales",True,False,True,Findings
+wang-etal-2022-novel,A Novel Framework Based on Medical Concept Driven Attention for Explainable Medical Code Prediction via External Knowledge,False,False,True,Findings
+pezeshkpour-etal-2022-combining,Combining Feature and Instance Attribution to Detect Artifacts,True,False,True,Findings
+wang-etal-2022-ranking,Ranking-Constrained Learning with Rationales for Text Classification,False,False,True,Findings
+zhan-etal-2022-mitigating,Mitigating the Inconsistency Between Word Saliency and Model Confidence with Pathological Contrastive Training,True,False,True,Findings
+liu-etal-2022-novel,A Novel Perspective to Look At Attention: Bi-level Attention-based Explainable Topic Modeling for News Classification,False,False,True,Findings
+luo-etal-2022-interpretable,Interpretable Research Replication Prediction via Variational Contextual Consistency Sentence Masking,True,False,True,Findings
+chen-etal-2022-e,{E}-{KAR}: A Benchmark for Rationalizing Natural Language Analogical Reasoning,False,False,True,Findings
+zhang-etal-2022-interpreting,Interpreting the Robustness of Neural {NLP} Models to Textual Perturbations,True,False,True,Findings
+zhang-etal-2022-focus,Focus on the Action: Learning to Highlight and Summarize Jointly for Email To-Do Items Summarization,False,False,False,Findings
+fomicheva-etal-2022-translation,Translation Error Detection as Rationale Extraction,True,False,True,Findings
+landsman-etal-2022-beamr,{B}eam{R}: Beam Reweighing with Attribute Discriminators for Controllable Text Generation,False,False,False,Findings
+yin-neubig-2022-interpreting,Interpreting Language Models with Contrastive Explanations,True,False,True,EMNLP
+mao-etal-2022-lightea,"{L}ight{EA}: A Scalable, Robust, and Interpretable Entity Alignment Framework via Three-view Label Propagation",False,False,True,EMNLP
+bastings-etal-2022-will,``Will You Find These Shortcuts?'' A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification,True,False,True,EMNLP
+zaman-belinkov-2022-multilingual,A Multilingual Perspective Towards the Evaluation of Attribution Methods in Natural Language Inference,True,False,True,EMNLP
+ou-etal-2022-counterfactual,Counterfactual Data Augmentation via Perspective Transition for Open-Domain Dialogues,False,False,False,EMNLP
+tafjord-etal-2022-entailer,Entailer: Answering Questions with Faithful and Truthful Chains of Reasoning,True,False,True,EMNLP
+he-etal-2022-cpl,{CPL}: Counterfactual Prompt Learning for Vision and Language Models,False,False,False,EMNLP
+blevins-zettlemoyer-2022-language,Language Contamination Helps Explains the Cross-lingual Capabilities of {E}nglish Pretrained Models,False,False,False,EMNLP
+mcinerney-etal-2022-thats,That{'}s the Wrong Lung! Evaluating and Improving the Interpretability of Unsupervised Multimodal Encoders for Medical Data,True,False,True,EMNLP
+stacey-etal-2022-logical,Logical Reasoning with Span-Level Predictions for Interpretable and Robust {NLI} Models,True,False,True,EMNLP
+currey-etal-2022-mt,{MT}-{G}en{E}val: A Counterfactual and Contextual Dataset for Evaluating Gender Accuracy in Machine Translation,False,False,False,EMNLP
+wu-etal-2022-towards,Towards Interactivity and Interpretability: A Rationale-based Legal Judgment Prediction Framework,False,False,True,EMNLP
+wang-etal-2022-analyzing,Analyzing and Evaluating Faithfulness in Dialogue Summarization,True,False,True,EMNLP
+mao-etal-2022-explainable,Explainable Question Answering based on Semantic Graph by Global Differentiable Learning and Dynamic Adaptive Reasoning,False,False,True,EMNLP
+lin-etal-2022-seen,{SEEN}: Structured Event Enhancement Network for Explainable Need Detection of Information Recall Assistance,False,False,True,EMNLP
+cho-etal-2022-rethinking,Rethinking Style Transformer with Energy-based Interpretation: Adversarial Unsupervised Style Transfer using a Pretrained Model,False,False,True,EMNLP
+liu-etal-2022-investigating,Investigating the Robustness of Natural Language Generation from Logical Forms via Counterfactual Samples,False,False,False,EMNLP
+hossain-blanco-2022-leveraging,Leveraging Affirmative Interpretations from Negation Improves Natural Language Understanding,False,False,False,EMNLP
+gangi-reddy-etal-2022-newsclaims,{N}ews{C}laims: A New Benchmark for Claim Detection from News with Attribute Knowledge,False,False,False,EMNLP
+huang-etal-2022-deer,{DEER}: Descriptive Knowledge Graph for Explaining Entity Relationships,False,False,True,EMNLP
+wu-etal-2022-precisely,Precisely the Point: Adversarial Augmentations for Faithful and Informative Text Generation,True,False,True,EMNLP
+liu-etal-2022-rlet,{RLET}: A Reinforcement Learning Based Approach for Explainable {QA} with Entailment Trees,True,False,True,EMNLP
+chemmengath-etal-2022-cat,Let the {CAT} out of the bag: Contrastive Attributed explanations for Text,True,False,True,EMNLP
+liu-etal-2022-counterfactual,Counterfactual Recipe Generation: Exploring Compositional Generalization in a Realistic Scenario,False,False,False,EMNLP
+ross-etal-2022-self,Does Self-Rationalization Improve Robustness to Spurious Correlations?,True,False,True,EMNLP
+haghighatkhah-etal-2022-better,Better Hit the Nail on the Head than Beat around the Bush: Removing Protected Attributes with a Single Projection,False,False,False,EMNLP
+ferrando-etal-2022-towards,Towards Opening the Black Box of Neural Machine Translation: Source and Target Interpretations of the Transformer,False,False,True,EMNLP
+jain-etal-2022-extending,Extending Logic Explained Networks to Text Classification,True,False,True,EMNLP
+patel-etal-2022-cripp,{CRIPP}-{VQA}: Counterfactual Reasoning about Implicit Physical Properties via Video Question Answering,False,False,False,EMNLP
+zhang-etal-2022-symptom,Symptom Identification for Interpretable Detection of Multiple Mental Disorders on Social Media,False,False,True,EMNLP
+zhao-etal-2022-towards,Towards Efficient Dialogue Pre-training with Transferable and Interpretable Latent Structure,False,False,True,EMNLP
+li-etal-2022-human,Human Guided Exploitation of Interpretable Attention Patterns in Summarization and Topic Segmentation,False,False,True,EMNLP
+kolluru-etal-2022-covid,``Covid vaccine is against Covid but {O}xford vaccine is made at {O}xford!'' Semantic Interpretation of Proper Noun Compounds,False,False,False,EMNLP
+aglionby-teufel-2022-faithful,Faithful Knowledge Graph Explanations in Commonsense Question Answering,True,False,True,EMNLP
+jiang-etal-2022-im2,{IM}2: an Interpretable and Multi-category Integrated Metric Framework for Automatic Dialogue Evaluation,True,False,True,EMNLP
+udomcharoenchaikit-etal-2022-mitigating,Mitigating Spurious Correlation in Natural Language Understanding with Counterfactual Inference,True,False,True,EMNLP
+de-raedt-etal-2022-robustifying,Robustifying Sentiment Classification by Maximally Exploiting Few Counterfactuals,False,False,False,EMNLP
+wang-etal-2022-improving,Improving Faithfulness by Augmenting Negative Summaries from Fake Documents,False,False,False,EMNLP
+han-etal-2022-hierarchical,Hierarchical Attention Network for Explainable Depression Detection on {T}witter Aided by Metaphor Concept Mappings,False,False,True,COLING
+wachsmuth-alshomary-2022-mama,``Mama Always Had a Way of Explaining Things So {I} Could Understand'': A Dialogue Corpus for Learning to Construct Explanations,False,False,True,COLING
+bashier-etal-2022-locally,Locally Distributed Activation Vectors for Guided Feature Attribution,True,False,True,COLING
+ge-etal-2022-e,{E}-{V}ar{M}: Enhanced Variational Word Masks to Improve the Interpretability of Text Classification Models,True,False,True,COLING
+amplayo-etal-2022-attribute,Attribute Injection for Pretrained Language Models: A New Benchmark and an Efficient Method,False,False,False,COLING
+park-lee-2022-lime,{LIME}: Weakly-Supervised Text Classification without Seeds,False,False,False,COLING
+alghanmi-etal-2022-self,Self-Supervised Intermediate Fine-Tuning of Biomedical Language Models for Interpreting Patient Case Descriptions,False,False,False,COLING
+wang-etal-2022-locate,Locate Then Ask: Interpretable Stepwise Reasoning for Multi-hop Question Answering,False,False,True,COLING
+ji-etal-2022-shot,Few-shot Named Entity Recognition with Entity-level Prototypical Network Enhanced by Dispersedly Distributed Prototypes,False,False,False,COLING
+yu-etal-2022-dependency,Dependency-aware Prototype Learning for Few-shot Relation Classification,False,False,False,COLING
+yang-etal-2022-coarse,A Coarse-to-fine Cascaded Evidence-Distillation Neural Network for Explainable Fake News Detection,True,False,True,COLING
+igamberdiev-etal-2022-dp,{DP}-Rewrite: Towards Reproducibility and Transparency in Differentially Private Text Rewriting,False,False,False,COLING
+lymperaiou-etal-2022-towards,Towards Explainable Evaluation of Language Models on the Semantic Similarity of Visual Concepts,True,False,True,COLING
+poelman-etal-2022-transparent,Transparent Semantic Parsing with {U}niversal {D}ependencies Using Graph Transformations,False,False,True,COLING
+mosca-etal-2022-shap,{SHAP}-Based Explanation Methods: A Review for {NLP} Interpretability,False,False,True,COLING
+wachowiak-gromann-2022-systematic,Systematic Analysis of Image Schemas in Natural Language through Explainable Multilingual Neural Language Processing,False,False,True,COLING
+li-etal-2022-tip,A-{TIP}: Attribute-aware Text Infilling via Pre-trained Language Model,False,False,False,COLING
+liu-etal-2022-multi-attribute,Multi-Attribute Controlled Text Generation with Contrastive-Generator and External-Discriminator,False,False,False,COLING
+aich-etal-2022-demystifying,Demystifying Neural Fake News via Linguistic Feature-Based Interpretation,False,False,True,COLING
+kim-etal-2022-hate,Why Is It Hate Speech? Masked Rationale Prediction for Explainable Hate Speech Detection,True,False,True,COLING
+zhang-etal-2022-sentiment,Sentiment Interpretable Logic Tensor Network for Aspect-Term Sentiment Analysis,False,False,True,COLING
+yan-etal-2022-hierarchical,Hierarchical Interpretation of Neural Text Classification,True,False,True,Computational Linguistics (CL)
+chrysostomou-2022-explainable,Explainable Natural Language Processing,False,False,True,Computational Linguistics (CL)
+zhang-ma-2022-dual,Dual Attention Model for Citation Recommendation with Analyses on Explainability of Attention Mechanisms and Qualitative Experiments,False,False,True,Computational Linguistics (CL)
+paperno-2022-learning,On Learning Interpreted Languages with Recurrent Models,False,False,False,Computational Linguistics (CL)
+shen-etal-2022-shortest,Are Shortest Rationales the Best Explanations for Human Understanding?,True,False,True,ACL
+tolkachev-etal-2022-counterfactual,Counterfactual Explanations for Natural Language Interfaces,True,False,True,ACL
+shinzato-etal-2022-simple,Simple and Effective Knowledge-Driven Query Expansion for {QA}-Based Product Attribute Extraction,False,False,False,ACL
+li-etal-2022-learning,Learning to Imagine: Integrating Counterfactual Thinking in Neural Discrete Reasoning,False,False,False,ACL
+geng-etal-2022-improving,Improving Personalized Explanation Generation through Visualization,True,False,True,ACL
+du-etal-2022-e,e-{CARE}: a New Dataset for Exploring Explainable Causal Reasoning,False,False,True,ACL
+sanyal-etal-2022-fairr,{F}ai{RR}: Faithful and Robust Deductive Reasoning over Natural Language,True,False,True,ACL
+ladhak-etal-2022-faithful,Faithful or Extractive? On Mitigating the Faithfulness-Abstractiveness Trade-off in Abstractive Summarization,True,False,True,ACL
+paranjape-etal-2022-retrieval,Retrieval-guided Counterfactual Generation for {QA},False,False,False,ACL
+yin-etal-2022-sensitivity,On the Sensitivity and Stability of Model Interpretations in {NLP},True,False,True,ACL
+das-etal-2022-prototex,{P}roto{TE}x: Explaining Model Decisions with Prototype Tensors,True,False,True,ACL
+majumder-etal-2022-achieving,Achieving Conversational Goals with Unsupervised Post-hoc Knowledge Injection,False,False,False,ACL
+gupta-etal-2022-right,Right for the Right Reason: Evidence Extraction for Trustworthy Tabular Reasoning,True,False,True,ACL
+joshi-he-2022-investigation,An Investigation of the (In)effectiveness of Counterfactually Augmented Data,False,False,False,ACL
+liu-etal-2022-saliency,Saliency as Evidence: Event Detection with Trigger Saliency Attribution,False,False,True,ACL
+yang-etal-2022-interpretable,An Interpretable Neuro-Symbolic Reasoning Framework for Task-Oriented Dialogue Generation,False,False,True,ACL
+chan-etal-2022-comparative,A Comparative Study of Faithfulness Metrics for Model Interpretability Methods,True,False,True,ACL
+park-caragea-2022-calibration,On the Calibration of Pre-trained Language Models using Mixup Guided by Area Under the Margin and Saliency,False,False,False,ACL
+cuesta-lazaro-etal-2022-sea,What does the sea say to the shore? A {BERT} based {DST} style approach for speaker to dialogue attribution in novels,False,False,False,ACL
+ju-etal-2022-logic,Logic Traps in Evaluating Attribution Scores,True,False,True,ACL
+lee-etal-2022-toward,Toward Interpretable Semantic Textual Similarity via Optimal Transport-based Contrastive Sentence Learning,True,False,True,ACL
+boldsen-etal-2022-interpreting,"Interpreting Character Embeddings With Perceptual Representations: The Case of Shape, Sound, and Color",False,False,True,ACL
+lu-etal-2022-rationale,A Rationale-Centric Framework for Human-in-the-loop Machine Learning,False,False,True,ACL
+liu-etal-2022-mpii,{MPII}: Multi-Level Mutual Promotion for Inference and Interpretation,True,True,True,ACL
+kaneko-etal-2022-interpretability,Interpretability for Language Learners Using Example-Based Grammatical Error Correction,True,False,True,ACL
+zhai-etal-2022-adversarial,Adversarial Authorship Attribution for Deobfuscation,False,False,False,ACL
+calderon-etal-2022-docogen,{D}o{C}o{G}en: {D}omain Counterfactual Generation for Low Resource Domain Adaptation,False,False,False,ACL
+mosca-etal-2022-suspicious,``That Is a Suspicious Reaction!'': Interpreting Logits Variation to Detect {NLP} Adversarial Attacks,True,False,True,ACL
+pham-etal-2022-double,Double Trouble: How to not Explain a Text Classifier{'}s Decisions Using Counterfactuals Synthesized by Masked Language Models?,True,False,True,AACL/IJCNLP
+van-aken-etal-2022-patient,This Patient Looks Like That Patient: Prototypical Networks for Interpretable Diagnosis Prediction from Clinical Text,True,False,True,AACL/IJCNLP
+hudecek-dusek-2022-learning,Learning Interpretable Latent Dialogue Actions With Less Supervision,False,False,True,AACL/IJCNLP
+opitz-frank-2022-sbert,{SBERT} studies Meaning Representations: Decomposing Sentence Embeddings into Explainable Semantic Features,False,False,True,AACL/IJCNLP
+ai-etal-2022-whodunit,Whodunit? Learning to Contrast for Authorship Attribution,False,False,False,AACL/IJCNLP
+elazar-etal-2021-amnesic,Amnesic Probing: Behavioral Explanation with Amnesic Counterfactuals,True,False,True,TACL
+jacovi-goldberg-2021-aligning,Aligning Faithful Interpretations with their Social Attribution,True,False,True,TACL
+lyu-etal-2021-neural,Neural {OCR} Post-Hoc Correction of Historical Corpora,False,False,False,TACL
+lamm-etal-2021-qed,{QED}: A Framework and Dataset for Explanations in Question Answering,True,True,True,TACL
+liu-etal-2021-counterfactual,Counterfactual Data Augmentation for Neural Machine Translation,False,False,False,NAACL
+chalkidis-etal-2021-paragraph,Paragraph-level Rationale Extraction through Regularization: A case study on {E}uropean Court of Human Rights Cases,True,False,True,NAACL
+du-etal-2021-towards,Towards Interpreting and Mitigating Shortcut Learning Behavior of {NLU} models,True,False,True,NAACL
+pezeshkpour-etal-2021-empirical,An Empirical Comparison of Instance Attribution Methods for {NLP},True,False,True,NAACL
+liang-etal-2021-explainable,Explainable Multi-hop Verbal Reasoning Through Internal Monologue,False,False,True,NAACL
+porada-etal-2021-modeling,Modeling Event Plausibility with Consistent Conceptual Abstraction,False,False,False,NAACL
+wu-etal-2021-counterfactual,Counterfactual Supporting Facts Extraction for Explainable Medical Record Based Diagnosis with Graph Network,True,False,True,NAACL
+khanehzar-etal-2021-framing,Framing Unpacked: A Semi-Supervised Interpretable Multi-View Model of Media Frames,False,False,True,NAACL
+patel-etal-2021-game,Game-theoretic Vocabulary Selection via the Shapley Value and Banzhaf Index,False,False,True,NAACL
+turcan-etal-2021-emotion,Emotion-Infused Models for Explainable Psychological Stress Detection,False,False,True,NAACL
+zhu-etal-2021-faithfully,Faithfully Explainable Recommendation via Neural Logic Reasoning,True,False,True,NAACL
+chen-li-2021-zs,{ZS}-{BERT}: Towards Zero-Shot Relation Extraction with Attribute Representation Learning,False,False,False,NAACL
+saha-etal-2021-multiprover,multi{PR}over: Generating Multiple Proofs for Improved Interpretability in Rule Reasoning,True,False,True,NAACL
+verga-etal-2021-adaptable,Adaptable and Interpretable Neural {M}emory{O}ver Symbolic Knowledge,False,False,True,NAACL
+doogan-buntine-2021-topic,Topic Model or Topic Twaddle? Re-evaluating Semantic Interpretability Measures,True,False,True,NAACL
+zhang-etal-2021-double,Double Perturbation: On the Robustness of Robustness and Counterfactual Bias Evaluation,True,False,True,NAACL
+chen-etal-2021-explaining,Explaining Neural Network Predictions on Sentence Pairs via Learning Word-Group Masks,True,False,True,NAACL
+montariol-etal-2021-scalable,Scalable and Interpretable Semantic Change Detection,False,False,True,NAACL
+ding-koehn-2021-evaluating,Evaluating Saliency Methods for Neural Language Models,True,False,True,NAACL
+chen-etal-2021-improving,Improving Faithfulness in Abstractive Summarization with Contrast Candidate Generation and Selection,False,False,False,NAACL
+mehta-etal-2021-latex,{LATEX}-Numeric: Language Agnostic Text Attribute Extraction for Numeric Attributes,False,False,False,NAACL
+samarinas-etal-2021-improving,Improving Evidence Retrieval for Automated Explainable Fact-Checking,False,False,False,NAACL
+kokalj-etal-2021-bert,{BERT} meets Shapley: Extending {SHAP} Explanations to Transformer-based Classifiers,True,False,True,EACL
+xie-etal-2021-factual-consistency,Factual Consistency Evaluation for Text Summarization via Counterfactual Estimation,False,False,False,Findings
+fu-etal-2021-decomposing-complex,Decomposing Complex Questions Makes Multi-Hop {QA} Easier and More Interpretable,True,False,True,Findings
+ferrando-costa-jussa-2021-attention-weights,Attention Weights in Transformer {NMT} Fail Aligning Words Between Sequences but Largely Explain Model Predictions,True,False,True,Findings
+lai-etal-2021-saliency-based,Saliency-based Multi-View Mixed Language Training for Zero-shot Cross-lingual Classification,False,False,False,Findings
+su-etal-2021-shot-table,Few-Shot Table-to-Text Generation with Prototype Memory,False,False,False,Findings
+tian-etal-2021-hypogen-hyperbole,{H}ypo{G}en: Hyperbole Generation with Commonsense and Counterfactual Knowledge,False,False,False,Findings
+yu-etal-2021-attribute-alignment,Attribute Alignment: Controlling Text Generation from Pre-trained Language Models,False,False,False,Findings
+beloucif-biemann-2021-probing-pre,Probing Pre-trained Language Models for Semantic Attributes and their Values,False,False,False,Findings
+mishra-etal-2021-modeling-users,Modeling Users and Online Communities for Abuse Detection: A Position on Ethics and Explainability,False,False,True,Findings
+jin-etal-2021-msd-saliency,{MSD}: Saliency-aware Knowledge Distillation for Multimodal Understanding,False,False,False,Findings
+robeer-etal-2021-generating-realistic,Generating Realistic Natural Language Counterfactuals,True,False,True,Findings
+zhao-etal-2021-attend-memorize,"Attend, Memorize and Generate: Towards Faithful Table-to-Text Generation in Few Shots",False,False,False,Findings
+zhang-etal-2021-noahqa-numerical,{NOAHQA}: Numerical Reasoning with Interpretable Graph Question Answering Dataset,True,False,True,Findings
+altakrori-etal-2021-topic-confusion,The Topic Confusion Task: A Novel Evaluation Scenario for Authorship Attribution,False,False,False,Findings
+lee-etal-2021-micromodels-efficient,"Micromodels for Efficient, Explainable, and Reusable Systems: A Case Study on Mental Health",False,False,True,Findings
+han-tsvetkov-2021-influence-tuning,Influence Tuning: Demoting Spurious Correlations via Instance Attribution and Instance-Driven Updates,True,True,True,Findings
+wang-etal-2021-counterfactual-adversarial,Counterfactual Adversarial Learning with Representation Interpolation,False,False,False,Findings
+thayaparan-etal-2021-explainable,Explainable Inference Over Grounding-Abstract Chains for Science Questions,False,False,False,Findings
+zhang-etal-2021-improving,From What to Why: Improving Relation Extraction with Rationale Graph,False,False,False,Findings
+ren-etal-2021-prediction,Prediction or Comparison: Toward Interpretable Qualitative Reasoning,False,False,False,Findings
+li-etal-2021-meet,Meet The Truth: Leverage Objective Facts and Subjective Views for Interpretable Rumor Detection,False,False,False,Findings
+antognini-faltings-2021-rationalization,Rationalization through Concepts,False,False,False,Findings
+tucker-etal-2021-modified,What if This Modified That? Syntactic Interventions with Counterfactual Embeddings,False,False,False,Findings
+xu-etal-2021-dynamic,Dynamic Semantic Graph Construction and Reasoning for Explainable Multi-hop Science Question Answering,False,False,True,Findings
+tan-etal-2021-gcrc,{GCRC}: A New Challenging {MRC} Dataset from {G}aokao {C}hinese for Explainable Evaluation,False,False,False,Findings
+wan-etal-2021-enhancing,Enhancing Metaphor Detection by Gloss-based Interpretations,False,False,False,Findings
+feng-etal-2021-empowering,Empowering Language Understanding with Counterfactual Reasoning,False,False,False,Findings
+zhang-etal-2021-ma,{MA}-{BERT}: Learning Representation by Incorporating Multi-Attribute Knowledge in Transformers,False,False,False,Findings
+ponkiya-etal-2021-framenet,{F}rame{N}et-assisted Noun Compound Interpretation,False,False,False,Findings
+yoon-etal-2021-ssmix,{SSM}ix: Saliency-Based Span Mixup for Text Classification,False,False,False,Findings
+garcia-olano-etal-2021-biomedical,Biomedical Interpretable Entity Representations,False,False,False,Findings
+zafar-etal-2021-lack,On the Lack of Robust Interpretability of Neural Text Classifiers,False,False,False,Findings
+ross-etal-2021-explaining,Explaining {NLP} Models via Minimal Contrastive Editing ({M}i{CE}),False,False,True,Findings
+sun-marasovic-2021-effective,Effective Attention Sheds Light On Interpretability,False,False,True,Findings
+paranjape-etal-2021-prompting,Prompting Contrastive Explanations for Commonsense Reasoning Tasks,False,False,False,Findings
+dawkins-2021-marked,Marked Attribute Bias in Natural Language Inference,False,False,False,Findings
+wang-etal-2021-sketch,Sketch and Refine: Towards Faithful and Informative Table-to-Text Generation,False,False,False,Findings
+liu-etal-2021-highlight,Highlight-Transformer: Leveraging Key Phrase Aware Attention to Improve Abstractive Multi-Document Summarization,False,False,False,Findings
+srikanth-li-2021-elaborative,Elaborative Simplification: Content Addition and Explanation Generation in Text Simplification,False,False,False,Findings
+chen-etal-2021-reinforced,Reinforced Counterfactual Data Augmentation for Dual Sentiment Classification,False,False,False,EMNLP
+sen-etal-2021-counterfactually,How Does Counterfactually Augmented Data Impact Models for Social Computing Constructs?,True,False,True,EMNLP
+rajagopal-etal-2021-selfexplain,{SELFEXPLAIN}: A Self-Explaining Architecture for Neural Text Classifiers,True,False,True,EMNLP
+falke-lehnen-2021-feedback,Feedback Attribution for Counterfactual Bandit Learning in Multi-Domain Spoken Language Understanding,False,False,False,EMNLP
+jacovi-etal-2021-contrastive,Contrastive Explanations for Model Interpretability,True,False,True,EMNLP
+bursztyn-etal-2021-doesnt,``It doesn{'}t look good for a date'': Transforming Critiques into Preferences for Conversational Recommendation Systems,False,False,False,EMNLP
+saxon-etal-2021-modeling,Modeling Disclosive Transparency in {NLP} Application Descriptions,False,False,False,EMNLP
+situ-etal-2021-lifelong,Lifelong Explainer for Lifelong Learners,True,False,True,EMNLP
+zhang-etal-2021-abstract,"Abstract, Rationale, Stance: A Joint Model for Scientific Claim Verification",False,False,False,EMNLP
+ju-etal-2021-enhancing,Enhancing Multiple-choice Machine Reading Comprehension by Punishing Illogical Interpretations,True,False,True,EMNLP
+shi-etal-2021-neural,Neural Natural Logic Inference for Interpretable Question Answering,False,False,True,EMNLP
+lakhotia-etal-2021-fid,{F}i{D}-Ex: Improving Sequence-to-Sequence Models for Extractive Rationale Generation,True,False,True,EMNLP
+shi-etal-2021-transfernet,{T}ransfer{N}et: An Effective and Transparent Framework for Multi-hop Question Answering over Relation Graph,False,False,True,EMNLP
+balashankar-etal-2021-improve,Can We Improve Model Robustness through Secondary Attribute Counterfactuals?,False,False,False,EMNLP
+lai-etal-2021-learning,Learning Prototype Representations Across Few-Shot Tasks for Event Detection,False,False,False,EMNLP
+ye-etal-2021-connecting,Connecting Attributions and {QA} Model Behavior on Realistic Counterfactuals,True,False,True,EMNLP
+jayaram-allaway-2021-human,Human Rationales as Attribution Priors for Explainable Stance Detection,True,False,True,EMNLP
+fern-pope-2021-text,Text Counterfactuals via Latent Optimization and {S}hapley-Guided Search,True,False,True,EMNLP
+guerreiro-martins-2021-spectra,{SPECTRA}: Sparse Structured Text Rationalization,True,False,True,EMNLP
+cao-wang-2021-cliff,{CLIFF}: Contrastive Learning for Improving Faithfulness and Factuality in Abstractive Summarization,False,False,False,EMNLP
+schioppa-etal-2021-controlling,Controlling Machine Translation for Multiple Attributes with Additive Interventions,False,False,False,EMNLP
+zhao-etal-2021-good,It Is Not As Good As You Think! Evaluating Simultaneous Machine Translation on Interpretation Data,False,False,False,EMNLP
+oneill-etal-2021-wish,"{I} Wish {I} Would Have Loved This One, But {I} Didn{'}t {--} A Multilingual Dataset for Counterfactual Detection in Product Review",False,False,False,EMNLP
+dalvi-etal-2021-explaining,Explaining Answers with Entailment Trees,True,False,True,EMNLP
+chrysostomou-aletras-2021-enjoy,Enjoy the Salience: Towards Better Transformer-based Faithful Explanations with Word Salience,True,False,True,EMNLP
+bhardwaj-etal-2021-adversarial,Adversarial Attacks on Knowledge Graph Embeddings via Instance Attribution Methods,False,False,True,EMNLP
+lv-etal-2021-multi,Is Multi-Hop Reasoning Really Explainable? Towards Benchmarking Reasoning Interpretability,True,False,True,EMNLP
+kaster-etal-2021-global,Global Explainability of {BERT}-Based Evaluation Metrics by Disentangling along Linguistic Factors,True,False,True,EMNLP
+wiegreffe-etal-2021-measuring,{M}easuring Association Between Labels and Free-Text Rationales,True,False,True,EMNLP
+sanyal-ren-2021-discretized,Discretized Integrated Gradients for Explaining Language Models,True,False,True,EMNLP
+vafa-etal-2021-rationales,Rationales for Sequential Predictions,True,False,True,EMNLP
+guo-etal-2021-fastif,{F}ast{IF}: Scalable Influence Functions for Efficient Model Interpretation and Debugging,True,False,True,EMNLP
+bhat-etal-2021-self,Self-training with Few-shot Rationalization,True,False,True,EMNLP
+wang-etal-2021-mode,Mode Effects' Challenge to Authorship Attribution,False,False,False,EACL
+opitz-frank-2021-towards,Towards a Decomposable Metric for Explainable Evaluation of Text Generation from {AMR},True,False,True,EACL
+munir-etal-2021-looking,Through the Looking Glass: Learning to Attribute Synthetic Text Generated by Language Models,False,False,False,EACL
+fu-grishman-2021-learning,Learning Relatedness between Types with Prototypes for Relation Extraction,False,False,False,EACL
+li-etal-2021-scientific,Scientific Discourse Tagging for Evidence Extraction,False,False,False,EACL
+moradi-etal-2021-measuring,Measuring and Improving Faithfulness of Attention in Neural Machine Translation,True,False,True,EACL
+bashier-etal-2021-disk,{DISK}-{CSV}: Distilling Interpretable Semantic Knowledge with a Class Semantic Vector,False,False,True,EACL
+ruzsics-etal-2021-interpretability,Interpretability for Morphological Inflection: from Character-level Predictions to Subword-level Rules,False,False,True,EACL
+feder-etal-2021-causalm,{C}ausa{LM}: Causal Model Explanation Through Counterfactual Language Models,True,False,True,Computational Linguistics (CL)
+agarwal-etal-2021-interpretability,Interpretability Analysis for Named Entity Recognition to Understand System Predictions and How They Can Improve,True,False,True,Computational Linguistics (CL)
+nangi-etal-2021-counterfactuals,Counterfactuals to Control Latent Disentangled Text Representations for Style Transfer,False,False,False,ACL
+ethayarajh-jurafsky-2021-attention,Attention Flows are Shapley Value Explanations,False,False,True,ACL
+meister-etal-2021-sparse,Is Sparse Attention more Interpretable?,True,False,True,ACL
+wang-etal-2021-quotation,Quotation Recommendation and Interpretation Based on Transformation from Queries to Quotations,False,False,False,ACL
+wu-etal-2021-unified,Unified Dual-view Cognitive Model for Interpretable Claim Verification,True,False,True,ACL
+cui-etal-2021-refining,Refining Sample Embeddings with Relation Prototypes to Enhance Continual Relation Extraction,False,False,False,ACL
+yang-etal-2021-exploring,Exploring the Efficacy of Automatically Generated Counterfactuals for Sentiment Analysis,True,False,True,ACL
+sevastjanova-etal-2021-explaining,Explaining Contextualization in Language Models using Visual Analytics,False,False,True,ACL
+chrysostomou-aletras-2021-improving,Improving the Faithfulness of Attention-based Explanations with Task-specific Information for Text Classification,True,False,True,ACL
+jiang-wilson-2021-structurizing,Structurizing Misinformation Stories via Rationalizing Fact-Checks,False,False,True,ACL
+rashkin-etal-2021-increasing,Increasing Faithfulness in Knowledge-Grounded Dialogue with Controllable Features,True,False,True,ACL
+balashankar-subramanian-2021-learning,Learning Faithful Representations of Causal Graphs,False,False,False,ACL
+sikdar-etal-2021-integrated,Integrated Directional Gradients: Feature Interaction Attribution for Neural {NLP} Models,True,False,True,ACL
+wang-etal-2021-voxpopuli,"{V}ox{P}opuli: A Large-Scale Multilingual Speech Corpus for Representation Learning, Semi-Supervised Learning and Interpretation",False,False,False,ACL
+garbacea-etal-2021-explainable,Explainable Prediction of Text Complexity: The Missing Preliminaries for Text Simplification,False,False,True,ACL
+luu-etal-2021-explaining,Explaining Relationships Between Scientific Documents,False,False,False,ACL
+cao-etal-2021-irene,{I}r{E}ne: Interpretable Energy Prediction for Transformers,False,False,True,ACL
+du-etal-2021-excar,{E}x{CAR}: Event Graph Knowledge Enhanced Explainable Causal Reasoning,True,False,True,ACL
+samanta-etal-2021-hierarchical,A Hierarchical {VAE} for Calibrating Attributes while Generating Text using Normalizing Flow,False,False,False,ACL
+chen-etal-2021-kace,{KACE}: Generating Knowledge Aware Contrastive Explanations for Natural Language Inference,True,False,True,ACL
+yao-etal-2021-interpretable,Interpretable and Low-Resource Entity Matching via Decoupling Feature Learning from Decision Making,False,False,True,ACL
+kanwatchara-etal-2021-rational,Rational {LAMOL}: A Rationale-based Lifelong Learning Framework,False,False,True,ACL
+pugoy-kao-2021-unsupervised,Unsupervised Extractive Summarization-Based Representations for Accurate and Explainable Collaborative Filtering,True,False,True,ACL
+hofmann-etal-2021-superbizarre,Superbizarre Is Not Superb: Derivational Morphology Improves {BERT}{'}s Interpretation of Complex Words,False,False,False,ACL
+chen-etal-2021-cross-language,Cross-language Sentence Selection via Data Augmentation and Rationale Training,False,False,True,ACL
+chang-etal-2021-convolutions,Convolutions and Self-Attention: {R}e-interpreting Relative Positions in Pre-trained Language Models,False,False,False,ACL
+yan-etal-2021-adatag,{A}da{T}ag: Multi-Attribute Value Extraction from Product Profiles with Adaptive Decoding,False,False,False,ACL
+hu-etal-2021-r2d2,{R}2{D}2: Recursive Transformer based on Differentiable Tree for Interpretable Hierarchical Language Modeling,False,False,True,ACL
+li-etal-2021-personalized,Personalized Transformer for Explainable Recommendation,False,False,True,ACL
+jiang-etal-2021-alignment,Alignment Rationale for Natural Language Inference,True,False,True,ACL
+zhang-etal-2021-sample,"On Sample Based Explanation Methods for {NLP}: Faithfulness, Efficiency and Semantic Evaluation",True,False,True,ACL
+qian-etal-2021-counterfactual,Counterfactual Inference for Text Classification Debiasing,False,False,False,ACL
+kamigaito-hayashi-2021-unified,Unified Interpretation of Softmax Cross-Entropy and Negative Sampling: With Case Study for Knowledge Graph Embedding,False,False,False,ACL
+huang-etal-2021-exploring,Exploring Distantly-Labeled Rationales in Neural Network Models,True,False,True,ACL
+aralikatte-etal-2021-focus,Focus Attention: Promoting Faithfulness and Diversity in Summarization,True,False,True,ACL
+wu-etal-2021-polyjuice,"Polyjuice: Generating Counterfactuals for Explaining, Evaluating, and Improving Models",True,False,True,ACL
+lu-etal-2021-inter,{I}nter-{GPS}: Interpretable Geometry Problem Solving with Formal Language and Symbolic Reasoning,False,False,True,ACL
+xu-durrett-2021-dissecting,Dissecting Generation Modes for Abstractive Summarization Models via Ablation and Attribution,True,False,True,ACL
+wong-etal-2021-cross,Cross-replication Reliability - An Empirical Approach to Interpreting Inter-rater Reliability,False,False,False,ACL
+emami-etal-2021-adept,{ADEPT}: An Adjective-Dependent Plausibility Task,False,False,False,ACL
+aghajanyan-etal-2021-intrinsic,Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning,False,False,False,ACL
+lin-etal-2020-adjusting,Adjusting Image Attributes of Localized Regions with Low-level Dialogue,False,False,False,LREC
+wu-etal-2020-getting,Getting To Know You: User Attribute Extraction from Dialogues,False,False,False,LREC
+chaturvedi-etal-2020-development,Development of a Corpus Annotated with Medications and their Attributes in Psychiatric Health Records,False,False,False,LREC
+lee-etal-2020-squad2,{SQ}u{AD}2-{CR}: Semi-supervised Annotation for Cause and Rationales for Unanswerability in {SQ}u{AD} 2.0,False,False,True,LREC
+zayed-etal-2020-figure,Figure Me Out: A Gold Standard Dataset for Metaphor Interpretation,False,False,False,LREC
+hasegawa-etal-2020-word,Word Attribute Prediction Enhanced by Lexical Entailment Tasks,False,False,False,LREC
+huang-etal-2020-reducing,Reducing Sentiment Bias in Language Models via Counterfactual Evaluation,False,False,False,Findings
+russo-etal-2020-control,"Control, Generate, Augment: A Scalable Framework for Multi-Attribute Text Generation",False,False,False,Findings
+onoe-durrett-2020-interpretable,Interpretable Entity Representations through Large-Scale Typing,False,False,True,Findings
+mrini-etal-2020-rethinking,Rethinking Self-Attention: Towards Interpretability in Neural Parsing,False,False,True,Findings
+filippova-2020-controlled,Controlled Hallucinations: Learning to Generate Faithfully from Noisy Data,False,False,False,Findings
+glockner-etal-2020-think,Why do you think that? Exploring Faithful Sentence-Level Rationales Without Supervision,True,False,True,Findings
+wu-etal-2020-improving-knowledge,Improving Knowledge-Aware Dialogue Response Generation by Using Human-Written Prototype Dialogues,False,False,False,Findings
+chen-etal-2020-knowledge,A Knowledge-Driven Approach to Classifying Object and Attribute Coreferences in Opinion Mining,False,False,False,Findings
+yang-etal-2020-robust,Robust and Interpretable Grounding of Spatial References with Relation Networks,False,False,True,Findings
+kung-etal-2020-zero,Zero-Shot Rationalization by Multi-Task Transfer Learning from Question Answering,False,False,True,Findings
+shnarch-etal-2020-unsupervised,Unsupervised Expressive Rules Provide Explainability and Assist Human Experts Grasping New Domains,True,False,True,Findings
+marasovic-etal-2020-natural,Natural Language Rationales with Full-Stack Visual Reasoning: From Pixels to Semantic Frames to Commonsense Graphs,False,False,True,Findings
+shin-etal-2020-neutralizing,Neutralizing Gender Bias in Word Embeddings with Latent Disentanglement and Counterfactual Generation,False,False,False,Findings
+rajagopal-etal-2020-ask,What-if {I} ask you to explain: Explaining the effects of perturbations in procedural text,True,False,True,Findings
+kim-etal-2020-arramon,{A}rra{M}on: A Joint Navigation-Assembly Instruction Interpretation Task in Dynamic Environments,False,False,False,Findings
+pruthi-etal-2020-weakly,Weakly- and Semi-supervised Evidence Extraction,True,False,True,Findings
+huang-etal-2020-generalizable,Generalizable and Explainable Dialogue Generation via Explicit Action Learning,False,False,True,Findings
+hu-yang-2020-privnet,{P}riv{N}et: Safeguarding Private Attributes in Transfer Learning for Recommendation,False,False,False,Findings
+saha-etal-2020-prover,{PR}over: Proof Generation for Interpretable Reasoning over Rules,True,False,True,EMNLP
+zanzotto-etal-2020-kermit,{KERMIT}: Complementing Transformer Architectures with Encoders of Explicit Syntactic Interpretations,False,False,True,EMNLP
+qin-etal-2020-back,Back to the Future: Unsupervised Backprop-based Decoding for Counterfactual and Abductive Commonsense Reasoning,False,False,False,EMNLP
+sarkar-etal-2020-social,Social Media Attributions in the Context of Water Crisis,False,False,False,EMNLP
+feng-etal-2020-explainable,Explainable Clinical Decision Support from Text,True,False,True,EMNLP
+tsai-etal-2020-multimodal,Multimodal Routing: Improving Local and Global Interpretability of Multimodal Language Analysis,False,False,True,EMNLP
+paranjape-etal-2020-information,An Information Bottleneck Approach for Controlling Conciseness in Rationale Extraction,True,False,True,EMNLP
+chen-qian-2020-enhancing,Enhancing Aspect Term Extraction with Soft Prototypes,False,False,False,EMNLP
+zhu-etal-2020-multimodal,Multimodal Joint Attribute Prediction and Value Extraction for {E}-commerce Product,False,False,False,EMNLP
+chen-li-2020-henin,{HENIN}: Learning Heterogeneous Neural Interaction Networks for Explainable Cyberbullying Detection on Social Media,False,False,True,EMNLP
+weng-etal-2020-towards,Towards Enhancing Faithfulness for Neural Machine Translation,True,False,True,EMNLP
+kim-etal-2020-interpretation,Interpretation of {NLP} models through input marginalization,True,False,True,EMNLP
+jiang-etal-2020-cold,Cold-Start and Interpretability: Turning Regular Expressions into Trainable Recurrent Neural Networks,False,False,True,EMNLP
+ramnath-etal-2020-towards,Towards Interpreting {BERT} for Reading Comprehension Based {QA},True,False,True,EMNLP
+de-cao-etal-2020-decisions,How do Decisions Emerge across Layers in Neural Models? Interpretation with Differentiable Masking,True,False,True,EMNLP
+atanasova-etal-2020-diagnostic,A Diagnostic Study of Explainability Techniques for Text Classification,True,False,True,EMNLP
+liang-etal-2020-learning,Learning to Contrast the Counterfactual Samples for Robust Visual Question Answering,False,False,False,EMNLP
+zhu-etal-2020-counterfactual,Counterfactual Off-Policy Training for Neural Dialogue Generation,False,False,False,EMNLP
+sen-etal-2020-learning,Learning Explainable Linguistic Expressions with Neural Inductive Logic Programming for Sentence Classification,True,False,True,EMNLP
+chen-ji-2020-learning,Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers,True,False,True,EMNLP
+fu-etal-2020-sscr,{SSCR}: Iterative Language-Based Image Editing via Self-Supervised Counterfactual Reasoning,False,False,False,EMNLP
+ethayarajh-jurafsky-2020-utility,Utility is in the Eye of the User: A Critique of {NLP} Leaderboards,False,False,False,EMNLP
+tigunova-etal-2020-charm,{CHARM}: Inferring Personal Attributes from Conversations,False,False,False,EMNLP
+fu-etal-2020-interpretable,Interpretable Multi-dataset Evaluation for Named Entity Recognition,False,False,True,EMNLP
+pasca-2020-interpreting,Interpreting Open-Domain Modifiers: Decomposition of {W}ikipedia Categories into Disambiguated Property-Value Pairs,False,False,False,EMNLP
+desai-etal-2020-compressive,Compressive Summarization with Plausibility and Salience Modeling,False,False,False,EMNLP
+cho-etal-2020-better,Better Highlighting: Creating Sub-Sentence Summary Highlights,False,False,False,EMNLP
+liu-etal-2020-exploring,"Exploring and Evaluating Attributes, Values, and Structures for Entity Alignment",False,False,False,EMNLP
+choi-etal-2020-less,Less is More: Attention Supervision with Counterfactuals for Text Classification,False,False,True,EMNLP
+ren-etal-2020-towards,Towards Interpretable Reasoning over Paragraph Effects in Situation,False,False,True,EMNLP
+zeng-etal-2020-counterfactual,Counterfactual Generator: A Weakly-Supervised Method for Named Entity Recognition,True,False,True,EMNLP
+kotonya-toni-2020-explainable-automated,Explainable Automated Fact-Checking for Public Health Claims,True,False,True,EMNLP
+pratapa-etal-2020-constrained,{C}onstrained {F}act {V}erification for {FEVER},False,False,False,EMNLP
+uchendu-etal-2020-authorship,Authorship Attribution for Neural Text Generation,False,False,False,EMNLP
+liu-etal-2020-knowledge,Knowledge-guided Open Attribute Value Extraction with Reinforcement Learning,False,False,False,EMNLP
+kim-linzen-2020-cogs,{COGS}: A Compositional Generalization Challenge Based on Semantic Interpretation,False,False,False,EMNLP
+carton-etal-2020-evaluating,Evaluating and Characterizing Human Rationales,True,False,True,EMNLP
+jindal-etal-2020-killed,Is Killed More Significant than Fled? A Contextual Model for Salient Event Detection,False,False,False,COLING
+boenninghoff-etal-2020-variational,Variational Autoencoder with Embedded Student-t Mixture Model for Authorship Attribution,False,False,False,COLING
+sen-etal-2020-schema,Schema Aware Semantic Reasoning for Interpreting Natural Language Queries in Enterprise Settings,False,False,False,COLING
+le-zuidema-2020-dolfin,{D}o{LFI}n: Distributions over Latent Features for Interpretability,False,False,True,COLING
+bashier-etal-2020-rancc,{RANCC}: Rationalizing Neural Networks via Concept Clustering,False,False,True,COLING
+aloui-etal-2020-slice,{SLICE}: Supersense-based Lightweight Interpretable Contextual Embeddings,False,False,True,COLING
+branco-etal-2020-comparative,Comparative Probing of Lexical Semantics Theories for Cognitive Plausibility and Technological Usefulness,False,False,False,COLING
+donatelli-etal-2020-two,A Two-Level Interpretation of Modality in Human-Robot Dialogue,False,False,False,COLING
+sarathy-etal-2020-reasoning,Reasoning Requirements for Indirect Speech Act Interpretation,False,False,False,COLING
+tran-etal-2020-explain,Explain by Evidence: An Explainable Memory-based Neural Network for Question Answering,False,False,True,COLING
+kotonya-toni-2020-explainable,Explainable Automated Fact-Checking: A Survey,True,False,True,COLING
+yuan-etal-2020-faithfulness,On the Faithfulness for {E}-commerce Product Summarization,False,False,False,COLING
+yang-etal-2020-generating,Generating Plausible Counterfactual Explanations for Deep Transformers in Financial Text Classification,True,False,True,COLING
+liao-etal-2020-explainable,Explainable and Sparse Representations of Academic Articles for Knowledge Exploration,False,False,True,COLING
+yu-etal-2020-bridging,Bridging Text and Knowledge with Multi-Prototype Embedding for Few-Shot Relational Triple Extraction,False,False,False,COLING
+xu-etal-2020-embedding,Embedding Dynamic Attributed Networks by Modeling the Evolution Processes,False,False,False,COLING
+pedinotti-lenci-2020-dont,Don{'}t Invite {BERT} to Drink a Bottle: Modeling the Interpretation of Metonymies Using {BERT} and Distributional Representations,False,False,False,COLING
+sarkhel-etal-2020-interpretable,Interpretable Multi-headed Attention for Abstractive Summarization at Controllable Lengths,False,False,True,COLING
+lu-li-2020-gcan,{GCAN}: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media,False,False,True,ACL
+gonen-etal-2020-simple,"Simple, Interpretable and Stable Method for Detecting Words with Usage Change across Corpora",False,False,True,ACL
+zhou-etal-2020-interpretable,Interpretable Operational Risk Classification with Semi-Supervised Variational Autoencoder,False,False,True,ACL
+zhong-etal-2020-interpreting,Interpreting {T}witter User Geolocation,False,False,True,ACL
+wu-etal-2020-dtca,{DTCA}: Decision Tree-based Co-Attention Networks for Explainable Claim Verification,False,False,True,ACL
+wang-etal-2020-towards,Towards Faithful Neural Table-to-Text Generation with Content-Matching Constraints,True,False,True,ACL
+maynez-etal-2020-faithfulness,On Faithfulness and Factuality in Abstractive Summarization,True,False,False,ACL
+chen-etal-2020-towards,Towards Interpretable Clinical Diagnosis with {B}ayesian Network Ensembles Stacked on Entity-Aware {CNN}s,True,False,True,ACL
+niu-etal-2020-self,A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction,False,False,False,ACL
+wu-etal-2020-perturbed,Perturbed Masking: Parameter-free Probing for Analyzing and Interpreting {BERT},True,False,True,ACL
+jacovi-goldberg-2020-towards,Towards Faithfully Interpretable {NLP} Systems: How Should We Define and Evaluate Faithfulness?,True,False,True,ACL
+mohankumar-etal-2020-towards,Towards Transparent and Explainable Attention Models,True,False,True,ACL
+deyoung-etal-2020-eraser,{ERASER}: {A} Benchmark to Evaluate Rationalized {NLP} Models,True,False,True,ACL
+jain-etal-2020-learning,{L}earning to Faithfully Rationalize by Construction,True,False,True,ACL
+durmus-etal-2020-feqa,{FEQA}: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization,True,False,True,ACL
+kennedy-etal-2020-contextualizing,Contextualizing Hate Speech Classifiers with Post-hoc Explanation,False,False,True,ACL
+hase-bansal-2020-evaluating,Evaluating Explainable {AI}: Which Algorithmic Explanations Help Users Predict Model Behavior?,True,False,True,ACL
+han-etal-2020-explaining,Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions,True,False,True,ACL
+subramanian-etal-2020-obtaining,Obtaining Faithful Interpretations from Compositional Neural Networks,True,False,True,ACL
+swanson-etal-2020-rationalizing,Rationalizing Text Matching: {L}earning Sparse Alignments via Optimal Transport,True,False,True,ACL
+ravfogel-etal-2020-null,Null It Out: Guarding Protected Attributes by Iterative Nullspace Projection,False,False,True,ACL
+rajani-etal-2020-esprit,{ESPRIT}: Explaining Solutions to Physical Reasoning Tasks,True,False,True,ACL
+zhang-etal-2020-learning-interpretable,"Learning Interpretable Relationships between Entities, Relations and Concepts via {B}ayesian Structure Learning on Open Domain Facts",False,False,True,ACL
+wang-etal-2020-rationalizing,Rationalizing Medical Relation Prediction from Corpus-level Statistics,True,False,True,ACL
+kumar-talukdar-2020-nile,{NILE} : Natural Language Inference with Faithful Natural Language Explanations,True,False,True,ACL
+rambelli-etal-2020-comparing,"Comparing Probabilistic, Distributional and Transformer-Based Models on Logical Metonymy Interpretation",False,False,False,AACL/IJCNLP
+danilevsky-etal-2020-survey,A Survey of the State of Explainable {AI} for Natural Language Processing,False,False,True,AACL/IJCNLP
+liao-etal-2020-explaining,Explaining Word Embeddings via Disentangled Representation,False,False,True,AACL/IJCNLP
+kanouchi-etal-2020-may,You May Like This Hotel Because ...: Identifying Evidence for Explainable Recommendations,False,False,True,AACL/IJCNLP

@@ -1,0 +1,4 @@
+column,n,observed_agreement,cohen_kappa,scotts_pi,pabak,krippendorff_alpha
+is_xai_interpretable,41,0.853659,0.585859,0.572917,0.707317,0.572917
+has_explanation_evaluation,41,0.804878,0.549451,0.528736,0.609756,0.528736
+has_significance_testing,41,0.780488,-0.082111,-0.123288,0.560976,-0.123288

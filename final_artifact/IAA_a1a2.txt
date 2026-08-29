@@ -1,0 +1,694 @@
+[INFO] XLSX rows after verified == TRUE filter: 594
+[INFO] CSV rows after verified == TRUE filter: 41
+[WARN] 553 XLSX IDs not found in CSV:
+  - yang-etal-2025-self
+  - liu-etal-2025-exploring
+  - guo-etal-2025-lab
+  - tayyar-madabushi-etal-2025-generative
+  - michel-etal-2025-evaluating
+  - vladika-etal-2025-step
+  - saakyan-etal-2025-understanding
+  - calderon-reichart-2025-behalf
+  - wang-etal-2025-llms-convert
+  - gao-etal-2025-interpretable
+  - tan-etal-2025-cascading
+  - lepori-etal-2025-racing
+  - chen-etal-2025-benchmarking
+  - xing-etal-2025-evaluating
+  - howard-etal-2025-uncovering
+  - li-etal-2025-mitigating-biases
+  - wan-etal-2025-positional
+  - wan-etal-2025-mamm
+  - kim-etal-2025-llm
+  - lee-etal-2025-self
+  - menta-etal-2025-analyzing
+  - yao-etal-2025-mcqg
+  - ranaldi-etal-2025-eliciting
+  - golovanevsky-etal-2025-vlms
+  - yu-etal-2025-self
+  - koupaee-etal-2025-faithful
+  - teplica-etal-2025-sciurus
+  - sohn-etal-2025-rationale
+  - chen-zeng-2025-prototype
+  - yuan-etal-2025-cross
+  - staliunaite-vlachos-2025-dis2dis
+  - qian-etal-2025-teaching
+  - fekete-bjerva-2025-linguistically
+  - luo-etal-2025-faithfulpersona
+  - pan-etal-2025-prototype
+  - muhamed-etal-2025-decoding
+  - chang-etal-2025-safr
+  - singh-etal-2025-fidelity
+  - sun-chen-2025-enhancing
+  - avitan-etal-2025-practical
+  - lu-etal-2025-tart
+  - silva-etal-2025-cdb
+  - ye-etal-2025-improving
+  - jiao-etal-2025-feasibility
+  - chu-etal-2025-rationale
+  - gai-etal-2025-medthink
+  - jing-etal-2025-scale
+  - bismay-etal-2025-reasoningrec
+  - goel-etal-2025-target
+  - udagawa-etal-2025-bias
+  - wang-etal-2025-multilingual-datasets
+  - wang-etal-2025-improving-llm
+  - shu-etal-2025-survey
+  - yu-etal-2025-structured
+  - hossain-etal-2025-toward
+  - ho-etal-2025-table
+  - ernst-etal-2025-come
+  - yan-etal-2025-towards
+  - xin-etal-2025-salamander
+  - eldifrawi-etal-2025-fingract
+  - wang-etal-2025-attribution
+  - du-etal-2025-explainable
+  - balasubramanian-etal-2025-closer
+  - zeng-etal-2025-mm
+  - peled-cohen-etal-2025-dementia
+  - li-etal-2025-influence
+  - zeng-etal-2025-residualized
+  - islam-goldwasser-2025-post
+  - long-etal-2025-finlfqa
+  - sengupta-etal-2025-investigating
+  - li-etal-2025-treble
+  - liu-chu-2025-llms
+  - cheng-etal-2025-mitigating
+  - bao-etal-2025-whos
+  - ding-etal-2025-attention
+  - wang-etal-2025-fitcf
+  - maiya-etal-2025-explaining
+  - yang-etal-2025-longfaith
+  - chu-etal-2025-domaino1s
+  - xiao-etal-2025-tokenshapley
+  - jia-etal-2025-bridging
+  - li-etal-2025-investigating
+  - huangyw-etal-2025-dynamic
+  - zhu-etal-2025-rationales
+  - jiang-etal-2025-towards-explainable
+  - sui-etal-2025-fidelis
+  - kim-etal-2025-reasoning
+  - bi-etal-2025-context
+  - li-etal-2025-towards-better
+  - tak-etal-2025-mechanistic
+  - paci-etal-2025-want
+  - beckh-etal-2025-anatomy
+  - li-etal-2025-generate
+  - salemi-etal-2025-expert
+  - shen-etal-2025-transparentize
+  - saynova-etal-2025-fact
+  - jang-etal-2025-verbosity
+  - abolghasemi-etal-2025-evaluation
+  - xu-etal-2025-diagnosing
+  - ye-etal-2025-input
+  - song-etal-2025-rationale
+  - kim-etal-2025-expert
+  - zhang-etal-2025-mprf
+  - peng-etal-2025-emotion
+  - xu-etal-2025-training
+  - diao-etal-2025-protovqa
+  - polyakov-etal-2025-interpretability
+  - wright-etal-2025-unstructured
+  - yang-etal-2025-unveiling
+  - wang-etal-2025-unleashing
+  - yan-etal-2025-trust
+  - xu-etal-2025-tree
+  - wang-etal-2025-identification
+  - cai-etal-2025-flightgpt
+  - zhang-wan-2025-r
+  - dehghanighobadi-etal-2025-llms
+  - rair-etal-2025-annotators
+  - wang-atanasova-2025-self
+  - tutek-etal-2025-measuring
+  - balagansky-etal-2025-train
+  - yeo-etal-2025-towards
+  - ong-etal-2025-deriving
+  - yang-etal-2025-faithun
+  - zhai-etal-2025-mentalglm
+  - calabrese-etal-2025-compositional
+  - storks-etal-2025-transparent
+  - wang-etal-2025-qcrd
+  - calderon-etal-2025-multi
+  - zhao-iii-2025-necessary
+  - wang-etal-2025-v
+  - tu-etal-2025-rrinf
+  - giloni-etal-2025-cair
+  - suri-etal-2025-follow
+  - liu-etal-2025-dual-path
+  - arakelyan-etal-2025-flare
+  - mayne-etal-2025-llms
+  - bhagwatkar-etal-2025-cave
+  - jing-etal-2025-lingualens
+  - malladi-etal-2025-explaining
+  - harrasse-etal-2025-tinysql
+  - yuan-etal-2025-graph
+  - zaman-srivastava-2025-causal
+  - liu-etal-2025-metafaith
+  - lewis-lim-etal-2025-analysing
+  - pulakurthi-etal-2025-x
+  - popovic-farber-2025-extractive
+  - chen-toral-2025-shortcuts
+  - alshomary-etal-2025-latent
+  - wang-etal-2025-cross
+  - tan-etal-2025-improving
+  - chu-etal-2025-towards
+  - tilli-vu-2025-discrete
+  - chen-etal-2025-faithful
+  - ferreira-etal-2025-explanation
+  - salles-etal-2025-hatebrxplain
+  - gallipoli-cagliero-2025-piece
+  - wen-etal-2025-gaprotonet
+  - zarharan-etal-2025-farexstance
+  - duan-etal-2025-unveiling
+  - fang-etal-2025-counterfactual
+  - lim-lauw-2025-interpreting
+  - ye-etal-2025-cleme2
+  - edin-etal-2025-normalized
+  - patel-etal-2025-retrieve
+  - luo-etal-2025-automating
+  - gur-arieh-etal-2025-enhancing
+  - li-etal-2025-drift
+  - lin-etal-2025-gamebot
+  - niu-etal-2025-knowledge
+  - jiang-etal-2025-enhancing
+  - hirsch-etal-2025-laquer
+  - patnaik-etal-2025-learning
+  - huang-etal-2025-improving
+  - radevski-etal-2025-synthesizing
+  - hu-etal-2025-llms
+  - quan-etal-2025-faithful
+  - azarkhalili-libbrecht-2025-generalized
+  - tang-etal-2025-cognibench
+  - chang-etal-2025-jopa
+  - li-etal-2025-decoding
+  - suri-etal-2025-chartlens
+  - li-etal-2025-decoding-graphs
+  - liang-etal-2025-colloquial
+  - ghosh-etal-2025-just
+  - min-etal-2025-understanding
+  - ma-etal-2025-visa
+  - douglas-etal-2025-less
+  - sha-lukasiewicz-2024-text
+  - zeng-gao-2024-justilm
+  - adlakha-etal-2024-evaluating
+  - aggazzotti-etal-2024-authorship
+  - guerreiro-etal-2024-xcomet
+  - honda-etal-2024-eliminate
+  - jandaghi-etal-2024-faithful-persona
+  - erk-apidianaki-2024-adjusting
+  - zhao-aletras-2024-comparing
+  - mcinerney-etal-2024-towards
+  - valvoda-cotterell-2024-towards
+  - vasileiou-eberle-2024-explaining
+  - li-chaturvedi-2024-rationale
+  - ikhwantri-etal-2024-analyzing
+  - hu-etal-2024-generator
+  - lu-etal-2024-evaluating
+  - brandl-etal-2024-evaluating
+  - zhou-etal-2024-explaining
+  - musil-marecek-2024-exploring
+  - maladry-etal-2024-human
+  - li-etal-2024-improving-faithfulness
+  - tilli-vu-2024-intrinsic
+  - cheng-etal-2024-learning
+  - kamp-etal-2024-role
+  - t-y-s-s-etal-2024-towards
+  - bayer-etal-2024-xai
+  - zhang-etal-2024-xatu
+  - qiu-etal-2024-think
+  - wei-jie-etal-2024-interpretable
+  - resck-etal-2024-exploring
+  - berchansky-etal-2024-cotar
+  - liu-etal-2024-safety
+  - li-etal-2024-diversify
+  - wojciechowski-etal-2024-faithful
+  - cheng-etal-2024-towards
+  - elazar-etal-2024-measuring
+  - luo-etal-2024-summacoz
+  - li-etal-2024-calibrating
+  - he-etal-2024-explaining
+  - mahajan-etal-2024-align
+  - stoehr-etal-2024-activation
+  - wang-etal-2024-beyond-agreement
+  - li-etal-2024-pedants
+  - barkan-etal-2024-improving
+  - barkan-etal-2024-llm
+  - fang-etal-2024-understanding
+  - si-etal-2024-denoising
+  - elaraby-etal-2024-persuasiveness
+  - nguyen-etal-2024-llms
+  - paul-etal-2024-making
+  - treviso-etal-2024-xtower
+  - sonkar-etal-2024-malalgoqa
+  - feng-etal-2024-promptexplainer
+  - zhao-etal-2024-explaining
+  - tian-etal-2024-cma
+  - leiter-etal-2024-bmx
+  - madsen-etal-2024-self
+  - jin-etal-2024-cutting
+  - qiu-etal-2024-valor
+  - li-etal-2024-data
+  - nigam-etal-2024-legal
+  - amara-etal-2024-syntaxshap
+  - agarwal-etal-2024-mememqa
+  - wei-jie-etal-2024-plausible
+  - mishra-etal-2024-characterizing
+  - fan-etal-2024-frva
+  - phukan-etal-2024-peering
+  - wang-etal-2024-x
+  - yadav-etal-2024-tox
+  - enouen-etal-2024-textgenshap
+  - li-etal-2024-evaluating-readability
+  - zhao-etal-2024-successfully
+  - zhao-etal-2024-seer
+  - yu-ananiadou-2024-neuron
+  - wu-etal-2024-dancing
+  - fisher-etal-2024-styleremix
+  - wang-etal-2024-f2rl
+  - edin-etal-2024-unsupervised
+  - xu-etal-2024-sayself
+  - qi-etal-2024-model
+  - huo-etal-2024-mmneuron
+  - yona-etal-2024-large
+  - buchmann-etal-2024-attribute
+  - wu-etal-2024-beyond
+  - wu-etal-2024-synchronous
+  - subbiah-etal-2024-storysumm
+  - jiang-etal-2024-mare
+  - brinner-zarriess-2024-rationalizing
+  - li-etal-2024-interpretable
+  - kawabata-sugawara-2024-rationale
+  - doddapaneni-etal-2024-finding
+  - saenger-etal-2024-autopersuade
+  - neo-etal-2024-interpreting
+  - ramu-etal-2024-enhancing
+  - zhai-etal-2024-towards
+  - perrella-etal-2024-beyond
+  - suresh-etal-2024-relative
+  - zhang-etal-2024-fine
+  - sachdeva-etal-2024-catfood
+  - moeller-etal-2024-approximate
+  - pastor-etal-2024-explaining
+  - lyu-etal-2024-towards
+  - chaturvedi-etal-2024-analyzing
+  - heinzerling-inui-2024-monotonic
+  - calabrese-etal-2024-explainability
+  - siegel-etal-2024-probabilities
+  - jiang-etal-2024-rora
+  - schimanski-etal-2024-towards
+  - cheng-etal-2024-interpreting
+  - slobodkin-etal-2024-attribute
+  - lee-etal-2024-fleur
+  - parcalabescu-frank-2024-measuring
+  - miao-etal-2024-discursive
+  - yu-etal-2024-revealing
+  - huang-etal-2024-ravel
+  - krichene-etal-2024-faithful
+  - li-etal-2024-focus
+  - ku-etal-2024-viescore
+  - zhao-etal-2024-tapera
+  - xu-etal-2024-faithful
+  - zhang-etal-2024-escot
+  - ramos-etal-2024-transparent
+  - arora-etal-2024-causalgym
+  - deng-etal-2024-webcites
+  - saakyan-muresan-2024-iclef
+  - ryu-2023-plausibility
+  - du-etal-2023-make
+  - madaan-etal-2023-makes
+  - reich-etal-2023-measuring
+  - jumelet-zuidema-2023-transparency
+  - chen-etal-2023-zara
+  - yang-etal-2023-hare
+  - li-etal-2023-distilling
+  - li-du-2023-leveraging
+  - mcinerney-etal-2023-chill
+  - he-etal-2023-lego
+  - zhou-etal-2023-realbehavior
+  - gu-etal-2023-iaeval
+  - rao-etal-2023-makes
+  - joshi-etal-2023-unsupervised
+  - cao-etal-2023-multi
+  - zhou-shah-2023-solvability
+  - chiesurin-etal-2023-dangers
+  - zhu-etal-2023-knowledge
+  - lin-morency-2023-sentecon
+  - lu-etal-2023-asymmetric
+  - veerubhotla-etal-2023-shot
+  - jourdan-etal-2023-cockatiel
+  - chan-etal-2023-interpretable
+  - enguehard-2023-sequential
+  - ju-etal-2023-continuous
+  - li-etal-2023-defending
+  - jukic-etal-2023-easy
+  - filandrianos-etal-2023-counterfactuals
+  - fajcik-etal-2023-claim
+  - jacovi-etal-2023-neighboring
+  - ju-etal-2023-hierarchical
+  - wagner-foster-2023-investigating
+  - govindarajan-etal-2023-counterfactual
+  - chen-etal-2023-distinguish
+  - kawabata-sugawara-2023-evaluating
+  - muller-etal-2023-evaluating
+  - chen-etal-2023-using
+  - simhi-markovitch-2023-interpreting
+  - bouyamourn-2023-llms
+  - mousi-etal-2023-llms
+  - ch-wang-etal-2023-sociocultural
+  - attanasio-etal-2023-tale
+  - jang-etal-2023-post
+  - hou-etal-2023-towards
+  - yang-etal-2023-towards
+  - kamp-etal-2023-dynamic
+  - eberle-etal-2023-rather
+  - stolfo-etal-2023-mechanistic
+  - majumder-etal-2023-interfair
+  - xu-etal-2023-dissonance
+  - nandwani-etal-2023-pointwise
+  - wang-etal-2023-goal
+  - zhang-etal-2023-famesumm
+  - jia-etal-2023-zero
+  - briakou-etal-2023-explaining
+  - yue-etal-2023-interventional
+  - xu-etal-2023-vechr
+  - choudhury-etal-2023-explaining
+  - burger-etal-2023-explanations
+  - wang-etal-2023-coffee
+  - menon-etal-2023-mantle
+  - fanconi-etal-2023-reads
+  - tu-etal-2023-training
+  - moeller-etal-2023-attribution
+  - zhao-etal-2023-hop
+  - wang-etal-2023-extracting
+  - zhao-etal-2023-loft
+  - krishna-etal-2023-longeval
+  - modarressi-etal-2023-guide
+  - dai-etal-2023-plausible
+  - held-yang-2023-shapley
+  - hayati-etal-2023-stylex
+  - rashkin-etal-2023-measuring
+  - atanasova-etal-2023-faithfulness
+  - steen-etal-2023-little
+  - zhang-etal-2023-safeconv
+  - cheng-etal-2023-explainable
+  - chen-etal-2023-rev
+  - zhang-etal-2023-extractive
+  - modarressi-etal-2023-decompx
+  - parcalabescu-frank-2023-mm
+  - zhao-aletras-2023-incorporating
+  - ferrando-etal-2023-explaining
+  - tang-etal-2023-daam
+  - huang-etal-2023-zero
+  - zhang-etal-2023-interpretable
+  - joshi-etal-2023-machine
+  - singh-etal-2023-peeking
+  - wu-etal-2023-ad
+  - yang-etal-2023-efficient
+  - yang-etal-2023-local
+  - ladhak-etal-2023-contrastive
+  - du-etal-2023-generalizing
+  - storek-etal-2023-unsupervised
+  - ma-etal-2023-bump
+  - kim-etal-2023-explainmeetsum
+  - liscio-etal-2023-text
+  - treviso-etal-2023-crest
+  - sajjad-etal-2022-neuron
+  - dziri-etal-2022-faithdial
+  - modarressi-etal-2022-globenc
+  - sullivan-etal-2022-explaining
+  - sridhar-yang-2022-explaining
+  - wang-etal-2022-rely
+  - khashabi-etal-2022-prompt
+  - chen-etal-2022-rationalization
+  - khalid-lee-2022-explaining
+  - yamada-etal-2022-annotation
+  - prouteau-etal-2022-embedding
+  - luo-surdeanu-2022-step
+  - bhattarai-etal-2022-explainable
+  - liu-etal-2022-improve
+  - jain-etal-2022-influence
+  - el-zini-awad-2022-beyond
+  - madsen-etal-2022-evaluating
+  - lee-goldwasser-2022-towards
+  - palaskar-etal-2022-advances
+  - geng-etal-2022-inducing
+  - he-etal-2022-controlling
+  - sun-etal-2022-investigating
+  - fang-zhang-2022-data
+  - li-etal-2022-using
+  - ronnqvist-etal-2022-explaining
+  - carton-etal-2022-learn
+  - zhan-etal-2022-mitigating
+  - zhang-etal-2022-interpreting
+  - fomicheva-etal-2022-translation
+  - yin-neubig-2022-interpreting
+  - bastings-etal-2022-will
+  - zaman-belinkov-2022-multilingual
+  - tafjord-etal-2022-entailer
+  - mcinerney-etal-2022-thats
+  - stacey-etal-2022-logical
+  - wang-etal-2022-analyzing
+  - wu-etal-2022-precisely
+  - liu-etal-2022-rlet
+  - chemmengath-etal-2022-cat
+  - ross-etal-2022-self
+  - jain-etal-2022-extending
+  - aglionby-teufel-2022-faithful
+  - jiang-etal-2022-im2
+  - udomcharoenchaikit-etal-2022-mitigating
+  - bashier-etal-2022-locally
+  - ge-etal-2022-e
+  - yang-etal-2022-coarse
+  - lymperaiou-etal-2022-towards
+  - kim-etal-2022-hate
+  - yan-etal-2022-hierarchical
+  - shen-etal-2022-shortest
+  - tolkachev-etal-2022-counterfactual
+  - geng-etal-2022-improving
+  - sanyal-etal-2022-fairr
+  - ladhak-etal-2022-faithful
+  - yin-etal-2022-sensitivity
+  - das-etal-2022-prototex
+  - gupta-etal-2022-right
+  - ju-etal-2022-logic
+  - lee-etal-2022-toward
+  - liu-etal-2022-mpii
+  - kaneko-etal-2022-interpretability
+  - mosca-etal-2022-suspicious
+  - pham-etal-2022-double
+  - van-aken-etal-2022-patient
+  - elazar-etal-2021-amnesic
+  - jacovi-goldberg-2021-aligning
+  - lamm-etal-2021-qed
+  - chalkidis-etal-2021-paragraph
+  - du-etal-2021-towards
+  - saha-etal-2021-multiprover
+  - doogan-buntine-2021-topic
+  - zhang-etal-2021-double
+  - chen-etal-2021-explaining
+  - ding-koehn-2021-evaluating
+  - kokalj-etal-2021-bert
+  - zhang-etal-2021-noahqa-numerical
+  - dawkins-2021-marked
+  - rajagopal-etal-2021-selfexplain
+  - jacovi-etal-2021-contrastive
+  - situ-etal-2021-lifelong
+  - ju-etal-2021-enhancing
+  - lakhotia-etal-2021-fid
+  - ye-etal-2021-connecting
+  - jayaram-allaway-2021-human
+  - fern-pope-2021-text
+  - guerreiro-martins-2021-spectra
+  - dalvi-etal-2021-explaining
+  - chrysostomou-aletras-2021-enjoy
+  - lv-etal-2021-multi
+  - kaster-etal-2021-global
+  - wiegreffe-etal-2021-measuring
+  - sanyal-ren-2021-discretized
+  - vafa-etal-2021-rationales
+  - guo-etal-2021-fastif
+  - bhat-etal-2021-self
+  - opitz-frank-2021-towards
+  - moradi-etal-2021-measuring
+  - feder-etal-2021-causalm
+  - agarwal-etal-2021-interpretability
+  - meister-etal-2021-sparse
+  - wu-etal-2021-unified
+  - yang-etal-2021-exploring
+  - chrysostomou-aletras-2021-improving
+  - rashkin-etal-2021-increasing
+  - sikdar-etal-2021-integrated
+  - du-etal-2021-excar
+  - chen-etal-2021-kace
+  - pugoy-kao-2021-unsupervised
+  - jiang-etal-2021-alignment
+  - zhang-etal-2021-sample
+  - huang-etal-2021-exploring
+  - aralikatte-etal-2021-focus
+  - wu-etal-2021-polyjuice
+  - xu-durrett-2021-dissecting
+  - onoe-durrett-2020-interpretable
+  - filippova-2020-controlled
+  - feng-etal-2020-explainable
+  - paranjape-etal-2020-information
+  - weng-etal-2020-towards
+  - kim-etal-2020-interpretation
+  - ramnath-etal-2020-towards
+  - de-cao-etal-2020-decisions
+  - atanasova-etal-2020-diagnostic
+  - chen-ji-2020-learning
+  - zeng-etal-2020-counterfactual
+  - kotonya-toni-2020-explainable-automated
+  - kotonya-toni-2020-explainable
+  - yang-etal-2020-generating
+  - wang-etal-2020-towards
+  - chen-etal-2020-towards
+  - wu-etal-2020-perturbed
+  - jacovi-goldberg-2020-towards
+  - deyoung-etal-2020-eraser
+  - jain-etal-2020-learning
+  - durmus-etal-2020-feqa
+  - hase-bansal-2020-evaluating
+  - han-etal-2020-explaining
+  - subramanian-etal-2020-obtaining
+  - rajani-etal-2020-esprit
+  - wang-etal-2020-rationalizing
+  - kumar-talukdar-2020-nile
+[INFO] Matched rows: 41
+
+============================================================
+[COLUMN] has_explanation_evaluation
+  CSV  TRUE rate : 0.610  (25/41)
+  XLSX TRUE rate : 0.805  (33/41)
+  Observed agreement            : 0.805 (33/41)
+  Expected agreement (by chance): 0.567
+  => Kappa = (obs-exp)/(1-exp) = (0.805-0.567)/(1-0.567)
+  => PABAK = 2*obs-1 = 2*0.805-1 (ignores prevalence skew)
+
+  Confusion matrix:
+XLSX  0   1
+CSV        
+0     8   8
+1     0  25
+
+  Disagreements (8):
+                                   id  has_explanation_evaluation_csv  has_explanation_evaluation_xlsx
+                saha-etal-2020-prover                               0                                1
+robeer-etal-2021-generating-realistic                               0                                1
+             marasovic-etal-2022-shot                               0                                1
+              zhang-etal-2022-locally                               0                                1
+               zhou-etal-2023-context                               0                                1
+           wang-xie-2023-constructing                               0                                1
+            wu-etal-2023-transparency                               0                                1
+           chang-etal-2024-explaining                               0                                1
+
+============================================================
+[COLUMN] is_xai_interpretable
+  CSV  TRUE rate : 0.707  (29/41)
+  XLSX TRUE rate : 0.854  (35/41)
+  Observed agreement            : 0.854 (35/41)
+  Expected agreement (by chance): 0.647
+  => Kappa = (obs-exp)/(1-exp) = (0.854-0.647)/(1-0.647)
+  => PABAK = 2*obs-1 = 2*0.854-1 (ignores prevalence skew)
+
+  Confusion matrix:
+XLSX  0   1
+CSV        
+0     6   6
+1     0  29
+
+  Disagreements (6):
+                        id  is_xai_interpretable_csv  is_xai_interpretable_xlsx
+     saha-etal-2020-prover                         0                          1
+  marasovic-etal-2022-shot                         0                          1
+   zhang-etal-2022-locally                         0                          1
+    zhou-etal-2023-context                         0                          1
+ wu-etal-2023-transparency                         0                          1
+chang-etal-2024-explaining                         0                          1
+
+============================================================
+[COLUMN] has_significance_testing
+  CSV  TRUE rate : 0.171  (7/41)
+  XLSX TRUE rate : 0.049  (2/41)
+  Observed agreement            : 0.780 (32/41)
+  Expected agreement (by chance): 0.797
+  => Kappa = (obs-exp)/(1-exp) = (0.780-0.797)/(1-0.797)
+  => PABAK = 2*obs-1 = 2*0.780-1 (ignores prevalence skew)
+
+  Confusion matrix:
+XLSX   0  1
+CSV        
+0     32  2
+1      7  0
+
+  Disagreements (9):
+                                   id  has_significance_testing_csv  has_significance_testing_xlsx
+               sen-etal-2020-learning                             1                              0
+         mohankumar-etal-2020-towards                             1                              0
+   han-tsvetkov-2021-influence-tuning                             0                              1
+robeer-etal-2021-generating-realistic                             0                              1
+     fu-etal-2021-decomposing-complex                             1                              0
+       sen-etal-2021-counterfactually                             1                              0
+          luo-etal-2022-interpretable                             1                              0
+      pezeshkpour-etal-2022-combining                             1                              0
+            thayaparan-etal-2022-diff                             1                              0
+
+============================================================
+[PER-ROW] Agreement per paper across all columns:
+  shnarch-etal-2020-unsupervised: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  pruthi-etal-2020-weakly: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  glockner-etal-2020-think: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  rajagopal-etal-2020-ask: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  swanson-etal-2020-rationalizing: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  sen-etal-2020-learning: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=1 xlsx=0)
+  mohankumar-etal-2020-towards: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=1 xlsx=0)
+  saha-etal-2020-prover: has_explanation_evaluation: ✘(csv=0 xlsx=1) | is_xai_interpretable: ✘(csv=0 xlsx=1) | has_significance_testing: ✔
+  ferrando-costa-jussa-2021-attention-weights: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  han-tsvetkov-2021-influence-tuning: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  robeer-etal-2021-generating-realistic: has_explanation_evaluation: ✘(csv=0 xlsx=1) | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=0 xlsx=1)
+  fu-etal-2021-decomposing-complex: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=1 xlsx=0)
+  pezeshkpour-etal-2021-empirical: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wu-etal-2021-counterfactual: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zhu-etal-2021-faithfully: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  sen-etal-2021-counterfactually: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=1 xlsx=0)
+  marasovic-etal-2022-shot: has_explanation_evaluation: ✘(csv=0 xlsx=1) | is_xai_interpretable: ✘(csv=0 xlsx=1) | has_significance_testing: ✔
+  luo-etal-2022-interpretable: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=1 xlsx=0)
+  pezeshkpour-etal-2022-combining: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=1 xlsx=0)
+  zhang-etal-2022-improving-faithfulness: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  dziri-etal-2022-evaluating: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  thayaparan-etal-2022-diff: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✘(csv=1 xlsx=0)
+  zhang-etal-2022-locally: has_explanation_evaluation: ✘(csv=0 xlsx=1) | is_xai_interpretable: ✘(csv=0 xlsx=1) | has_significance_testing: ✔
+  balkir-etal-2022-necessity: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  brinner-zarriess-2023-model: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  zhou-etal-2023-context: has_explanation_evaluation: ✘(csv=0 xlsx=1) | is_xai_interpretable: ✘(csv=0 xlsx=1) | has_significance_testing: ✔
+  wang-xie-2023-constructing: has_explanation_evaluation: ✘(csv=0 xlsx=1) | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  jiang-etal-2020-cold: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  carton-etal-2020-evaluating: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  bursztyn-etal-2021-doesnt: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  chan-etal-2022-comparative: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  cambria-etal-2022-senticnet: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  yue-etal-2023-automatic: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  wu-etal-2023-transparency: has_explanation_evaluation: ✘(csv=0 xlsx=1) | is_xai_interpretable: ✘(csv=0 xlsx=1) | has_significance_testing: ✔
+  wan-etal-2023-faithfulness: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  qu-etal-2024-unsupervised: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  gu-etal-2024-digital: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  chang-etal-2024-explaining: has_explanation_evaluation: ✘(csv=0 xlsx=1) | is_xai_interpretable: ✘(csv=0 xlsx=1) | has_significance_testing: ✔
+  ping-etal-2025-longdpo: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  alipoormolabashi-etal-2025-quantifying: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+  jeon-etal-2025-sali4vid: has_explanation_evaluation: ✔ | is_xai_interpretable: ✔ | has_significance_testing: ✔
+
+============================================================
+[RESULTS]
+
+  NOTE: Cohen's kappa can be 0 or negative when label prevalence is heavily
+  skewed (e.g. mostly TRUE or mostly FALSE). In such cases, PABAK is the
+  recommended metric as it adjusts for prevalence imbalance.
+  Interpretation: <0.20 slight, 0.21-0.40 fair, 0.41-0.60 moderate,
+                  0.61-0.80 substantial, >0.80 almost perfect
+
+                    column  n  observed_agreement  cohen_kappa  scotts_pi    pabak  krippendorff_alpha
+has_explanation_evaluation 41            0.804878     0.549451   0.528736 0.609756            0.528736
+      is_xai_interpretable 41            0.853659     0.585859   0.572917 0.707317            0.572917
+  has_significance_testing 41            0.780488    -0.082111  -0.123288 0.560976           -0.123288
+
+Saved: output/agreement_fd_v2_results.csv
