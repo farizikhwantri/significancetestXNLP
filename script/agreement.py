@@ -123,6 +123,11 @@ def main():
     parser.add_argument("--sheet", required=True, help="Sheet name in XLSX")
     parser.add_argument("--id-col", default="id", help="ID column used to match rows (default: id)")
     parser.add_argument("--verified-col", default="verified", help="Verified column in XLSX (default: verified)")
+    parser.add_argument(
+        "--csv-verified-true",
+        action="store_true",
+        help="If set, keep only CSV rows where verified == TRUE",
+    )
     parser.add_argument("--out", default="", help="Optional output CSV for results")
     args = parser.parse_args()
 
@@ -143,6 +148,17 @@ def main():
     df_xlsx = df_xlsx[df_xlsx[verified_xlsx].astype(str).str.strip().str.upper() == "TRUE"].copy()
     df_xlsx = df_xlsx.reset_index(drop=False)
     print(f"[INFO] XLSX rows after {verified_xlsx} == TRUE filter: {len(df_xlsx)}")
+
+    # ── Optional CSV filter by verified == TRUE ───────────────────────────────
+    if args.csv_verified_true:
+        verified_csv = csv_cols_norm.get(verified_norm)
+        if not verified_csv:
+            print(f"[ERROR] Verified column '{args.verified_col}' not found in CSV.", file=sys.stderr)
+            sys.exit(1)
+        df_csv = df_csv[df_csv[verified_csv].astype(str).str.strip().str.upper() == "TRUE"].copy()
+        print(f"[INFO] CSV rows after {verified_csv} == TRUE filter: {len(df_csv)}")
+    else:
+        print("[INFO] CSV verified filter disabled (use --csv-verified-true to enable)")
 
     # ── Resolve ID column ─────────────────────────────────────────────────────
     id_norm = norm_col(args.id_col)
