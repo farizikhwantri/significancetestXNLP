@@ -208,7 +208,7 @@ __marimo__/
 
 data/
 papers/
-*.pdf
+# *.pdf
 
 output/*
 papers/*
