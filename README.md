@@ -1,125 +1,79 @@
 # significancetestXNLP
 
-A collection of tools for NLP research, including a paper crawler for ACL Anthology.
+This project implements a multi-stage review pipeline for identifying XAI papers that evaluate explanations and checking whether they report statistical significance testing.
 
-## Features
+## Pipeline overview
 
-### ACL Anthology Paper Crawler
+Stage 1: Initial filtering
 
-Download papers from [ACL Anthology](https://aclanthology.org/) using bibtex entries, URLs, or anthology IDs.
+- Uses `filter.sh`
+- Performs the first pass filtering of candidate papers
 
-## Installation
+Stage 2: LLM-based classification
 
-1. Clone the repository:
+- Uses `script/llm_classify_xai_eval.py`
+- Uses `script/llm_classify_pdf_sig.py`
+- Identifies:
+  - papers about XAI / interpretable AI
+  - papers that evaluate explanations
+  - papers that report significance testing
 
-```bash
-git clone <Repository-URL>
-cd significancetestXNLP
-```
+Stage 3 and 4: Conference filtering
 
-1. Install dependencies:
+- Uses `filter_mainconf.py`
+- Applies conference-level filtering logic after the LLM stage
 
-```bash
-pip install -r requirements.txt
-```
+Stage 5: Manual review
 
-## Usage
+- Final output of systematic review is done manually
 
-### ACL Paper Crawler
+## Supporting tools
 
-The `acl_paper_crawler.py` script provides multiple ways to download papers from ACL Anthology:
+These are not part of the main filtering pipeline itself, but support the review workflow:
 
-#### 1. Download from BibTeX file
+- `acl_paper_crawler.py`
+  - downloads papers from ACL Anthology
 
-```bash
-python acl_paper_crawler.py --input papers.bib --output downloaded_papers/
-```
+- `script/sample_by_group.py`
+  - takes a sample from Stage 2 results for reannotation by the senior author
+  - used to create a balanced set for manual agreement checks
 
-#### 2. Download from URLs
+- Agreement-related scripts / analyses
+  - compute human-LLM or human-human agreement metrics
+  - not part of the paper selection pipeline itself
 
-```bash
-python acl_paper_crawler.py --urls "https://aclanthology.org/2020.acl-main.1/,https://aclanthology.org/N19-1423/" --output papers/
-```
+## Repository layout
 
-#### 3. Download from Anthology IDs
+- `filter.sh`
+  - Stage 1 filtering
 
-```bash
-python acl_paper_crawler.py --ids "2020.acl-main.1,N19-1423,P17-1001" --output papers/
-```
+- `filter_mainconf.py`
+  - Stage 3/4 conference filtering
 
-#### 4. Combine multiple sources
+- `script/llm_classify_xai_eval.py`
+  - LLM classification of XAI / explanation evaluation
 
-```bash
-python acl_paper_crawler.py --input papers.bib --urls "https://aclanthology.org/2021.emnlp-main.1/" --output papers/
-```
+- `script/llm_classify_pdf_sig.py`
+  - PDF-based LLM classification for significance testing
 
-### Command-line Options
+- `script/sample_by_group.py`
+  - sampling for reannotation and agreement review
 
-- `--input, -i`: Path to bibtex file containing papers to download
-- `--urls, -u`: Comma-separated list of ACL Anthology URLs
-- `--ids`: Comma-separated list of ACL Anthology IDs
-- `--output, -o`: Output directory for downloaded papers (default: `papers/`)
-- `--delay, -d`: Delay between downloads in seconds (default: 1.0)
+- `acl_paper_crawler.py`
+  - supporting paper acquisition
 
-### Example with Sample File
+## Main review flow
 
-A sample bibtex file (`example_papers.bib`) is provided. Try it:
+1. Run Stage 1 filtering with `filter.sh`
+2. Run Stage 2 LLM classification:
+   - XAI evaluation detection
+   - significance testing detection
+3. Apply Stage 3/4 conference filtering with `filter_mainconf.py`
+4. Perform Stage 5 manual review
+5. Use sampled reannotation sets for senior-author review and agreement measurement
 
-```bash
-python acl_paper_crawler.py --input example_papers.bib --output papers/
-```
+## Notes
 
-## BibTeX Format
-
-The crawler can extract anthology IDs from bibtex entries in several ways:
-
-1. **From URL field**: Extracts anthology ID from `url` field
-
-```bibtex
-@inproceedings{example2020,
-    title = "Example Paper",
-    url = "https://aclanthology.org/2020.acl-main.1/",
-    ...
-}
-```
-
-1. **From DOI field**: Extracts anthology ID from `doi` field
-
-```bibtex
-@inproceedings{example2020,
-    title = "Example Paper",
-    doi = "10.18653/v1/2020.acl-main.1",
-    ...
-}
-```
-
-1. **From citation key**: Uses the citation key if it matches anthology ID pattern
-
-```bibtex
-@inproceedings{2020.acl-main.1,
-    title = "Example Paper",
-    ...
-}
-```
-
-## Summary of Features
-
-- **Multiple input formats**: Support for bibtex files, URLs, and anthology IDs
-- **Respectful crawling**: Built-in delays between downloads to avoid overwhelming the server
-- **Smart filename generation**: Uses paper titles in filenames when available
-- **Skip existing files**: Automatically skips already downloaded papers
-- **Robust error handling**: Continues downloading even if some papers fail
-- **Progress tracking**: Shows download progress with statistics
-
-## Requirements
-
-- Python 3.6+
-- requests library
-
-## License
-
-See [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
+- `sample_by_group.py` is not a primary pipeline stage.
+- It is a support tool for reannotation sampling.
+- Agreement analysis is separate from the paper selection pipeline and is used to measure annotation quality and consistency.
